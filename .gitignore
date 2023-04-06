@@ -3,6 +3,8 @@ screenshots/
 *.exe
 *.log
 *.chromedriver
+.gitignore.bak
+IFSC Climbers.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
