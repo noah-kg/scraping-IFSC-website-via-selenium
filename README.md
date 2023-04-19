@@ -22,13 +22,14 @@ This project scrapes ONLY the IFSC World Cup competitions from 2007-present day.
 * Merges data into dataframes for some basic analysis
   * Individual climber dataframe
   * Country dataframe
+  * Dataframes to identify top climbers by year and by country.
 * Scraper class is in its own separate file, and the analysis is also in it's own separate file.
 
 ## To-Do List
 * Implement a more thorough analysis of the data
   * ~~Possibly perform that analysis in a separate notebook?~~ - DONE
-  * Include competition year in dataframe to allow time-based analysis
-* Add docstrings to all functions
+  * ~~Include competition year in dataframe to allow time-based analysis~~ - DONE
+* ~~Add docstrings to all functions~~ - DONE
 * Work on some static visualizations
   * Possibly create some Tableau dashboards for more interactivity
   * Plotly visualizations?
