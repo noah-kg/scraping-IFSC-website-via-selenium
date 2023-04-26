@@ -14,23 +14,31 @@ This project scrapes ONLY the IFSC World Cup competitions from 2007-present day.
 * Learn how to use [Selenium](https://www.selenium.dev/) to both scrape the [International Federation of Sport Climbing](https://www.ifsc-climbing.org/) website as well as navigate it
 * Exploratory Data Analysis
 * Improve/practice my Python programming as well as my data storytelling
+* Learn how to use GitHub Pages/Actions to better display the results of the notebook instead of all the code inside
 
 ## Current Status
 * Implemented a class to navigate and scrape the [results page](https://www.ifsc-climbing.org/index.php/world-competition/last-result) of the IFSC site
 * Stores and tracks all events that have been scraped - creating separate .csv files for each category (Men/Women)
 * Additionally scrapes the [IFSC Info](https://ifsc.results.info/#/) page (which is strangely hard to find?) to get the heights of climbers - though only about 10-15% of all climber's heights are actually listed
+* Basic analysis for Men's bouldering only
 * Merges data into dataframes for some basic analysis
   * Individual climber dataframe
   * Country dataframe
   * Dataframes to identify top climbers by year and by country.
 * Scraper class is in its own separate file, and the analysis is also in it's own separate file.
+* Have implemented several plotly visualizations to make notebook more interactive
 
 ## To-Do List
-* Implement a more thorough analysis of the data
+* Implement a more thorough analysis of the data - IN PROGRESS
   * ~~Possibly perform that analysis in a separate notebook?~~ - DONE
   * ~~Include competition year in dataframe to allow time-based analysis~~ - DONE
+  * ~~Distribution of climbers by country~~ - DONE
+  * ~~Individual finals appearances over time~~ - DONE
 * ~~Add docstrings to all functions~~ - DONE
 * Work on some static visualizations
-  * Possibly create some Tableau dashboards for more interactivity
-  * Plotly visualizations?
+  * Possibly create some Tableau dashboards for more interactivity - MAYBE (focusing on plotly for now)
+  * Plotly visualizations? - IN PROGRESS
+    * Continuing to learn and add plotly choropleth, bar, line, and heatmap graphs
+* Add Women's analysis
+* Combine Men's & Women's to look at *ALL* climbers simultaneously?
 * Possibly learn how to implement [GitHub Actions](https://github.com/features/actions)?
