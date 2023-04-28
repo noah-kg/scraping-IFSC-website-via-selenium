@@ -53,7 +53,7 @@ jobs:
       - name: Convert Notebook to HTML
         # run: docker run -v $PWD/docs:/app/docs mycontainer make convert
         # run: docker run -v $PWD:/app/docs ifsc make convert
-        run: docker run -v ${{ secrets.DOCKERHUB_USERNAME }}/ifsc:latest:/app/docs ifsc make convert
+        run: docker run -v ${{ secrets.DOCKERHUB_USERNAME }}/ifsc/app/docs ifsc make convert
 
       # - name: List files in the docs folder
       #   run: |
