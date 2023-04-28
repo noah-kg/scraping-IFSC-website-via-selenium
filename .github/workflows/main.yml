@@ -34,7 +34,3 @@ jobs:
       
       - name: Build Docker image
         run: docker build -t mycontainer . -f Dockerfile
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo "Hello, world!"
