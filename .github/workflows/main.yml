@@ -23,6 +23,8 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
+      
+      - name: Docker Layer Caching
         uses: satackey/action-docker-layer-caching@v0.0.11
         # Ignore the failure of a step and avoid terminating the job.
         continue-on-error: true
