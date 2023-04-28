@@ -16,13 +16,6 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Hopefully this stops the warnings
-      - name: Save State
-        run: echo "{name}={value}" >> $GITHUB_STATE
-
-      - name: Set Output
-        run: echo "{name}={value}" >> $GITHUB_OUTPUT
-
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Check out the repository
         uses: actions/checkout@v3
@@ -44,6 +37,13 @@ jobs:
       # Try to implement Docker caching
       - name: Configure Docker Buildx
         uses: docker/setup-buildx-action@v1
+
+      # Hopefully this stops the warnings
+      - name: Save State
+        run: echo "{name}={value}" >> $GITHUB_STATE
+
+      - name: Set Output
+        run: echo "{name}={value}" >> $GITHUB_OUTPUT
 
       - name: Build Docker Image
         uses: docker/build-push-action@v2
