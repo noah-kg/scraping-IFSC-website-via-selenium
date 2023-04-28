@@ -43,8 +43,9 @@ jobs:
           tags: mycontainer
       
       # Converts
-      # - name: Convert notebook
-      #   run: docker run -v $PWD/docs:/app/docs mycontainer make convert
+      - name: Convert Notebook to HTML
+        # run: docker run -v $PWD/docs:/app/docs mycontainer make convert
+        run: docker run -v $PWD:/app/docs mycontainer make convert
 
       - name: List files in the docs folder
         run: |
