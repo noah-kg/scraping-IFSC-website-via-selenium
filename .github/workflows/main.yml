@@ -49,14 +49,18 @@ jobs:
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/ifsc:latest
       
+      # - name: Try to display things
+      - name: try to Build docker images the other way
+        run: docker build -t ifsc . -f Dockerfile
+
       # Converts
-      - name: Convert Notebook to HTML
+      # - name: Convert Notebook to HTML
         # run: docker run -v $PWD/docs:/app/docs mycontainer make convert
         # run: docker run -v $PWD:/app/docs ifsc make convert
-        run: docker run -v ${{ secrets.DOCKERHUB_USERNAME }}/ifsc/app/docs ifsc make convert
+        # run: docker run -v ${{ secrets.DOCKERHUB_USERNAME }}/ifsc/app/docs ifsc make convert
 
-      # - name: List files in the docs folder
-      #   run: |
-      #     ls docs
+      - name: List files in the docs folder
+        run: |
+          ls docs
       # - name: Build Docker image
       #   run: docker build -t mycontainer . -f Dockerfile
