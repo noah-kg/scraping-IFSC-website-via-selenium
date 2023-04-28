@@ -50,8 +50,8 @@ jobs:
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/ifsc:latest
       
       # - name: Try to display things
-      - name: try to Build docker images the other way
-        run: docker build -t ifsc . -f Dockerfile
+      - name: try to convert
+        run: docker run -it -v ${PWD}/docs:/app/docs ifsc make convert
 
       # Converts
       # - name: Convert Notebook to HTML
