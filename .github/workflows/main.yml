@@ -50,9 +50,12 @@ jobs:
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/ifsc:latest
       
       - name: Try to display things
-        run: echo "${PWD}"
-      # - name: try to convert
-        # run: docker run -it -v ${PWD}/docs:/app/docs ifsc make convert
+      #   run: echo "${PWD}" #/home/runner/work/scraping-IFSC-website-via-selenium/scraping-IFSC-website-via-selenium
+        run: docker exec ifsc pwd
+
+      # - name: Try to create subdir and convert
+      #   run: |
+      #     docker run -v ${PWD}/docs:/app/docs ifsc make convert
 
       # Converts
       # - name: Convert Notebook to HTML
