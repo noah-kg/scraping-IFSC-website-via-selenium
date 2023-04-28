@@ -37,10 +37,11 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           context: .
+          target: mycontainer
           cache-from: type=gha
           cache-to: type=gha,mode=max
           file: ./Dockerfile
-          tags: mycontainer
+          tags: mycontainer:latest
       
       # Converts
       - name: Convert Notebook to HTML
