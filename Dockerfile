@@ -1,4 +1,4 @@
-FROM python:3.10.2
+FROM python:3.10-buster
 LABEL author="Noah Gampe"
 LABEL email="noah.gampe@gmail.com"
 
