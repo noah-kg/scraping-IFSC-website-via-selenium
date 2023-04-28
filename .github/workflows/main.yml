@@ -28,11 +28,6 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
-      
-      # - name: Docker Layer Caching
-      #   uses: satackey/action-docker-layer-caching@v0.0.11
-      #   # Ignore the failure of a step and avoid terminating the job.
-      #   continue-on-error: true
 
       # Try to implement Docker caching
       - name: Configure Docker Buildx
@@ -44,6 +39,14 @@ jobs:
           context: .
           cache-from: type=gha
           cache-to: type=gha,mode=max
+          tags: mycontainer
       
+      # Converts
+      - name: Convert notebook
+        run: docker run -v $PWD/docs:/app/docs mycontainer make convert
+
+      - name: List files in the docs folder
+        run: |
+          ls docs
       # - name: Build Docker image
       #   run: docker build -t mycontainer . -f Dockerfile
