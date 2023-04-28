@@ -47,7 +47,7 @@ jobs:
           cache-to: type=gha,mode=max
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/scraping-IFSC-website-via-selenium:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/ifsc:latest
       
       # Converts
       - name: Convert Notebook to HTML
