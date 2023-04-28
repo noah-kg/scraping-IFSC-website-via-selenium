@@ -51,7 +51,7 @@ jobs:
       
       - name: Try to display things
       #   run: echo "${PWD}" #/home/runner/work/scraping-IFSC-website-via-selenium/scraping-IFSC-website-via-selenium
-        run: docker ps # ID: a166cc5a30c9 NAME: buildx_buildkit_builder-42b3ad29-6b22-4a8a-b96d-7639ef2fddbe0
+        # run: docker ps # ID: a166cc5a30c9 NAME: buildx_buildkit_builder-42b3ad29-6b22-4a8a-b96d-7639ef2fddbe0
         run: docker images
         # run: docker exec ifsc pwd
 
