@@ -1,0 +1,878 @@
+--2022_april_ifsc_climbing_world_cup_meiringen_[sui]_boulder_men.csv
+--2022_april_ifsc_climbing_world_cup_meiringen_[sui]_boulder_women.csv
+IFSC - Climbing World Cup (B) - Meiringen (SUI) 2022
+--2022_may_ifsc_climbing_world_cup_seoul_[kor]_boulder_men.csv
+--2022_may_ifsc_climbing_world_cup_seoul_[kor]_boulder_women.csv
+--2022_may_ifsc_climbing_world_cup_seoul_[kor]_speed_men.csv
+--2022_may_ifsc_climbing_world_cup_seoul_[kor]_speed_women.csv
+IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022
+--2022_may_ifsc_climbing_world_cup_salt_lake_city_[usa]_boulder_men.csv
+--2022_may_ifsc_climbing_world_cup_salt_lake_city_[usa]_boulder_women.csv
+--2022_may_ifsc_climbing_world_cup_salt_lake_city_[usa]_speed_men.csv
+--2022_may_ifsc_climbing_world_cup_salt_lake_city_[usa]_speed_women.csv
+IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022
+--2022_may_ifsc_climbing_world_cup_salt_lake_city_[usa]_boulder_men2.csv
+--2022_may_ifsc_climbing_world_cup_salt_lake_city_[usa]_boulder_women2.csv
+--2022_may_ifsc_climbing_world_cup_salt_lake_city_[usa]_speed_men2.csv
+--2022_may_ifsc_climbing_world_cup_salt_lake_city_[usa]_speed_women2.csv
+--2022_june_ifsc_climbing_world_cup_brixen_[ita]_boulder_men.csv
+--2022_june_ifsc_climbing_world_cup_brixen_[ita]_boulder_women.csv
+IFSC - Climbing World Cup (B) - Brixen (ITA) 2022
+--2022_june_ifsc_climbing_world_cup_innsbruck_[aut]_boulder_men.csv
+--2022_june_ifsc_climbing_world_cup_innsbruck_[aut]_boulder_women.csv
+--2022_june_ifsc_climbing_world_cup_innsbruck_[aut]_lead_men.csv
+--2022_june_ifsc_climbing_world_cup_innsbruck_[aut]_lead_women.csv
+IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022
+--2022_july_ifsc_climbing_world_cup_villars_[sui]_lead_men.csv
+--2022_july_ifsc_climbing_world_cup_villars_[sui]_lead_women.csv
+--2022_july_ifsc_climbing_world_cup_villars_[sui]_speed_men.csv
+--2022_july_ifsc_climbing_world_cup_villars_[sui]_speed_women.csv
+IFSC - Climbing World Cup (L,S) - Villars (SUI) 2022
+--2022_july_ifsc_climbing_world_cup_chamonix_[fra]_lead_men.csv
+--2022_july_ifsc_climbing_world_cup_chamonix_[fra]_lead_women.csv
+--2022_july_ifsc_climbing_world_cup_chamonix_[fra]_speed_men.csv
+--2022_july_ifsc_climbing_world_cup_chamonix_[fra]_speed_women.csv
+IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022
+--2022_july_ifsc_climbing_world_cup_briançon_[fra]_lead_men.csv
+--2022_july_ifsc_climbing_world_cup_briançon_[fra]_lead_women.csv
+IFSC - Climbing World Cup (L) - Briançon (FRA) 2022
+--2022_september_ifsc_climbing_world_cup_koper_[slo]_lead_men.csv
+--2022_september_ifsc_climbing_world_cup_koper_[slo]_lead_women.csv
+IFSC - Climbing World Cup (L) - Koper (SLO) 2022
+--2022_september_ifsc_climbing_world_cup_edinburgh_[gbr]_lead_men.csv
+--2022_september_ifsc_climbing_world_cup_edinburgh_[gbr]_lead_women.csv
+--2022_september_ifsc_climbing_world_cup_edinburgh_[gbr]_speed_men.csv
+--2022_september_ifsc_climbing_world_cup_edinburgh_[gbr]_speed_women.csv
+IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022
+--2022_september_ifsc_climbing_world_cup_jakarta_[ina]_lead_men.csv
+--2022_september_ifsc_climbing_world_cup_jakarta_[ina]_lead_women.csv
+--2022_september_ifsc_climbing_world_cup_jakarta_[ina]_speed_men.csv
+--2022_september_ifsc_climbing_world_cup_jakarta_[ina]_speed_women.csv
+IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022
+--2022_october_ifsc_climbing_world_cup_morioka_iwate_[jpn]_boulder&lead_men.csv
+--2022_october_ifsc_climbing_world_cup_morioka_iwate_[jpn]_boulder&lead_women.csv
+IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022
+--2021_april_ifsc_climbing_world_cup_meiringen_[sui]_boulder_men.csv
+--2021_april_ifsc_climbing_world_cup_meiringen_[sui]_boulder_women.csv
+IFSC - Climbing World Cup (B) - Meiringen (SUI) 2021
+--2021_may_ifsc_climbing_world_cup_salt_lake_city_[usa]_boulder_men.csv
+--2021_may_ifsc_climbing_world_cup_salt_lake_city_[usa]_boulder_women.csv
+IFSC - Climbing World Cup (B) - Salt Lake City (USA) 2021
+--2021_may_ifsc_climbing_world_cup_salt_lake_city_[usa]_speed_men.csv
+--2021_may_ifsc_climbing_world_cup_salt_lake_city_[usa]_speed_women.csv
+IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021
+--2021_june_ifsc_climbing_world_cup_innsbruck_[aut]_lead_men.csv
+--2021_june_ifsc_climbing_world_cup_innsbruck_[aut]_lead_women.csv
+--2021_june_ifsc_climbing_world_cup_innsbruck_[aut]_boulder_men.csv
+--2021_june_ifsc_climbing_world_cup_innsbruck_[aut]_boulder_women.csv
+IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021
+--2021_july_ifsc_climbing_world_cup_villars_[sui]_lead_men.csv
+--2021_july_ifsc_climbing_world_cup_villars_[sui]_lead_women.csv
+--2021_july_ifsc_climbing_world_cup_villars_[sui]_speed_men.csv
+--2021_july_ifsc_climbing_world_cup_villars_[sui]_speed_women.csv
+IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021
+--2021_july_ifsc_climbing_world_cup_chamonix_[fra]_lead_men.csv
+--2021_july_ifsc_climbing_world_cup_chamonix_[fra]_lead_women.csv
+IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021
+--2021_july_ifsc_climbing_world_cup_briançon_[fra]_lead_men.csv
+--2021_july_ifsc_climbing_world_cup_briançon_[fra]_lead_women.csv
+IFSC - Climbing World Cup (L) - Briançon (FRA) 2021
+--2021_september_ifsc_climbing_world_cup_kranj_[slo]_lead_men.csv
+--2021_september_ifsc_climbing_world_cup_kranj_[slo]_lead_women.csv
+IFSC - Climbing World Cup (L) - Kranj (SLO) 2021
+--2021_september_ifsc_climbing_world_championships_moscow_lead_men.csv
+--2021_september_ifsc_climbing_world_championships_moscow_lead_women.csv
+--2021_september_ifsc_climbing_world_championships_moscow_speed_men.csv
+--2021_september_ifsc_climbing_world_championships_moscow_speed_women.csv
+--2021_september_ifsc_climbing_world_championships_moscow_boulder_men.csv
+--2021_september_ifsc_climbing_world_championships_moscow_boulder_women.csv
+--2021_september_ifsc_climbing_world_championships_moscow_combined_men.csv
+--2021_september_ifsc_climbing_world_championships_moscow_combined_women.csv
+IFSC - Climbing World Championships (B,L,S) - Moscow 2021
+--2020_february_ifsc_pan_am_continental_championships_los_angeles_[usa]_combined_men.csv
+--2020_february_ifsc_pan_am_continental_championships_los_angeles_[usa]_combined_women.csv
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020
+--2020_august_ifsc_climbing_world_cup_briançon_[fra]_lead_men.csv
+--2020_august_ifsc_climbing_world_cup_briançon_[fra]_lead_women.csv
+IFSC - Climbing World Cup (L) - Briançon (FRA) 2020
+--2020_november_ifsc_europe_continental_championships_moscow_[rus]_lead_men.csv
+--2020_november_ifsc_europe_continental_championships_moscow_[rus]_lead_women.csv
+--2020_november_ifsc_europe_continental_championships_moscow_[rus]_speed_men.csv
+--2020_november_ifsc_europe_continental_championships_moscow_[rus]_speed_women.csv
+--2020_november_ifsc_europe_continental_championships_moscow_[rus]_boulder_men.csv
+--2020_november_ifsc_europe_continental_championships_moscow_[rus]_boulder_women.csv
+--2020_november_ifsc_europe_continental_championships_moscow_[rus]_combined_men.csv
+--2020_november_ifsc_europe_continental_championships_moscow_[rus]_combined_women.csv
+IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020
+--2020_december_ifsc_africa_continental_championships_cape_town_[rsa]_combined_men.csv
+--2020_december_ifsc_africa_continental_championships_cape_town_[rsa]_combined_women.csv
+IFSC Africa - Continental Championships (C) - Cape Town (RSA) 2020
+--2020_december_ifsc_oceania_continental_championships_sydney_[aus]_combined_men.csv
+--2020_december_ifsc_oceania_continental_championships_sydney_[aus]_combined_women.csv
+IFSC Oceania - Continental Championships (C) - Sydney (AUS) 2020
+--2019_april_ifsc_climbing_worldcup_meiringen_[sui]_boulder_men.csv
+--2019_april_ifsc_climbing_worldcup_meiringen_[sui]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2019
+--2019_april_ifsc_climbing_worldcup_moscow_[rus]_boulder_men.csv
+--2019_april_ifsc_climbing_worldcup_moscow_[rus]_boulder_women.csv
+--2019_april_ifsc_climbing_worldcup_moscow_[rus]_speed_men.csv
+--2019_april_ifsc_climbing_worldcup_moscow_[rus]_speed_women.csv
+IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019
+--2019_april_ifsc_climbing_worldcup_chongqing_[chn]_boulder_men.csv
+--2019_april_ifsc_climbing_worldcup_chongqing_[chn]_boulder_women.csv
+--2019_april_ifsc_climbing_worldcup_chongqing_[chn]_speed_men.csv
+--2019_april_ifsc_climbing_worldcup_chongqing_[chn]_speed_women.csv
+IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019
+--2019_may_ifsc_climbing_worldcup_wujiang_[chn]_boulder_men.csv
+--2019_may_ifsc_climbing_worldcup_wujiang_[chn]_boulder_women.csv
+--2019_may_ifsc_climbing_worldcup_wujiang_[chn]_speed_men.csv
+--2019_may_ifsc_climbing_worldcup_wujiang_[chn]_speed_women.csv
+IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019
+--2019_may_ifsc_climbing_worldcup_munich_[ger]_boulder_men.csv
+--2019_may_ifsc_climbing_worldcup_munich_[ger]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Munich (GER) 2019
+--2019_june_ifsc_climbing_worldcup_vail_[usa]_boulder_men.csv
+--2019_june_ifsc_climbing_worldcup_vail_[usa]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Vail (USA) 2019
+--2019_july_ifsc_climbing_worldcup_villars_[sui]_lead_men.csv
+--2019_july_ifsc_climbing_worldcup_villars_[sui]_lead_women.csv
+--2019_july_ifsc_climbing_worldcup_villars_[sui]_speed_men.csv
+--2019_july_ifsc_climbing_worldcup_villars_[sui]_speed_women.csv
+IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019
+--2019_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_men.csv
+--2019_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_women.csv
+--2019_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_men.csv
+--2019_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_women.csv
+IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019
+--2019_july_ifsc_climbing_worldcup_briançon_[fra]_lead_men.csv
+--2019_july_ifsc_climbing_worldcup_briançon_[fra]_lead_women.csv
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2019
+--2019_august_ifsc_climbing_world_championships_hachioji_lead_men.csv
+--2019_august_ifsc_climbing_world_championships_hachioji_lead_women.csv
+--2019_august_ifsc_climbing_world_championships_hachioji_boulder_men.csv
+--2019_august_ifsc_climbing_world_championships_hachioji_boulder_women.csv
+--2019_august_ifsc_climbing_world_championships_hachioji_speed_men.csv
+--2019_august_ifsc_climbing_world_championships_hachioji_speed_women.csv
+IFSC Climbing World Championships - Hachioji (JPN) 2019
+IFSC Climbing World Championships Combined - Hachioji (JPN) 2019
+--2019_september_ifsc_climbing_worldcup_kranj_[slo]_lead_men.csv
+--2019_september_ifsc_climbing_worldcup_kranj_[slo]_lead_women.csv
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2019
+--2019_october_ifsc_climbing_worldcup_xiamen_[chn]_lead_men.csv
+--2019_october_ifsc_climbing_worldcup_xiamen_[chn]_lead_women.csv
+--2019_october_ifsc_climbing_worldcup_xiamen_[chn]_speed_men.csv
+--2019_october_ifsc_climbing_worldcup_xiamen_[chn]_speed_women.csv
+IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019
+--2019_october_ifsc_climbing_worldcup_inzai_[jpn]_lead_men.csv
+--2019_october_ifsc_climbing_worldcup_inzai_[jpn]_lead_women.csv
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2019
+--2018_april_ifsc_climbing_worldcup_meiringen_[sui]_boulder_men.csv
+--2018_april_ifsc_climbing_worldcup_meiringen_[sui]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2018
+--2018_april_ifsc_climbing_worldcup_moscow_[rus]_boulder_men.csv
+--2018_april_ifsc_climbing_worldcup_moscow_[rus]_boulder_women.csv
+--2018_april_ifsc_climbing_worldcup_moscow_[rus]_speed_men.csv
+--2018_april_ifsc_climbing_worldcup_moscow_[rus]_speed_women.csv
+IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018
+--2018_may_ifsc_climbing_worldcup_chongqing_[chn]_boulder_men.csv
+--2018_may_ifsc_climbing_worldcup_chongqing_[chn]_boulder_women.csv
+--2018_may_ifsc_climbing_worldcup_chongqing_[chn]_speed_men.csv
+--2018_may_ifsc_climbing_worldcup_chongqing_[chn]_speed_women.csv
+IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018
+--2018_may_ifsc_climbing_worldcup_tai'an_[chn]_boulder_men.csv
+--2018_may_ifsc_climbing_worldcup_tai'an_[chn]_boulder_women.csv
+--2018_may_ifsc_climbing_worldcup_tai'an_[chn]_speed_men.csv
+--2018_may_ifsc_climbing_worldcup_tai'an_[chn]_speed_women.csv
+IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018
+--2018_june_ifsc_climbing_worldcup_hachioji_[jpn]_boulder_men.csv
+--2018_june_ifsc_climbing_worldcup_hachioji_[jpn]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018
+--2018_june_ifsc_climbing_worldcup_vail_[usa]_boulder_men.csv
+--2018_june_ifsc_climbing_worldcup_vail_[usa]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Vail (USA) 2018
+--2018_july_ifsc_climbing_worldcup_villars_[sui]_lead_men.csv
+--2018_july_ifsc_climbing_worldcup_villars_[sui]_lead_women.csv
+--2018_july_ifsc_climbing_worldcup_villars_[sui]_speed_men.csv
+--2018_july_ifsc_climbing_worldcup_villars_[sui]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018
+--2018_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_men.csv
+--2018_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_women.csv
+--2018_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_men.csv
+--2018_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018
+--2018_july_ifsc_climbing_worldcup_briançon_[fra]_lead_men.csv
+--2018_july_ifsc_climbing_worldcup_briançon_[fra]_lead_women.csv
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2018
+--2018_july_ifsc_climbing_worldcup_arco_[ita]_lead_men.csv
+--2018_july_ifsc_climbing_worldcup_arco_[ita]_lead_women.csv
+--2018_july_ifsc_climbing_worldcup_arco_[ita]_speed_men.csv
+--2018_july_ifsc_climbing_worldcup_arco_[ita]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018
+--2018_august_ifsc_climbing_worldcup_munich_[ger]_boulder_men.csv
+--2018_august_ifsc_climbing_worldcup_munich_[ger]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Munich (GER) 2018
+--2018_september_ifsc_climbing_world_championships_innsbruck_lead_men.csv
+--2018_september_ifsc_climbing_world_championships_innsbruck_lead_women.csv
+--2018_september_ifsc_climbing_world_championships_innsbruck_boulder_men.csv
+--2018_september_ifsc_climbing_world_championships_innsbruck_boulder_women.csv
+--2018_september_ifsc_climbing_world_championships_innsbruck_speed_men.csv
+--2018_september_ifsc_climbing_world_championships_innsbruck_speed_women.csv
+IFSC Climbing World Championships - Innsbruck (AUT) 2018
+IFSC Climbing World Championships Combined - Innsbruck (AUT) 2018
+--2018_september_ifsc_climbing_worldcup_kranj_[slo]_lead_men.csv
+--2018_september_ifsc_climbing_worldcup_kranj_[slo]_lead_women.csv
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2018
+--2018_october_ifsc_climbing_worldcup_wujiang_[chn]_speed_men.csv
+--2018_october_ifsc_climbing_worldcup_wujiang_[chn]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018
+--2018_october_ifsc_climbing_worldcup_xiamen_[chn]_lead_men.csv
+--2018_october_ifsc_climbing_worldcup_xiamen_[chn]_lead_women.csv
+--2018_october_ifsc_climbing_worldcup_xiamen_[chn]_speed_men.csv
+--2018_october_ifsc_climbing_worldcup_xiamen_[chn]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018
+--2017_april_ifsc_climbing_worldcup_meiringen_[sui]_boulder_men.csv
+--2017_april_ifsc_climbing_worldcup_meiringen_[sui]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2017
+--2017_april_ifsc_climbing_worldcup_chongqing_[chn]_boulder_men.csv
+--2017_april_ifsc_climbing_worldcup_chongqing_[chn]_boulder_women.csv
+--2017_april_ifsc_climbing_worldcup_chongqing_[chn]_speed_men.csv
+--2017_april_ifsc_climbing_worldcup_chongqing_[chn]_speed_women.csv
+IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017
+--2017_april_ifsc_climbing_worldcup_nanjing_[chn]_boulder_men.csv
+--2017_april_ifsc_climbing_worldcup_nanjing_[chn]_boulder_women.csv
+--2017_april_ifsc_climbing_worldcup_nanjing_[chn]_speed_men.csv
+--2017_april_ifsc_climbing_worldcup_nanjing_[chn]_speed_women.csv
+IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017
+--2017_may_ifsc_climbing_worldcup_hachioji_tokyo_[jpn]_boulder_men.csv
+--2017_may_ifsc_climbing_worldcup_hachioji_tokyo_[jpn]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Hachioji, Tokyo (JPN) 2017
+--2017_june_ifsc_climbing_worldcup_vail_[usa]_boulder_men.csv
+--2017_june_ifsc_climbing_worldcup_vail_[usa]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Vail (USA) 2017
+--2017_june_ifsc_climbing_worldcup_navi_mumbai_[ind]_boulder_men.csv
+--2017_june_ifsc_climbing_worldcup_navi_mumbai_[ind]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2017
+--2017_july_ifsc_climbing_worldcup_villars_[sui]_lead_men.csv
+--2017_july_ifsc_climbing_worldcup_villars_[sui]_lead_women.csv
+--2017_july_ifsc_climbing_worldcup_villars_[sui]_speed_men.csv
+--2017_july_ifsc_climbing_worldcup_villars_[sui]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017
+--2017_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_men.csv
+--2017_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_women.csv
+IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+--2017_july_ifsc_climbing_worldcup_briançon_[fra]_lead_men.csv
+--2017_july_ifsc_climbing_worldcup_briançon_[fra]_lead_women.csv
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+--2017_august_ifsc_climbing_worldcup_munich_[ger]_boulder_men.csv
+--2017_august_ifsc_climbing_worldcup_munich_[ger]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Munich (GER) 2017
+--2017_august_ifsc_climbing_worldcup_arco_[ita]_lead_men.csv
+--2017_august_ifsc_climbing_worldcup_arco_[ita]_lead_women.csv
+--2017_august_ifsc_climbing_worldcup_arco_[ita]_speed_men.csv
+--2017_august_ifsc_climbing_worldcup_arco_[ita]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017
+--2017_september_ifsc_climbing_worldcup_edinburgh_[gbr]_lead_men.csv
+--2017_september_ifsc_climbing_worldcup_edinburgh_[gbr]_lead_women.csv
+--2017_september_ifsc_climbing_worldcup_edinburgh_[gbr]_speed_men.csv
+--2017_september_ifsc_climbing_worldcup_edinburgh_[gbr]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017
+--2017_october_ifsc_climbing_worldcup_wujiang_[chn]_lead_men.csv
+--2017_october_ifsc_climbing_worldcup_wujiang_[chn]_lead_women.csv
+--2017_october_ifsc_climbing_worldcup_wujiang_[chn]_speed_men.csv
+--2017_october_ifsc_climbing_worldcup_wujiang_[chn]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017
+--2017_october_ifsc_climbing_worldcup_xiamen_[chn]_lead_men.csv
+--2017_october_ifsc_climbing_worldcup_xiamen_[chn]_speed_men.csv
+--2017_october_ifsc_climbing_worldcup_xiamen_[chn]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017
+--2017_november_ifsc_climbing_worldcup_kranj_[slo]_lead_men.csv
+--2017_november_ifsc_climbing_worldcup_kranj_[slo]_lead_women.csv
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+--2016_april_ifsc_climbing_worldcup_meiringen_[sui]_boulder_men.csv
+--2016_april_ifsc_climbing_worldcup_meiringen_[sui]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2016
+--2016_april_ifsc_climbing_worldcup_kazo_[jpn]_boulder_men.csv
+--2016_april_ifsc_climbing_worldcup_kazo_[jpn]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Kazo (JPN) 2016
+--2016_april_ifsc_climbing_worldcup_chongqing_[chn]_boulder_men.csv
+--2016_april_ifsc_climbing_worldcup_chongqing_[chn]_boulder_women.csv
+--2016_april_ifsc_climbing_worldcup_chongqing_[chn]_speed_men.csv
+--2016_april_ifsc_climbing_worldcup_chongqing_[chn]_speed_women.csv
+IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016
+--2016_may_ifsc_climbing_worldcup_nanjing_[chn]_speed_men.csv
+--2016_may_ifsc_climbing_worldcup_nanjing_[chn]_speed_women.csv
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016
+--2016_may_ifsc_climbing_worldcup_navi_mumbai_[ind]_boulder_men.csv
+--2016_may_ifsc_climbing_worldcup_navi_mumbai_[ind]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2016
+--2016_may_ifsc_climbing_worldcup_innsbruck_[aut]_boulder_men.csv
+--2016_may_ifsc_climbing_worldcup_innsbruck_[aut]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2016
+--2016_june_ifsc_climbing_worldcup_vail_[usa]_boulder_men.csv
+--2016_june_ifsc_climbing_worldcup_vail_[usa]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Vail (USA) 2016
+--2016_july_ifsc_climbing_worldcup_-chamonix_[fra]_lead_men.csv
+--2016_july_ifsc_climbing_worldcup_-chamonix_[fra]_lead_women.csv
+--2016_july_ifsc_climbing_worldcup_-chamonix_[fra]_speed_men.csv
+--2016_july_ifsc_climbing_worldcup_-chamonix_[fra]_speed_women.csv
+IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016
+--2016_july_ifsc_climbing_worldcup_villars_[sui]_lead_men.csv
+--2016_july_ifsc_climbing_worldcup_villars_[sui]_lead_women.csv
+--2016_july_ifsc_climbing_worldcup_villars_[sui]_speed_men.csv
+--2016_july_ifsc_climbing_worldcup_villars_[sui]_speed_women.csv
+IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016
+--2016_july_ifsc_climbing_worldcup_briançon_[fra]_lead_men.csv
+--2016_july_ifsc_climbing_worldcup_briançon_[fra]_lead_women.csv
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+--2016_august_ifsc_climbing_worldcup_munich_[ger]_boulder_men.csv
+--2016_august_ifsc_climbing_worldcup_munich_[ger]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Munich (GER) 2016
+--2016_august_ifsc_climbing_worldcup_imst_[aut]_lead_men.csv
+--2016_august_ifsc_climbing_worldcup_imst_[aut]_lead_women.csv
+IFSC Climbing Worldcup (L) - Imst (AUT) 2016
+--2016_august_ifsc_climbing_worldcup_arco_[ita]_lead_men.csv
+--2016_august_ifsc_climbing_worldcup_arco_[ita]_lead_women.csv
+--2016_august_ifsc_climbing_worldcup_arco_[ita]_speed_men.csv
+--2016_august_ifsc_climbing_worldcup_arco_[ita]_speed_women.csv
+IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016
+--2016_september_ifsc_climbing_world_championships_paris_lead_men.csv
+--2016_september_ifsc_climbing_world_championships_paris_lead_women.csv
+--2016_september_ifsc_climbing_world_championships_paris_boulder_men.csv
+--2016_september_ifsc_climbing_world_championships_paris_boulder_women.csv
+--2016_september_ifsc_climbing_world_championships_paris_speed_men.csv
+--2016_september_ifsc_climbing_world_championships_paris_speed_women.csv
+IFSC Climbing World Championships - Paris (FRA) 2016
+--2016_october_ifsc_climbing_worldcup_wujiang_[chn]_speed_men.csv
+--2016_october_ifsc_climbing_worldcup_wujiang_[chn]_speed_women.csv
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016
+--2016_october_ifsc_climbing_worldcup_xiamen_[chn]_lead_men.csv
+--2016_october_ifsc_climbing_worldcup_xiamen_[chn]_lead_women.csv
+--2016_october_ifsc_climbing_worldcup_xiamen_[chn]_speed_men.csv
+--2016_october_ifsc_climbing_worldcup_xiamen_[chn]_speed_women.csv
+IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016
+--2016_november_ifsc_climbing_worldcup_kranj_[slo]_lead_men.csv
+--2016_november_ifsc_climbing_worldcup_kranj_[slo]_lead_women.csv
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+--2015_may_ifsc_climbing_worldcup_central_saanich_[can]_speed_men.csv
+--2015_may_ifsc_climbing_worldcup_central_saanich_[can]_speed_women.csv
+IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015
+--2015_may_ifsc_climbing_worldcup_toronto_[can]_boulder_men.csv
+--2015_may_ifsc_climbing_worldcup_toronto_[can]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Toronto (CAN) 2015
+--2015_june_ifsc_climbing_worldcup_vail_[usa]_boulder_men.csv
+--2015_june_ifsc_climbing_worldcup_vail_[usa]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Vail (USA) 2015
+--2015_june_ifsc_climbing_worldcup_chongqing_[chn]_boulder_men.csv
+--2015_june_ifsc_climbing_worldcup_chongqing_[chn]_boulder_women.csv
+--2015_june_ifsc_climbing_worldcup_chongqing_[chn]_speed_men.csv
+--2015_june_ifsc_climbing_worldcup_chongqing_[chn]_speed_women.csv
+IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015
+--2015_june_ifsc_climbing_worldcup_haiyang_[chn]_boulder_men.csv
+--2015_june_ifsc_climbing_worldcup_haiyang_[chn]_boulder_women.csv
+--2015_june_ifsc_climbing_worldcup_haiyang_[chn]_speed_men.csv
+--2015_june_ifsc_climbing_worldcup_haiyang_[chn]_speed_women.csv
+IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015
+--2015_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_men.csv
+--2015_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_women.csv
+--2015_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_men.csv
+--2015_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015
+--2015_july_ifsc_climbing_worldcup_briançon_[fra]_lead_men.csv
+--2015_july_ifsc_climbing_worldcup_briançon_[fra]_lead_women.csv
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2015
+--2015_july_ifsc_climbing_worldcup_imst_[aut]_lead_men.csv
+--2015_july_ifsc_climbing_worldcup_imst_[aut]_lead_women.csv
+IFSC Climbing Worldcup (L) - Imst (AUT) 2015
+--2015_august_ifsc_climbing_worldcup_munich_[ger]_boulder_men.csv
+--2015_august_ifsc_climbing_worldcup_munich_[ger]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Munich (GER) 2015
+--2015_august_ifsc_climbing_worldcup_stavanger_[nor]_lead_men.csv
+--2015_august_ifsc_climbing_worldcup_stavanger_[nor]_lead_women.csv
+IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015
+--2015_september_ifsc_climbing_worldcup_puurs_[bel]_lead_men.csv
+--2015_september_ifsc_climbing_worldcup_puurs_[bel]_lead_women.csv
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2015
+--2015_october_ifsc_climbing_worldcup_wujiang_[chn]_lead_men.csv
+--2015_october_ifsc_climbing_worldcup_wujiang_[chn]_lead_women.csv
+--2015_october_ifsc_climbing_worldcup_wujiang_[chn]_speed_men.csv
+--2015_october_ifsc_climbing_worldcup_wujiang_[chn]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015
+--2015_november_ifsc_climbing_worldcup_kranj_[slo]_lead_men.csv
+--2015_november_ifsc_climbing_worldcup_kranj_[slo]_lead_women.csv
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2015
+--2014_april_ifsc_climbing_worldcup_chongqing_[chn]_boulder_men.csv
+--2014_april_ifsc_climbing_worldcup_chongqing_[chn]_boulder_women.csv
+--2014_april_ifsc_climbing_worldcup_chongqing_[chn]_speed_men.csv
+--2014_april_ifsc_climbing_worldcup_chongqing_[chn]_speed_women.csv
+IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014
+--2014_may_ifsc_climbing_worldcup_baku_[aze]_boulder_men.csv
+--2014_may_ifsc_climbing_worldcup_baku_[aze]_boulder_women.csv
+--2014_may_ifsc_climbing_worldcup_baku_[aze]_speed_men.csv
+--2014_may_ifsc_climbing_worldcup_baku_[aze]_speed_women.csv
+IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014
+--2014_may_ifsc_climbing_worldcup_grindelwald_[sui]_boulder_men.csv
+--2014_may_ifsc_climbing_worldcup_grindelwald_[sui]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2014
+--2014_may_ifsc_climbing_worldcup_innsbruck_[aut]_boulder_men.csv
+--2014_may_ifsc_climbing_worldcup_innsbruck_[aut]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2014
+--2014_may_ifsc_climbing_worldcup_toronto_[can]_boulder_men.csv
+--2014_may_ifsc_climbing_worldcup_toronto_[can]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Toronto (CAN) 2014
+--2014_june_ifsc_climbing_worldcup_vail_[usa]_boulder_men.csv
+--2014_june_ifsc_climbing_worldcup_vail_[usa]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Vail (USA) 2014
+--2014_june_ifsc_climbing_worldcup_haiyang_[chn]_lead_men.csv
+--2014_june_ifsc_climbing_worldcup_haiyang_[chn]_lead_women.csv
+--2014_june_ifsc_climbing_worldcup_haiyang_[chn]_boulder_men.csv
+--2014_june_ifsc_climbing_worldcup_haiyang_[chn]_boulder_women.csv
+--2014_june_ifsc_climbing_worldcup_haiyang_[chn]_speed_men.csv
+--2014_june_ifsc_climbing_worldcup_haiyang_[chn]_speed_women.csv
+IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014
+--2014_june_ifsc_climbing_worldcup_laval_[fra]_boulder_men.csv
+--2014_june_ifsc_climbing_worldcup_laval_[fra]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Laval (FRA) 2014
+--2014_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_men.csv
+--2014_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_women.csv
+--2014_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_men.csv
+--2014_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+--2014_august_ifsc_climbing_worldcup_imst_[aut]_lead_men.csv
+--2014_august_ifsc_climbing_worldcup_imst_[aut]_lead_women.csv
+IFSC Climbing Worldcup (L) - Imst (AUT) 2014
+--2014_august_ifsc_climbing_world_championship_munich_[ger]_boulder_men.csv
+--2014_august_ifsc_climbing_world_championship_munich_[ger]_boulder_women.csv
+IFSC Climbing World Championship (B) - Munich (GER) 2014
+--2014_august_ifsc_climbing_worldcup_arco_[ita]_speed_men.csv
+--2014_august_ifsc_climbing_worldcup_arco_[ita]_speed_women.csv
+IFSC Climbing Worldcup (S) - Arco (ITA) 2014
+--2014_september_ifsc_climbing_world_championship_gijon_[esp]_lead_men.csv
+--2014_september_ifsc_climbing_world_championship_gijon_[esp]_lead_women.csv
+--2014_september_ifsc_climbing_world_championship_gijon_[esp]_speed_men.csv
+--2014_september_ifsc_climbing_world_championship_gijon_[esp]_speed_women.csv
+IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014
+--2014_october_ifsc_climbing_worldcup_mokpo_[kor]_lead_men.csv
+--2014_october_ifsc_climbing_worldcup_mokpo_[kor]_lead_women.csv
+--2014_october_ifsc_climbing_worldcup_mokpo_[kor]_speed_men.csv
+--2014_october_ifsc_climbing_worldcup_mokpo_[kor]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014
+--2014_october_ifsc_climbing_worldcup_wujiang_[chn]_lead_men.csv
+--2014_october_ifsc_climbing_worldcup_wujiang_[chn]_lead_women.csv
+--2014_october_ifsc_climbing_worldcup_wujiang_[chn]_speed_men.csv
+--2014_october_ifsc_climbing_worldcup_wujiang_[chn]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014
+--2014_october_ifsc_climbing_worldcup_inzai_[jpn]_lead_men.csv
+--2014_october_ifsc_climbing_worldcup_inzai_[jpn]_lead_women.csv
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2014
+--2014_november_ifsc_climbing_worldcup_kranj_[slo]_lead_men.csv
+--2014_november_ifsc_climbing_worldcup_kranj_[slo]_lead_women.csv
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2014
+--2013_march_ifsc_climbing_worldcup_chongqing_[chn]_boulder_men.csv
+--2013_march_ifsc_climbing_worldcup_chongqing_[chn]_boulder_women.csv
+--2013_march_ifsc_climbing_worldcup_chongqing_[chn]_speed_men.csv
+--2013_march_ifsc_climbing_worldcup_chongqing_[chn]_speed_women.csv
+IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013
+--2013_april_ifsc_climbing_worldcup_millau_[fra]_boulder_men.csv
+--2013_april_ifsc_climbing_worldcup_millau_[fra]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Millau (FRA) 2013
+--2013_april_ifsc_climbing_worldcup_kitzbühel_[aut]_boulder_men.csv
+--2013_april_ifsc_climbing_worldcup_kitzbühel_[aut]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Kitzbühel (AUT) 2013
+--2013_may_ifsc_climbing_worldcup_log-dragomer_[slo]_boulder_men.csv
+--2013_may_ifsc_climbing_worldcup_log-dragomer_[slo]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2013
+--2013_may_ifsc_climbing_worldcup_innsbruck_[aut]_boulder_men.csv
+--2013_may_ifsc_climbing_worldcup_innsbruck_[aut]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2013
+--2013_june_ifsc_climbing_worldcup_toronto_[can]_boulder_men.csv
+--2013_june_ifsc_climbing_worldcup_toronto_[can]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Toronto (CAN) 2013
+--2013_june_ifsc_climbing_worldcup_vail_[usa]_boulder_men.csv
+--2013_june_ifsc_climbing_worldcup_vail_[usa]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Vail (USA) 2013
+--2013_june_ifsc_climbing_worldcup_baku_[aze]_speed_men.csv
+--2013_june_ifsc_climbing_worldcup_baku_[aze]_speed_women.csv
+IFSC Climbing Worldcup (S) - Baku (AZE) 2013
+--2013_july_ifsc_climbing_worldcup_briançon_[fra]_lead_men.csv
+--2013_july_ifsc_climbing_worldcup_briançon_[fra]_lead_women.csv
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2013
+--2013_august_ifsc_climbing_worldcup_imst_[aut]_lead_men.csv
+--2013_august_ifsc_climbing_worldcup_imst_[aut]_lead_women.csv
+IFSC Climbing Worldcup (L) - Imst (AUT) 2013
+--2013_august_ifsc_climbing_worldcup_munich_[ger]_boulder_men.csv
+--2013_august_ifsc_climbing_worldcup_munich_[ger]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Munich (GER) 2013
+--2013_september_ifsc_climbing_worldcup_arco_[ita]_speed_men.csv
+--2013_september_ifsc_climbing_worldcup_arco_[ita]_speed_women.csv
+IFSC Climbing Worldcup (S) - Arco (ITA) 2013
+--2013_september_ifsc_climbing_worldcup_puurs_[bel]_lead_men.csv
+--2013_september_ifsc_climbing_worldcup_puurs_[bel]_lead_women.csv
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2013
+--2013_september_ifsc_climbing_worldcup_perm_[rus]_lead_men.csv
+--2013_september_ifsc_climbing_worldcup_perm_[rus]_lead_women.csv
+--2013_september_ifsc_climbing_worldcup_perm_[rus]_speed_men.csv
+--2013_september_ifsc_climbing_worldcup_perm_[rus]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013
+--2013_october_ifsc_climbing_worldcup_mokpo_[kor]_lead_men.csv
+--2013_october_ifsc_climbing_worldcup_mokpo_[kor]_lead_women.csv
+--2013_october_ifsc_climbing_worldcup_mokpo_[kor]_speed_men.csv
+--2013_october_ifsc_climbing_worldcup_mokpo_[kor]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013
+--2013_october_ifsc_climbing_worldcup_haiyang_[chn]_speed_men.csv
+--2013_october_ifsc_climbing_worldcup_haiyang_[chn]_speed_women.csv
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013
+--2013_october_ifsc_climbing_worldcup_wujiang_[chn]_lead_men.csv
+--2013_october_ifsc_climbing_worldcup_wujiang_[chn]_lead_women.csv
+--2013_october_ifsc_climbing_worldcup_wujiang_[chn]_speed_men.csv
+--2013_october_ifsc_climbing_worldcup_wujiang_[chn]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013
+--2013_november_ifsc_climbing_worldcup_valence_[fra]_lead_men.csv
+--2013_november_ifsc_climbing_worldcup_valence_[fra]_lead_women.csv
+IFSC Climbing Worldcup (L) - Valence (FRA) 2013
+--2013_november_ifsc_climbing_worldcup_kranj_[slo]_lead_men.csv
+--2013_november_ifsc_climbing_worldcup_kranj_[slo]_lead_women.csv
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2013
+--2012_april_ifsc_climbing_worldcup_chongqing_[chn]_boulder_men.csv
+--2012_april_ifsc_climbing_worldcup_chongqing_[chn]_boulder_women.csv
+--2012_april_ifsc_climbing_worldcup_chongqing_[chn]_speed_men.csv
+--2012_april_ifsc_climbing_worldcup_chongqing_[chn]_speed_women.csv
+IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012
+--2012_april_ifsc_climbing_worldcup_log-dragomer_[slo]_boulder_men.csv
+--2012_april_ifsc_climbing_worldcup_log-dragomer_[slo]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2012
+--2012_april_ifsc_climbing_worldcup_vienna_[aut]_boulder_men.csv
+--2012_april_ifsc_climbing_worldcup_vienna_[aut]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Vienna (AUT) 2012
+--2012_may_ifsc_climbing_worldcup_innsbruck_[aut]_boulder_men.csv
+--2012_may_ifsc_climbing_worldcup_innsbruck_[aut]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2012
+--2012_june_ifsc_climbing_worldcup_vail_[usa]_boulder_men.csv
+--2012_june_ifsc_climbing_worldcup_vail_[usa]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Vail (USA) 2012
+--2012_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_men.csv
+--2012_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_women.csv
+--2012_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_men.csv
+--2012_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012
+--2012_july_ifsc_climbing_worldcup_briançon_[fra]_lead_men.csv
+--2012_july_ifsc_climbing_worldcup_briançon_[fra]_lead_women.csv
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2012
+--2012_july_ifsc_climbing_worldcup_val_daone_[ita]_speed_men.csv
+--2012_july_ifsc_climbing_worldcup_val_daone_[ita]_speed_women.csv
+IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012
+--2012_august_ifsc_climbing_worldcup_imst_[aut]_lead_men.csv
+--2012_august_ifsc_climbing_worldcup_imst_[aut]_lead_women.csv
+IFSC Climbing Worldcup (L) - Imst (AUT) 2012
+--2012_august_ifsc_climbing_worldcup_munich_[ger]_boulder_men.csv
+--2012_august_ifsc_climbing_worldcup_munich_[ger]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Munich (GER) 2012
+--2012_september_ifsc_climbing_worldcup_arco_[ita]_speed_men.csv
+--2012_september_ifsc_climbing_worldcup_arco_[ita]_speed_women.csv
+IFSC Climbing Worldcup (S) - Arco (ITA) 2012
+--2012_september_ifsc_climbing_world_championship_paris_lead_men.csv
+--2012_september_ifsc_climbing_world_championship_paris_lead_women.csv
+--2012_september_ifsc_climbing_world_championship_paris_boulder_men.csv
+--2012_september_ifsc_climbing_world_championship_paris_boulder_women.csv
+--2012_september_ifsc_climbing_world_championship_paris_speed_men.csv
+--2012_september_ifsc_climbing_world_championship_paris_speed_women.csv
+IFSC Climbing World Championship - Paris (FRA) 2012
+--2012_september_ifsc_climbing_worldcup_puurs_[bel]_lead_men.csv
+--2012_september_ifsc_climbing_worldcup_puurs_[bel]_lead_women.csv
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2012
+--2012_september_ifsc_climbing_worldcup_atlanta_[usa]_lead_men.csv
+--2012_september_ifsc_climbing_worldcup_atlanta_[usa]_lead_women.csv
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012
+--2012_october_ifsc_climbing_worldcup_xining_[chn]_lead_men.csv
+--2012_october_ifsc_climbing_worldcup_xining_[chn]_lead_women.csv
+--2012_october_ifsc_climbing_worldcup_xining_[chn]_speed_men.csv
+--2012_october_ifsc_climbing_worldcup_xining_[chn]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012
+--2012_october_ifsc_climbing_worldcup_mokpo_[kor]_lead_men.csv
+--2012_october_ifsc_climbing_worldcup_mokpo_[kor]_lead_women.csv
+--2012_october_ifsc_climbing_worldcup_mokpo_[kor]_speed_men.csv
+--2012_october_ifsc_climbing_worldcup_mokpo_[kor]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012
+--2012_october_ifsc_climbing_worldcup_inzai_[jpn]_lead_men.csv
+--2012_october_ifsc_climbing_worldcup_inzai_[jpn]_lead_women.csv
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012
+--2012_november_ifsc_climbing_worldcup_kranj_[slo]_lead_men.csv
+--2012_november_ifsc_climbing_worldcup_kranj_[slo]_lead_women.csv
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2012
+--2011_april_ifsc_climbing_worldcup_milano_[ita]_boulder_men.csv
+--2011_april_ifsc_climbing_worldcup_milano_[ita]_boulder_women.csv
+--2011_april_ifsc_climbing_worldcup_milano_[ita]_speed_men.csv
+--2011_april_ifsc_climbing_worldcup_milano_[ita]_speed_women.csv
+IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011
+--2011_may_ifsc_climbing_worldcup_log-dragomer_[slo]_boulder_men.csv
+--2011_may_ifsc_climbing_worldcup_log-dragomer_[slo]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2011
+--2011_may_ifsc_climbing_worldcup_vienna_[aut]_boulder_men.csv
+--2011_may_ifsc_climbing_worldcup_vienna_[aut]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Vienna (AUT) 2011
+--2011_may_ifsc_climbing_worldcup_canmore_[can]_boulder_men.csv
+--2011_may_ifsc_climbing_worldcup_canmore_[can]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Canmore (CAN) 2011
+--2011_june_ifsc_climbing_worldcup_vail_[usa]_boulder_men.csv
+--2011_june_ifsc_climbing_worldcup_vail_[usa]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Vail (USA) 2011
+--2011_june_ifsc_climbing_worldcup_eindhoven_[ned]_boulder_men.csv
+--2011_june_ifsc_climbing_worldcup_eindhoven_[ned]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2011
+--2011_june_ifsc_climbing_worldcup_barcelona_[esp]_boulder_men.csv
+--2011_june_ifsc_climbing_worldcup_barcelona_[esp]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Barcelona (ESP) 2011
+--2011_july_ifsc_climbing_worldcup_sheffield_[gbr]_boulder_men.csv
+--2011_july_ifsc_climbing_worldcup_sheffield_[gbr]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011
+--2011_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_men.csv
+--2011_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_women.csv
+--2011_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_men.csv
+--2011_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011
+--2011_july_ifsc_climbing_worldcup_briançon_[fra]_lead_men.csv
+--2011_july_ifsc_climbing_worldcup_briançon_[fra]_lead_women.csv
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2011
+--2011_august_ifsc_climbing_worldcup_daone_[ita]_speed_men.csv
+--2011_august_ifsc_climbing_worldcup_daone_[ita]_speed_women.csv
+IFSC Climbing Worldcup (S) - Daone (ITA) 2011
+--2011_august_ifsc_climbing_worldcup_munich_[ger]_boulder_men.csv
+--2011_august_ifsc_climbing_worldcup_munich_[ger]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Munich (GER) 2011
+--2011_september_ifsc_climbing_worldcup_xining_[chn]_lead_men.csv
+--2011_september_ifsc_climbing_worldcup_xining_[chn]_lead_women.csv
+--2011_september_ifsc_climbing_worldcup_xining_[chn]_speed_men.csv
+--2011_september_ifsc_climbing_worldcup_xining_[chn]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011
+--2011_september_ifsc_climbing_worldcup_changzhi_[chn]_lead_men.csv
+--2011_september_ifsc_climbing_worldcup_changzhi_[chn]_lead_women.csv
+--2011_september_ifsc_climbing_worldcup_changzhi_[chn]_speed_men.csv
+--2011_september_ifsc_climbing_worldcup_changzhi_[chn]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011
+--2011_september_ifsc_climbing_worldcup_puurs_[bel]_lead_men.csv
+--2011_september_ifsc_climbing_worldcup_puurs_[bel]_lead_women.csv
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2011
+--2011_october_ifsc_climbing_worldcup_boulder_[usa]_lead_men.csv
+--2011_october_ifsc_climbing_worldcup_boulder_[usa]_lead_women.csv
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011
+--2011_october_ifsc_climbing_worldcup_amman_[jor]_lead_men.csv
+--2011_october_ifsc_climbing_worldcup_amman_[jor]_lead_women.csv
+IFSC Climbing Worldcup (L) - Amman (JOR) 2011
+--2011_october_ifsc_climbing_worldcup_valence_[fra]_lead_men.csv
+--2011_october_ifsc_climbing_worldcup_valence_[fra]_lead_women.csv
+IFSC Climbing Worldcup (L) - Valence (FRA) 2011
+--2011_november_ifsc_climbing_worldcup_kranj_[slo]_lead_men.csv
+--2011_november_ifsc_climbing_worldcup_kranj_[slo]_lead_women.csv
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2011
+--2011_november_ifsc_climbing_worldcup_barcelona_[esp]_lead_men.csv
+--2011_november_ifsc_climbing_worldcup_barcelona_[esp]_lead_women.csv
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011
+--2010_april_ifsc_climbing_worldcup_trento_[ita]_speed_men.csv
+--2010_april_ifsc_climbing_worldcup_trento_[ita]_speed_women.csv
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010
+--2010_may_ifsc_climbing_worldcup_greifensee_[sui]_boulder_men.csv
+--2010_may_ifsc_climbing_worldcup_greifensee_[sui]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Greifensee (SUI) 2010
+--2010_may_ifsc_climbing_worldcup_wien_[aut]_boulder_men.csv
+--2010_may_ifsc_climbing_worldcup_wien_[aut]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Wien (AUT) 2010
+--2010_june_ifsc_climbing_worldcup_vail_[usa]_boulder_men.csv
+--2010_june_ifsc_climbing_worldcup_vail_[usa]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Vail (USA) 2010
+--2010_june_ifsc_climbing_worldcup_moscow_[rus]_boulder_men.csv
+--2010_june_ifsc_climbing_worldcup_moscow_[rus]_boulder_women.csv
+--2010_june_ifsc_climbing_worldcup_moscow_[rus]_speed_men.csv
+--2010_june_ifsc_climbing_worldcup_moscow_[rus]_speed_women.csv
+IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2010
+--2010_june_ifsc_climbing_worldcup_eindhoven_[ned]_boulder_men.csv
+--2010_june_ifsc_climbing_worldcup_eindhoven_[ned]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2010
+--2010_july_ifsc_climbing_worldcup_sheffield_[gbr]_boulder_men.csv
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2010
+--2010_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_men.csv
+--2010_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_women.csv
+--2010_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_men.csv
+--2010_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010
+--2010_july_ifsc_climbing_worldcup_daone_[ita]_speed_men.csv
+--2010_july_ifsc_climbing_worldcup_daone_[ita]_speed_women.csv
+IFSC Climbing Worldcup (S) - Daone (ITA) 2010
+--2010_july_ifsc_climbing_worldcup_munich_[ger]_boulder_men.csv
+--2010_july_ifsc_climbing_worldcup_munich_[ger]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Munich (GER) 2010
+--2010_august_ifsc_climbing_worldcup_xining_[chn]_speed_men.csv
+--2010_august_ifsc_climbing_worldcup_xining_[chn]_speed_women.csv
+IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010
+--2010_august_ifsc_climbing_worldcup_chuncheon_[kor]_lead_men.csv
+--2010_august_ifsc_climbing_worldcup_chuncheon_[kor]_lead_women.csv
+--2010_august_ifsc_climbing_worldcup_chuncheon_[kor]_speed_men.csv
+--2010_august_ifsc_climbing_worldcup_chuncheon_[kor]_speed_women.csv
+IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010
+--2010_september_ifsc_climbing_worldcup_puurs_[bel]_lead_men.csv
+--2010_september_ifsc_climbing_worldcup_puurs_[bel]_lead_women.csv
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2010
+--2010_october_ifsc_climbing_worldcup_huaiji_[chn]_lead_men.csv
+--2010_october_ifsc_climbing_worldcup_huaiji_[chn]_speed_men.csv
+--2010_october_ifsc_climbing_worldcup_huaiji_[chn]_speed_women.csv
+IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010
+--2010_november_ifsc_climbing_worldcup_kranj_[slo]_lead_men.csv
+--2010_november_ifsc_climbing_worldcup_kranj_[slo]_lead_women.csv
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2010
+--2009_april_ifsc_climbing_worldcup_kazo_[jpn]_boulder_men.csv
+--2009_april_ifsc_climbing_worldcup_kazo_[jpn]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+--2009_april_ifsc_climbing_worldcup_tarnow_[pol]_speed_men.csv
+--2009_april_ifsc_climbing_worldcup_tarnow_[pol]_speed_women.csv
+IFSC Climbing Worldcup (S) - Tarnow (POL) 2009
+--2009_april_ifsc_climbing_worldcup_trento_[ita]_speed_men.csv
+--2009_april_ifsc_climbing_worldcup_trento_[ita]_speed_women.csv
+IFSC Climbing Worldcup (S) - Trento (ITA) 2009
+--2009_may_ifsc_climbing_worldcup_hall_[aut]_boulder_men.csv
+--2009_may_ifsc_climbing_worldcup_hall_[aut]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+--2009_may_ifsc_climbing_worldcup_wien_[aut]_boulder_men.csv
+--2009_may_ifsc_climbing_worldcup_wien_[aut]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+--2009_june_ifsc_climbing_worldcup_vail_[usa]_boulder_men.csv
+--2009_june_ifsc_climbing_worldcup_vail_[usa]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Vail (USA) 2009
+--2009_june_ifsc_climbing_worldcup_eindhoven_[ned]_boulder_men.csv
+--2009_june_ifsc_climbing_worldcup_eindhoven_[ned]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+--2009_july_ifsc_climbing_world_championships_qinghai_2009_15m_speed_men.csv
+--2009_july_ifsc_climbing_world_championships_qinghai_2009_15m_speed_women.csv
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed
+--2009_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_men.csv
+--2009_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_women.csv
+--2009_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_men.csv
+--2009_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_women.csv
+IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009
+--2009_august_ifsc_climbing_worldcup_daone_[ita]_speed_men.csv
+--2009_august_ifsc_climbing_worldcup_daone_[ita]_speed_women.csv
+IFSC Climbing Worldcup (S) - Daone (ITA) 2009
+--2009_august_ifsc_climbing_worldcup_barcelona_[esp]_lead_men.csv
+--2009_august_ifsc_climbing_worldcup_barcelona_[esp]_lead_women.csv
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+--2009_august_ifsc_climbing_worldcup_imst_[aut]_lead_men.csv
+--2009_august_ifsc_climbing_worldcup_imst_[aut]_lead_women.csv
+IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+--2009_september_ifsc_climbing_worldcup_puurs_[bel]_lead_men.csv
+--2009_september_ifsc_climbing_worldcup_puurs_[bel]_lead_women.csv
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+--2009_november_ifsc_climbing_worldcup_brno_[cze]_lead_men.csv
+--2009_november_ifsc_climbing_worldcup_brno_[cze]_lead_women.csv
+IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+--2009_november_ifsc_climbing_worldcup_kranj_[slo]_lead_men.csv
+--2009_november_ifsc_climbing_worldcup_kranj_[slo]_lead_women.csv
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+--2008_april_ifsc_climbing_worldcup_hall_[aut]_boulder_men.csv
+--2008_april_ifsc_climbing_worldcup_hall_[aut]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+--2008_april_ifsc_climbing_worldcup_trento_[ita]_speed_men.csv
+--2008_april_ifsc_climbing_worldcup_trento_[ita]_speed_women.csv
+IFSC Climbing Worldcup (S) - Trento (ITA) 2008
+--2008_may_ifsc_climbing_worldcup_reunion_[fra]_boulder_men.csv
+--2008_may_ifsc_climbing_worldcup_reunion_[fra]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+--2008_may_ifsc_climbing_worldcup_grindelwald_[sui]_boulder_men.csv
+--2008_may_ifsc_climbing_worldcup_grindelwald_[sui]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+--2008_june_ifsc_climbing_worldcup_vail_[usa]_boulder_men.csv
+--2008_june_ifsc_climbing_worldcup_vail_[usa]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Vail (USA) 2008
+--2008_june_ifsc_climbing_worldcup_fiera_di_primiero_[ita]_boulder_men.csv
+--2008_june_ifsc_climbing_worldcup_fiera_di_primiero_[ita]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+--2008_june_ifsc_climbing_worldcup_qinghai_[chn]_lead_men.csv
+--2008_june_ifsc_climbing_worldcup_qinghai_[chn]_lead_women.csv
+--2008_june_ifsc_climbing_worldcup_qinghai_[chn]_speed_men.csv
+--2008_june_ifsc_climbing_worldcup_qinghai_[chn]_speed_women.csv
+IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+--2008_july_ifsc_climbing_worldcup_montauban_[fra]_boulder_men.csv
+--2008_july_ifsc_climbing_worldcup_montauban_[fra]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+--2008_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_men.csv
+--2008_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_women.csv
+--2008_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_men.csv
+--2008_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_women.csv
+IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+--2008_july_ifsc_climbing_worldcup_val_daone_[ita]_speed_men.csv
+--2008_july_ifsc_climbing_worldcup_val_daone_[ita]_speed_women.csv
+IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008
+--2008_september_ifsc_climbing_worldcup_bern_[sui]_lead_men.csv
+--2008_september_ifsc_climbing_worldcup_bern_[sui]_lead_women.csv
+IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+--2008_september_ifsc_climbing_worldcup_imst_[aut]_lead_men.csv
+--2008_september_ifsc_climbing_worldcup_imst_[aut]_lead_women.csv
+IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+--2008_september_ifsc_climbing_worldcup_puurs_[bel]_lead_men.csv
+--2008_september_ifsc_climbing_worldcup_puurs_[bel]_lead_women.csv
+--2008_september_ifsc_climbing_worldcup_puurs_[bel]_speed_men.csv
+--2008_september_ifsc_climbing_worldcup_puurs_[bel]_speed_women.csv
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+--2008_november_ifsc_climbing_worldcup_moscow_[rus]_boulder_men.csv
+--2008_november_ifsc_climbing_worldcup_moscow_[rus]_boulder_women.csv
+--2008_november_ifsc_climbing_worldcup_moscow_[rus]_speed_men.csv
+--2008_november_ifsc_climbing_worldcup_moscow_[rus]_speed_women.csv
+IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008
+--2008_november_ifsc_climbing_worldcup_kranj_[slo]_lead_men.csv
+--2008_november_ifsc_climbing_worldcup_kranj_[slo]_lead_women.csv
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+--2007_march_ifsc_climbing_worldcup_erlangen_[ger]_boulder_men.csv
+--2007_march_ifsc_climbing_worldcup_erlangen_[ger]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+IFSC Climbing Worldcup (S) - Tarnow (POL) 2007
+--2007_april_ifsc_climbing_worldcup_sofia_[bul]_boulder_men.csv
+--2007_april_ifsc_climbing_worldcup_sofia_[bul]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+--2007_april_ifsc_climbing_worldcup_hall_[aut]_boulder_men.csv
+--2007_april_ifsc_climbing_worldcup_hall_[aut]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+IFSC Climbing Worldcup (S) - Trento (ITA) 2007
+--2007_may_ifsc_climbing_worldcup_la_reunion_[fra]_boulder_men.csv
+--2007_may_ifsc_climbing_worldcup_la_reunion_[fra]_boulder_women.csv
+IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+--2007_may_ifsc_climbing_worldcup_imst_[aut]_lead_men.csv
+--2007_may_ifsc_climbing_worldcup_imst_[aut]_lead_women.csv
+IFSC Climbing Worldcup (L) - Imst (AUT) 2007
+--2007_june_ifsc_climbing_worldcup_grindelwald_[sui]_boulder_men.csv
+--2007_june_ifsc_climbing_worldcup_grindelwald_[sui]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+--2007_june_ifsc_climbing_worldcup_zürich_[sui]_lead_men.csv
+--2007_june_ifsc_climbing_worldcup_zürich_[sui]_lead_women.csv
+IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
+--2007_june_ifsc_climbing_worldcup_fiera_di_primiero_[ita]_boulder_men.csv
+--2007_june_ifsc_climbing_worldcup_fiera_di_primiero_[ita]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+--2007_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_men.csv
+--2007_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_women.csv
+IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
+IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007
+--2007_august_ifsc_climbing_worldcup_qinghai_[chn]_lead_men.csv
+--2007_august_ifsc_climbing_worldcup_qinghai_[chn]_lead_women.csv
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
+--2007_september_ifsc_climbing_world_championship_aviles_[esp]_lead_women.csv
+--2007_september_ifsc_climbing_world_championship_aviles_[esp]_boulder_men.csv
+--2007_september_ifsc_climbing_world_championship_aviles_[esp]_boulder_women.csv
+IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+--2007_september_ifsc_climbing_worldcup_puurs_[bel]_lead_men.csv
+--2007_september_ifsc_climbing_worldcup_puurs_[bel]_lead_women.csv
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
+--2007_october_ifsc_climbing_worldcup_kazo_[jpn]_lead_men.csv
+--2007_october_ifsc_climbing_worldcup_kazo_[jpn]_lead_women.csv
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
+--2007_november_ifsc_climbing_worldcup_valence_[fra]_lead_men.csv
+--2007_november_ifsc_climbing_worldcup_valence_[fra]_lead_women.csv
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007
+--2007_november_ifsc_climbing_worldcup_brno_[cze]_boulder_men.csv
+--2007_november_ifsc_climbing_worldcup_brno_[cze]_boulder_women.csv
+IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+--2007_november_ifsc_climbing_worldcup_kranj_[slo]_lead_men.csv
+--2007_november_ifsc_climbing_worldcup_kranj_[slo]_lead_women.csv
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
+IFSC Climbing World Championships - Arco (ITA) 2011
+IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2021 - CANCELLED
+--2023_april_ifsc_climbing_world_cup_hachioji_[jpn]_boulder_men.csv
+--2023_april_ifsc_climbing_world_cup_hachioji_[jpn]_boulder_women.csv
+IFSC - Climbing World Cup (B) - Hachioji (JPN) 2023
+IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2023
