@@ -4,3 +4,4 @@
 *.chromedriver
 .gitignore.bak
 IFSC Climbers.ipynb
+.ipynb_checkpoints/
