@@ -8,9 +8,6 @@ WORKDIR /app
 RUN apt-get update
 RUN apt-get install -y --no-install-recommends $DEPS
 
-# ADD ./requirements_dev.txt /app/requirements_dev.txt
-# RUN pip install -r requirements_dev.txt
-
 ADD ./requirements.txt /app/requirements.txt
 RUN pip install -r requirements.txt
 
