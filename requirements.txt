@@ -8,7 +8,7 @@ cufflinks
 seaborn
 selenium
 chart_studio
-
+itables
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
 jupyterlab
