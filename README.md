@@ -27,6 +27,7 @@ This project scrapes ONLY the IFSC World Cup competitions from 2007-present day.
   * Dataframes to identify top climbers by year and by country.
 * Scraper class is in its own separate file, and the analysis is also in it's own separate file.
 * Have implemented several plotly visualizations to make notebook more interactive
+* Added deploy.yml file to set foundation for GitHub Actions & Pages
 
 ## To-Do List
 * Implement a more thorough analysis of the data - IN PROGRESS
@@ -39,6 +40,8 @@ This project scrapes ONLY the IFSC World Cup competitions from 2007-present day.
   * Possibly create some Tableau dashboards for more interactivity - MAYBE (focusing on plotly for now)
   * Plotly visualizations? - IN PROGRESS
     * Continuing to learn and add plotly choropleth, bar, line, and heatmap graphs
+  * Look into itables to allow search bar for people to look up specific climbers
 * Add Women's analysis
 * Combine Men's & Women's to look at *ALL* climbers simultaneously?
 * Possibly learn how to implement [GitHub Actions](https://github.com/features/actions)?
+  * ~~Figure out basic foundation for GitHub Actions~~ - DONE
