@@ -6,11 +6,11 @@ install:
 
 # build docker image
 build:
-	docker build -t mycontainer . -f Dockerfile
+	docker build -t ifsc . -f Dockerfile
 
 # run docker image
 run:
-	docker run --rm -it mycontainer bash
+	docker run --rm -it ifsc bash
 
 # convert ipynb to html
 convert:
@@ -25,4 +25,4 @@ convert:
 # build docker and use to convert
 all:
 	make build \
-	&& docker run -it -v ${PWD}/docs:/app/docs mycontainer make convert
+	&& docker run -it -v ${PWD}/docs:/app/docs ifsc make convert

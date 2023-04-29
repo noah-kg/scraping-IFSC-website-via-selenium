@@ -1,5 +1,4 @@
-# This is a basic workflow to help you get started with Actions
-name: Convert Jupyter Notebook and deploy to GitHub Pages
+name: Convert Jupyter Notebook and Deploy to GitHub Pages
 
 # Controls when the workflow will run
 on:
@@ -29,6 +28,13 @@ jobs:
         run: |
           ls ${{ github.workspace }}
 
+      # Login to Docker Hub
+      - name: Login to Docker Hub
+        uses: docker/login-action@v2
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+
       # Try to implement Docker caching
       - name: Configure Docker Buildx
         uses: docker/setup-buildx-action@v2
@@ -39,14 +45,29 @@ jobs:
           context: .
           cache-from: type=gha
           cache-to: type=gha,mode=max
-          tags: mycontainer
+          file: ./Dockerfile
+          push: true
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/ifsc:latest
       
-      # Converts
-      - name: Convert notebook
-        run: docker run -v $PWD/docs:/app/docs mycontainer make convert
-
-      - name: List files in the docs folder
+      - name: Try to display things
+      #   run: echo "${PWD}" #/home/runner/work/scraping-IFSC-website-via-selenium/scraping-IFSC-website-via-selenium
+        # run: docker ps # ID: a166cc5a30c9 NAME: buildx_buildkit_builder-42b3ad29-6b22-4a8a-b96d-7639ef2fddbe0
         run: |
-          ls docs
+          docker images
+        # run: 
+
+      # - name: Try to create subdir and convert
+      #   run: |
+      #     docker run -v ${PWD}/docs:/app/docs ifsc make convert
+
+      # Converts
+      # - name: Convert Notebook to HTML
+        # run: docker run -v $PWD/docs:/app/docs mycontainer make convert
+        # run: docker run -v $PWD:/app/docs ifsc make convert
+        # run: docker run -v ${{ secrets.DOCKERHUB_USERNAME }}/ifsc/app/docs ifsc make convert
+
+      # - name: List files in the docs folder
+      #   run: |
+      #     ls docs
       # - name: Build Docker image
       #   run: docker build -t mycontainer . -f Dockerfile
