@@ -24,7 +24,7 @@ jobs:
       # Uses an updated layer caching without deprecation warnings
       - name: Docker Layer Caching
         uses: jpribyl/action-docker-layer-caching@v0.1.1
-          continue-on-error: true
+        continue-on-error: true
       
       # Builds docker image
       - name: Build docker images
