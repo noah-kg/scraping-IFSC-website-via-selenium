@@ -20,7 +20,7 @@ convert:
 	--TemplateExporter.exclude_input=True \
 	--TemplateExporter.exclude_output_prompt=True \
 	--to html "IFSC Analysis.ipynb" \
-	--output docs/analysis.html
+	--output docs/index.html
 
 # build docker and use to convert
 all:
