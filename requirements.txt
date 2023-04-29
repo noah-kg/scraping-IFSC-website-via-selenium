@@ -9,9 +9,9 @@ seaborn
 selenium
 chart_studio
 itables
+nbconvert
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
 jupyterlab
-nbconvert==6.4.2
 jupyter-client==7.1.2
 jinja2==3.0.3
