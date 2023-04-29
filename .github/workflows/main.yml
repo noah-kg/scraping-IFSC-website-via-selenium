@@ -54,7 +54,8 @@ jobs:
         # run: docker ps # ID: a166cc5a30c9 NAME: buildx_buildkit_builder-42b3ad29-6b22-4a8a-b96d-7639ef2fddbe0
         run: |
           docker images
-        # run: docker exec ifsc pwd
+          docker exec a166cc5a30c9 pwd
+        # run: 
 
       # - name: Try to create subdir and convert
       #   run: |
