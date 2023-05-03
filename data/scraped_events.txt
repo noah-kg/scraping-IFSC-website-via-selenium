@@ -875,4 +875,8 @@ IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2021 - CANCELLED
 --2023_april_ifsc_climbing_world_cup_hachioji_[jpn]_boulder_men.csv
 --2023_april_ifsc_climbing_world_cup_hachioji_[jpn]_boulder_women.csv
 IFSC - Climbing World Cup (B) - Hachioji (JPN) 2023
+--2023_april_ifsc_climbing_world_cup_seoul_[kor]_boulder_men.csv
+--2023_april_ifsc_climbing_world_cup_seoul_[kor]_boulder_women.csv
+--2023_april_ifsc_climbing_world_cup_seoul_[kor]_speed_men.csv
+--2023_april_ifsc_climbing_world_cup_seoul_[kor]_speed_women.csv
 IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2023
