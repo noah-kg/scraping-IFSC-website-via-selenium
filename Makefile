@@ -17,6 +17,7 @@ convert:
 	jupyter nbconvert --execute \
 	--ExecutePreprocessor.timeout=600 \
 	--TemplateExporter.exclude_input=True \
+	--TemplateExporter.exclude_input_prompt=True \
 	--TemplateExporter.exclude_output_prompt=True \
 	--to html "IFSC Analysis.ipynb" \
 	--output docs/index.html
