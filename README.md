@@ -8,13 +8,14 @@ The International Federation of Sport Climbing ([IFSC](https://en.wikipedia.org/
 I really love climbing, bouldering in particular, so I figured a project involving climbing would be great for me. I also think web-scraping is insanely useful and really fascinating - though I still have a lot to learn about it.
 
 ## What data does this scrape?
-This project scrapes ONLY the IFSC World Cup competitions from 2007-present day. Additionally, some events were not able to be scraped because the data is incomplete on the IFSC website (the data format is incorrect, or rounds are missing, or the data literally isn't there). In cases where this occurs, I simply skip that event/category entirely. The data scraped by my code produces .csv files where each row represents an individual climber and their respective results for the given event.
+This project scrapes ONLY the IFSC World Cup competitions from 2007-present day. Additionally, some events were not able to be scraped because the data is incomplete on the IFSC website (the data format is incorrect, or rounds are missing, or the data literally isn't there). In cases where this occurs, I simply skip that event/category entirely (until I can come up with a reasonable solution at least). For example, sometimes due to weather or other issues, events get postponed, or paritally postponed. This can lead to events such as the World Cup event in Seoul, South Korea 2023, where the rain caused delays and the semi-final round acted as the finals. The results page only lists qualification and semi-final rounds, but currently my code checks for all three rounds. This is a work in progress. The data scraped by my code produces .csv files for each event where each row represents an individual climber and their respective results for the given event.
 
 ## Project Goals
 * Learn how to use [Selenium](https://www.selenium.dev/) to both scrape the [International Federation of Sport Climbing](https://www.ifsc-climbing.org/) website as well as navigate it
 * Exploratory Data Analysis
 * Improve/practice my Python programming as well as my data storytelling
 * Learn how to use GitHub Pages/Actions to better display the results of the notebook instead of all the code inside
+* Learn how to better display and present my notebooks to others (using nbconvert and the aforementioned Actions/Pages)
 
 ## Current Status
 * Implemented a class to navigate and scrape the [results page](https://www.ifsc-climbing.org/index.php/world-competition/last-result) of the IFSC site
@@ -41,9 +42,11 @@ This project scrapes ONLY the IFSC World Cup competitions from 2007-present day.
 * Work on some static visualizations
   - [ ] Possibly create some Tableau dashboards for more interactivity - MAYBE (focusing on plotly for now)
   - [x] Plotly visualizations
-    - [ ] Continuing to learn and add plotly choropleth, bar, line, and heatmap graphs
+    - [ ] Try to solidify the template, so that it's faster to implement
+    - [x] Continuing to learn and add plotly choropleth, bar, line, and heatmap graphs
   - [x] Look into itables to allow search bar for people to look up specific climbers
 * Figure out HTML issues so that notebook displays "nicely"
+  - [ ] Figure out why static visualizations are getting slightly distorted after html conversion
   - [ ] Identify issue with itables horizontal scrolling (even though there's space)
   - [ ] Set column widths for certain tables to ensure readability
 * Add Women's analysis
