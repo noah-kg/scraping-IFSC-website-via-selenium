@@ -1,17 +1,17 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",82,1,MARIIA KRASAVINA,RUS,8.030,7.86
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",479,2,ANOUCK JAUBERT,FRA,8.130,8.11
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2834,3,EDYTA ROPEK,POL,8.570,12.31
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",110,4,IULIIA KAPLINA,RUS,8.360,FALL
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2848,5,ALEKSANDRA MIROSLAW,POL,8.920,8.57
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",1493,6,ALLA MARENYCH,UKR,9.040,10.03
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2847,7,KLAUDIA BUCZEK,POL,8.840,10.52
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",73,8,ANNA TSYGANOVA,RUS,8.370,14.66
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",1230,9,ALEXANDRA ELMER,AUT,9.620,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",1233,10,NINA LACH,AUT,9.720,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",119,11,SVETLANA MOTOVILOVA,RUS,9.790,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",3209,12,ANDREA ROJAS,ECU,10.920,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2946,13,ZHUOMA PUBU,CHN,13.020,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2267,14,RISA OTA,JPN,20.720,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2035,15,JAIN KIM,KOR,21.170,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2855,16,ANNA BROZEK,POL,FALL,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",82,1,MARIIA KRASAVINA,F,RUS,8.030,7.86
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",479,2,ANOUCK JAUBERT,F,FRA,8.130,8.11
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2834,3,EDYTA ROPEK,F,POL,8.570,12.31
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",110,4,IULIIA KAPLINA,F,RUS,8.360,FALL
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2848,5,ALEKSANDRA MIROSLAW,F,POL,8.920,8.57
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",1493,6,ALLA MARENYCH,F,UKR,9.040,10.03
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2847,7,KLAUDIA BUCZEK,F,POL,8.840,10.52
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",73,8,ANNA TSYGANOVA,F,RUS,8.370,14.66
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",1230,9,ALEXANDRA ELMER,F,AUT,9.620,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",1233,10,NINA LACH,F,AUT,9.720,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",119,11,SVETLANA MOTOVILOVA,F,RUS,9.790,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",3209,12,ANDREA ROJAS,F,ECU,10.920,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2946,13,ZHUOMA PUBU,F,CHN,13.020,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2267,14,RISA OTA,F,JPN,20.720,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2035,15,JAIN KIM,F,KOR,21.170,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2855,16,ANNA BROZEK,F,POL,FALL,

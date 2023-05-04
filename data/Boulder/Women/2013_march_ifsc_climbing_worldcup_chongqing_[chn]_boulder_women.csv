@@ -1,23 +1,23 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",1211,1,ANNA STÖHR,AUT,5T6 5B5,4T8 4B5,3T5 4B6
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2263,2,MOMOKA ODA,JPN,5T5 5B5,3T5 4B6,2T3 3B3
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",1710,3,ALEX PUCCIO,USA,5T5 5B5,3T4 4B5,2T3 3B4
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2253,4,AKIYO NOGUCHI,JPN,5T5 5B5,3T3 4B4,2T5 3B6
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",636,5,SHAUNA COXSEY,GBR,5T5 5B5,3T5 4B7,1T1 3B3
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2013,6,MONIKA RETSCHY,GER,5T7 5B6,3T6 4B7,0T 3B3
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2823,7,JULIANE WURM,GER,5T5 5B5,3T6 3B3,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",1209,8,KATHARINA SAURWEIN,AUT,5T5 5B5,3T7 4B5,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2035,9,JAIN KIM,KOR,5T5 5B5,3T12 3B11,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",638,10,MINA LESLIE-WUJASTYK,GBR,4T4 5B5,2T2 3B4,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",58,11,YANA CHERESHNEVA,RUS,5T5 5B5,2T5 4B6,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",1122,12,MINA MARKOVIC,SLO,5T5 5B5,2T7 4B7,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2047,13,SOL SA,KOR,4T5 5B6,2T10 4B10,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",44,14,OLGA IAKOVLEVA,RUS,5T5 5B5,1T1 4B10,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",454,15,MELISSA LE NEVE,FRA,5T5 5B5,1T2 3B4,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",50,16,TATIANA SHEMULINKINA,RUS,3T3 5B5,1T4 3B6,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2935,17,RONG JIANG,CHN,3T5 4B6,0T 3B6,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",3357,18,TAMARA ULZHABAYEVA,KAZ,4T6 4B6,0T 3B10,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",4763,19,DIANE MERRICK,GBR,5T6 5B6,0T 2B3,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",6226,20,YUNQING LIU,CHN,3T7 5B10,0T 1B1,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2668,21,DANIELA EBLER,SWE,2T4 4B5,,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",6227,22,KAJSA WIKLUND,SWE,1T3 1B1,,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",1211,1,ANNA STÖHR,F,AUT,5T6 5B5,4T8 4B5,3T5 4B6
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2263,2,MOMOKA ODA,F,JPN,5T5 5B5,3T5 4B6,2T3 3B3
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",1710,3,ALEX PUCCIO,F,USA,5T5 5B5,3T4 4B5,2T3 3B4
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2253,4,AKIYO NOGUCHI,F,JPN,5T5 5B5,3T3 4B4,2T5 3B6
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",636,5,SHAUNA COXSEY,F,GBR,5T5 5B5,3T5 4B7,1T1 3B3
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2013,6,MONIKA RETSCHY,F,GER,5T7 5B6,3T6 4B7,0T 3B3
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2823,7,JULIANE WURM,F,GER,5T5 5B5,3T6 3B3,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",1209,8,KATHARINA SAURWEIN,F,AUT,5T5 5B5,3T7 4B5,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2035,9,JAIN KIM,F,KOR,5T5 5B5,3T12 3B11,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",638,10,MINA LESLIE-WUJASTYK,F,GBR,4T4 5B5,2T2 3B4,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",58,11,YANA CHERESHNEVA,F,RUS,5T5 5B5,2T5 4B6,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",1122,12,MINA MARKOVIC,F,SLO,5T5 5B5,2T7 4B7,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2047,13,SOL SA,F,KOR,4T5 5B6,2T10 4B10,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",44,14,OLGA IAKOVLEVA,F,RUS,5T5 5B5,1T1 4B10,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",454,15,MELISSA LE NEVE,F,FRA,5T5 5B5,1T2 3B4,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",50,16,TATIANA SHEMULINKINA,F,RUS,3T3 5B5,1T4 3B6,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2935,17,RONG JIANG,F,CHN,3T5 4B6,0T 3B6,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",3357,18,TAMARA ULZHABAYEVA,F,KAZ,4T6 4B6,0T 3B10,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",4763,19,DIANE MERRICK,F,GBR,5T6 5B6,0T 2B3,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",6226,20,YUNQING LIU,F,CHN,3T7 5B10,0T 1B1,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2668,21,DANIELA EBLER,F,SWE,2T4 4B5,,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",6227,22,KAJSA WIKLUND,F,SWE,1T3 1B1,,

@@ -1,17 +1,17 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2929,1,QIXIN ZHONG,CHN,6.320,6.02
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1359,2,LIBOR HROZA,CZE,6.270,6.06
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",7613,3,BASSA MAWEM,FRA,6.410,6.04
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",74,4,STANISLAV KOKORIN,RUS,6.400,6.25
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",109,5,ALEKSANDR SHIKOV,RUS,6.420,6.46
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",56,6,EVGENII VAITSEKHOVSKII,RUS,6.400,6.51
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",86,7,ARSENII SHEVCHENKO,RUS,6.590,6.60
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2845,8,MARCIN DZIENSKI,POL,6.350,7.08
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",464,9,QUENTIN NAMBOT,FRA,6.880,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1480,10,DANYIL BOLDYREV,UKR,6.930,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",154,11,ALEKSANDR SHILOV,RUS,7.310,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",76,12,ARTEM SAVELYEV,RUS,7.730,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1574,13,ROBERT STEWART-PATTERSON,CAN,7.910,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2063,14,JUNGJU KIM,KOR,8.890,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1559,15,SEAN MCCOLL,CAN,9.240,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2938,16,ZIDA MA,CHN,FALL,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2929,1,QIXIN ZHONG,M,CHN,6.320,6.02
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1359,2,LIBOR HROZA,M,CZE,6.270,6.06
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",7613,3,BASSA MAWEM,M,FRA,6.410,6.04
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",74,4,STANISLAV KOKORIN,M,RUS,6.400,6.25
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",109,5,ALEKSANDR SHIKOV,M,RUS,6.420,6.46
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",56,6,EVGENII VAITSEKHOVSKII,M,RUS,6.400,6.51
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",86,7,ARSENII SHEVCHENKO,M,RUS,6.590,6.60
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2845,8,MARCIN DZIENSKI,M,POL,6.350,7.08
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",464,9,QUENTIN NAMBOT,M,FRA,6.880,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1480,10,DANYIL BOLDYREV,M,UKR,6.930,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",154,11,ALEKSANDR SHILOV,M,RUS,7.310,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",76,12,ARTEM SAVELYEV,M,RUS,7.730,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1574,13,ROBERT STEWART-PATTERSON,M,CAN,7.910,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2063,14,JUNGJU KIM,M,KOR,8.890,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1559,15,SEAN MCCOLL,M,CAN,9.240,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2938,16,ZIDA MA,M,CHN,FALL,

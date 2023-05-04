@@ -1,38 +1,38 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",1359,1,LIBOR HROZA,CZE,9.250,11.26
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",48,2,SERGEI SINITCYN,RUS,8.310,FALL
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",74,3,STANISLAV KOKORIN,RUS,8.680,7.27
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4882,4,ZUFAR NIGMANOV,RUS,8.970,7.71
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",2932,5,NING ZHANG,CHN,8.500,7.92
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",2929,6,QIXIN ZHONG,CHN,8.190,8.14
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4883,7,VAGINAK SIREKANYAN,RUS,9.080,8.78
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",1470,8,MAKSYM STYENKOVYY,UKR,8.340,9.17
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4745,9,LUKASZ SWIRK,POL,8.620,8.36
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4746,10,MAKSYM OSIPOV,UKR,9.170,9.27
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",2167,11,CSABA KOMONDI,HUN,9.610,9.39
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",66,12,ARMAN TER-MINASYAN,RUS,10.230,9.88
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",86,13,ARSENII SHEVCHENKO,RUS,9.010,10.39
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4887,14,YAROSLAV TOPAL,UKR,10.030,10.57
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",56,15,EVGENII VAITSEKHOVSKII,RUS,8.760,11.48
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4744,16,IVAN NOVIKOV,RUS,9.700,FALL
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",2849,17,RAFAL HALASA,POL,10.260,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4953,18,YOANN LE COUSTER,FRA,10.360,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4952,19,ANDRES QUINTEROS,ECU,10.440,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",450,20,THOMAS DUPIN,FRA,10.450,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",2838,21,JEDRZEJ KOMOSINSKI,POL,10.470,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4581,22,TOMASZ OLEKSY,POL,10.950,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",855,23,STEFANO GHISOLFI,ITA,11.050,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",856,24,LEONARDO GONTERO,ITA,11.220,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4747,24,OLEKSIY YURKO,UKR,11.220,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4954,26,EMILIEN JOBERT,FRA,11.500,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4955,27,JOAKIM EL ANHARI,FRA,11.530,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4749,28,JAKUB POCIECHA,POL,11.710,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4956,29,VINCENT CHAVOT,FRA,12.340,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4754,29,GYULA JUHASZ,HUN,12.340,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4957,31,MICHEL SIROTTI,ITA,12.380,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",474,32,GUILLAUME MORO,FRA,12.410,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",64,33,SERGEY ABDRAKHMANOV,RUS,12.450,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4750,34,HUBERT STYLA,POL,12.570,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4958,35,CLEMENT CAILLEUX,FRA,14.140,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4959,36,BAPTISTE MICHAUX,FRA,21.710,
-"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4753,37,SALAH BOULBAHAIEM,BEL,FALL,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",1359,1,LIBOR HROZA,M,CZE,9.250,11.26
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",48,2,SERGEI SINITCYN,M,RUS,8.310,FALL
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",74,3,STANISLAV KOKORIN,M,RUS,8.680,7.27
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4882,4,ZUFAR NIGMANOV,M,RUS,8.970,7.71
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",2932,5,NING ZHANG,M,CHN,8.500,7.92
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",2929,6,QIXIN ZHONG,M,CHN,8.190,8.14
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4883,7,VAGINAK SIREKANYAN,M,RUS,9.080,8.78
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",1470,8,MAKSYM STYENKOVYY,M,UKR,8.340,9.17
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4745,9,LUKASZ SWIRK,M,POL,8.620,8.36
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4746,10,MAKSYM OSIPOV,M,UKR,9.170,9.27
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",2167,11,CSABA KOMONDI,M,HUN,9.610,9.39
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",66,12,ARMAN TER-MINASYAN,M,RUS,10.230,9.88
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",86,13,ARSENII SHEVCHENKO,M,RUS,9.010,10.39
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4887,14,YAROSLAV TOPAL,M,UKR,10.030,10.57
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",56,15,EVGENII VAITSEKHOVSKII,M,RUS,8.760,11.48
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4744,16,IVAN NOVIKOV,M,RUS,9.700,FALL
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",2849,17,RAFAL HALASA,M,POL,10.260,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4953,18,YOANN LE COUSTER,M,FRA,10.360,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4952,19,ANDRES QUINTEROS,M,ECU,10.440,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",450,20,THOMAS DUPIN,M,FRA,10.450,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",2838,21,JEDRZEJ KOMOSINSKI,M,POL,10.470,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4581,22,TOMASZ OLEKSY,M,POL,10.950,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",855,23,STEFANO GHISOLFI,M,ITA,11.050,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",856,24,LEONARDO GONTERO,M,ITA,11.220,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4747,24,OLEKSIY YURKO,M,UKR,11.220,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4954,26,EMILIEN JOBERT,M,FRA,11.500,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4955,27,JOAKIM EL ANHARI,M,FRA,11.530,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4749,28,JAKUB POCIECHA,M,POL,11.710,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4956,29,VINCENT CHAVOT,M,FRA,12.340,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4754,29,GYULA JUHASZ,M,HUN,12.340,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4957,31,MICHEL SIROTTI,M,ITA,12.380,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",474,32,GUILLAUME MORO,M,FRA,12.410,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",64,33,SERGEY ABDRAKHMANOV,M,RUS,12.450,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4750,34,HUBERT STYLA,M,POL,12.570,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4958,35,CLEMENT CAILLEUX,M,FRA,14.140,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4959,36,BAPTISTE MICHAUX,M,FRA,21.710,
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",4753,37,SALAH BOULBAHAIEM,M,BEL,FALL,

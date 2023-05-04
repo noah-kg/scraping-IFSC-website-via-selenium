@@ -1,31 +1,31 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3471,1,REZA ALIPOUR SHENAZANDIFARD,IRI,6.100,WILDCARD
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,1359,2,LIBOR HROZA,CZE,6.310,FALSE START
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2845,3,MARCIN DZIENSKI,POL,6.090,5.97
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,74,4,STANISLAV KOKORIN,RUS,6.390,6.91
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,7613,5,BASSA MAWEM,FRA,5.980,6.05
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,1480,6,DANYIL BOLDYREV,UKR,6.100,6.07
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,105,7,DMITRII TIMOFEEV,RUS,6.050,6.13
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,154,8,ALEKSANDR SHILOV,RUS,6.270,7.10
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,109,9,ALEKSANDR SHIKOV,RUS,6.410,6.21
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,856,10,LEONARDO GONTERO,ITA,6.420,6.32
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3259,11,PANDU ASMORO GALAR,INA,6.540,6.51
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,56,12,EVGENII VAITSEKHOVSKII,RUS,6.810,6.74
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3258,13,YULIANTO ABUDZAR,INA,6.690,6.82
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3276,14,SUFRIYANTO RINDI,INA,6.710,6.93
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3487,15,MORTEZA MOHAMMADI,IRI,6.890,7.00
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2950,16,PENGHUI LIN,CHN,6.720,8.92
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2951,17,ZHIYONG OU,CHN,6.900,
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2856,18,MICHAL LEWICKI,POL,7.180,
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2944,19,ZHIXUAN CHEN,CHN,7.450,
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2965,20,YURONG DUAN,CHN,7.640,
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2938,21,ZIDA MA,CHN,7.730,
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,861,22,ALESSANDRO SANTONI,ITA,7.820,
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,1478,23,IGOR TYAPKIN,UKR,7.860,
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2860,24,TOMASZ SORDYL,POL,8.300,
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,1559,25,SEAN MCCOLL,CAN,8.340,
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2947,26,YUFEI PAN,CHN,8.640,
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2931,27,HAIBIN QU,CHN,8.940,
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3368,28,YERZHAN BEISEMBAYEV,KAZ,10.330,
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3707,29,NYAMBAYAR LKHAGVABAZAR,MGL,18.150,
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3706,30,ENKHBAATAR DORJSUREN,MGL,18.740,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3471,1,REZA ALIPOUR SHENAZANDIFARD,M,IRI,6.100,WILDCARD
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,1359,2,LIBOR HROZA,M,CZE,6.310,FALSE START
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2845,3,MARCIN DZIENSKI,M,POL,6.090,5.97
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,74,4,STANISLAV KOKORIN,M,RUS,6.390,6.91
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,7613,5,BASSA MAWEM,M,FRA,5.980,6.05
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,1480,6,DANYIL BOLDYREV,M,UKR,6.100,6.07
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,105,7,DMITRII TIMOFEEV,M,RUS,6.050,6.13
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,154,8,ALEKSANDR SHILOV,M,RUS,6.270,7.10
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,109,9,ALEKSANDR SHIKOV,M,RUS,6.410,6.21
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,856,10,LEONARDO GONTERO,M,ITA,6.420,6.32
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3259,11,PANDU ASMORO GALAR,M,INA,6.540,6.51
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,56,12,EVGENII VAITSEKHOVSKII,M,RUS,6.810,6.74
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3258,13,YULIANTO ABUDZAR,M,INA,6.690,6.82
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3276,14,SUFRIYANTO RINDI,M,INA,6.710,6.93
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3487,15,MORTEZA MOHAMMADI,M,IRI,6.890,7.00
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2950,16,PENGHUI LIN,M,CHN,6.720,8.92
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2951,17,ZHIYONG OU,M,CHN,6.900,
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2856,18,MICHAL LEWICKI,M,POL,7.180,
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2944,19,ZHIXUAN CHEN,M,CHN,7.450,
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2965,20,YURONG DUAN,M,CHN,7.640,
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2938,21,ZIDA MA,M,CHN,7.730,
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,861,22,ALESSANDRO SANTONI,M,ITA,7.820,
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,1478,23,IGOR TYAPKIN,M,UKR,7.860,
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2860,24,TOMASZ SORDYL,M,POL,8.300,
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,1559,25,SEAN MCCOLL,M,CAN,8.340,
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2947,26,YUFEI PAN,M,CHN,8.640,
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2931,27,HAIBIN QU,M,CHN,8.940,
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3368,28,YERZHAN BEISEMBAYEV,M,KAZ,10.330,
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3707,29,NYAMBAYAR LKHAGVABAZAR,M,MGL,18.150,
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3706,30,ENKHBAATAR DORJSUREN,M,MGL,18.740,

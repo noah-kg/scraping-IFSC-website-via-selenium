@@ -1,35 +1,35 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,1214,1,JAKOB SCHUBERT,AUT,TOP  1. | 37-  2. [2.45],34+,38-
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,2254,2,SACHI AMMA,JPN,TOP  1. | TOP  1. [1.73],35-,34-
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,437,3,ROMAIN DESGRANGES,FRA,32-  12. | 33-  8. [10.39],29,34-
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,447,4,MANUEL ROMAIN,FRA,38-  6. | 34-  7. [6.75],27-,33+
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,3577,5,JORG VERHOEVEN,NED,TOP  1. | 35   5. [3.87],29+,30
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6088,6,MATTY HONG,USA,34-  10. | 28-  13. [12.34],25,29+
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,1559,7,SEAN MCCOLL,CAN,TOP  1. | 36-  3. [3.24],35-,18-
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,773,8,RAMÓN JULIAN PUIGBLANQUE,ESP,TOP  1. | 36-  3. [3.24],35-,17-
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,3124,9,THOMAS TAUPORN,GER,38-  6. | 29-  11. [8.65],25-,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,1216,10,MARIO LECHNER,AUT,32-  12. | 22   21. [16.84],25-,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,1709,11,CARLO TRAVERSI,USA,32-  12. | 28-  13. [13.99],23,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,444,12,GAUTIER SUPPER,FRA,36+  8. | 35-  6. [6.93],23-,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,1128,13,JURE RAZTRESEN,SLO,32-  12. | 30+  10. [11.62],23-,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,4937,14,KAZUMA WATANABE,JPN,25+  20. | 31   9. [13.42],23-,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,5256,15,EDUARD MARIN GARCIA,ESP,34   9. | 23-  18. [13.08],22-,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6128,16,BEN HOBERG,USA,27-  17. | 28-  13. [15.93],22-,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,1129,17,DOMEN SKOFIC,SLO,34-  10. | 19   26. [16.68],22-,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,1723,18,NOAH RIDGE,USA,23   26. | 28-  13. [19.60],22-,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,1576,19,ELAN JONASMCRAE,CAN,26-  19. | 23-  18. [19.00],21+,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,4850,20,IAN DORY,USA,25-  21. | 24-  17. [19.12],21+,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,4934,21,SHINTA OZAWA,JPN,24+  23. | 29-  11. [16.26],19,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,4716,22,KLEMEN BECAN,SLO,28   16. | 23-  18. [17.44],19-,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,1713,23,JOSH LEVIN,USA,27-  17. | 20-  22. [20.06],19-,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6073,24,RYAN SEWELL,USA,23+  25. | 19+  25. [25.00],19-,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6129,25,BEN SPANNUTH,USA,24-  24. | 20-  22. [23.49],11,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,5250,26,MIKE DOYLE,CAN,25-  21. | 17-  29. [25.40],11,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6130,27,SHANE PUCCIO,USA,12-  29. | 20-  22. [26.49],,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6131,28,OWEN GRAHAM,USA,23   26. | 19   26. [26.50],,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,4849,29,ALEX JOHNSON,USA,19   28. | 17-  29. [28.98],,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6132,30,KEVIN MACARTNEY,USA,12-  29. | 17+  28. [29.22],,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,3134,31,ANDERSON GOUVEIA,BRA,12-  29. | 17-  29. [30.25],,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6133,32,SANTIAGO FERNANDO VALERGA,ARG,12-  29. | 6-  34. [32.20],,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6134,33,CAIO LOPES DA SILVA,BRA,8-  33. | 15-  32. [32.74],,
-IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6135,34,STEVE HONG,USA,8-  33. | 13+  33. [33.25],,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,1214,1,JAKOB SCHUBERT,M,AUT,TOP  1. | 37-  2. [2.45],34+,38-
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,2254,2,SACHI AMMA,M,JPN,TOP  1. | TOP  1. [1.73],35-,34-
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,437,3,ROMAIN DESGRANGES,M,FRA,32-  12. | 33-  8. [10.39],29,34-
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,447,4,MANUEL ROMAIN,M,FRA,38-  6. | 34-  7. [6.75],27-,33+
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,3577,5,JORG VERHOEVEN,M,NED,TOP  1. | 35   5. [3.87],29+,30
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6088,6,MATTY HONG,M,USA,34-  10. | 28-  13. [12.34],25,29+
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,1559,7,SEAN MCCOLL,M,CAN,TOP  1. | 36-  3. [3.24],35-,18-
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,773,8,RAMÓN JULIAN PUIGBLANQUE,M,ESP,TOP  1. | 36-  3. [3.24],35-,17-
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,3124,9,THOMAS TAUPORN,M,GER,38-  6. | 29-  11. [8.65],25-,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,1216,10,MARIO LECHNER,M,AUT,32-  12. | 22   21. [16.84],25-,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,1709,11,CARLO TRAVERSI,M,USA,32-  12. | 28-  13. [13.99],23,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,444,12,GAUTIER SUPPER,M,FRA,36+  8. | 35-  6. [6.93],23-,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,1128,13,JURE RAZTRESEN,M,SLO,32-  12. | 30+  10. [11.62],23-,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,4937,14,KAZUMA WATANABE,M,JPN,25+  20. | 31   9. [13.42],23-,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,5256,15,EDUARD MARIN GARCIA,M,ESP,34   9. | 23-  18. [13.08],22-,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6128,16,BEN HOBERG,M,USA,27-  17. | 28-  13. [15.93],22-,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,1129,17,DOMEN SKOFIC,M,SLO,34-  10. | 19   26. [16.68],22-,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,1723,18,NOAH RIDGE,M,USA,23   26. | 28-  13. [19.60],22-,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,1576,19,ELAN JONASMCRAE,M,CAN,26-  19. | 23-  18. [19.00],21+,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,4850,20,IAN DORY,M,USA,25-  21. | 24-  17. [19.12],21+,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,4934,21,SHINTA OZAWA,M,JPN,24+  23. | 29-  11. [16.26],19,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,4716,22,KLEMEN BECAN,M,SLO,28   16. | 23-  18. [17.44],19-,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,1713,23,JOSH LEVIN,M,USA,27-  17. | 20-  22. [20.06],19-,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6073,24,RYAN SEWELL,M,USA,23+  25. | 19+  25. [25.00],19-,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6129,25,BEN SPANNUTH,M,USA,24-  24. | 20-  22. [23.49],11,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,5250,26,MIKE DOYLE,M,CAN,25-  21. | 17-  29. [25.40],11,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6130,27,SHANE PUCCIO,M,USA,12-  29. | 20-  22. [26.49],,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6131,28,OWEN GRAHAM,M,USA,23   26. | 19   26. [26.50],,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,4849,29,ALEX JOHNSON,M,USA,19   28. | 17-  29. [28.98],,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6132,30,KEVIN MACARTNEY,M,USA,12-  29. | 17+  28. [29.22],,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,3134,31,ANDERSON GOUVEIA,M,BRA,12-  29. | 17-  29. [30.25],,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6133,32,SANTIAGO FERNANDO VALERGA,M,ARG,12-  29. | 6-  34. [32.20],,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6134,33,CAIO LOPES DA SILVA,M,BRA,8-  33. | 15-  32. [32.74],,
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,6135,34,STEVE HONG,M,USA,8-  33. | 13+  33. [33.25],,

@@ -1,29 +1,29 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",2380,1,AI MORI,JPN,183.2,169.3,190.9
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",1803,2,NATALIA GROSSMAN,USA,160.8,148.7,171.2
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",2080,3,CHAEHYUN SEO,KOR,150.8,118.8,131.8
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",1811,4,BROOKE RABOUTOU,USA,148.6,138.5,126.0
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",2294,5,MIHO NONAKA,JPN,122.9,138.7,104.0
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",2381,6,NATSUKI TANII,JPN,104.0,123.1,97.3
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",2357,7,FUTABA ITO,JPN,129.0,108.7,74.9
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",1161,8,MIA KRAMPL,SLO,101.6,100.4,63.8
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",13596,9,ZHILU LUO,CHN,82.9,82.3,
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",11783,10,RYU NAKAGAWA,JPN,89.2,78.9,
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",2343,11,NANAKO KURA,JPN,108.3,77.8,
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",462,12,MANON HILY,FRA,79.8,76.8,
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",316,13,CHLOE CAULIER,BEL,97.0,73.3,
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",11462,14,ORIANE BERTONE,FRA,159.4,67.9,
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",11813,15,CLOE COSCOY,USA,126.3,59.3,
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",3254,16,ANDREA KÜMIN,SUI,84.2,57.5,
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",2267,17,RISA OTA,JPN,84.9,55.6,
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",4330,18,LUCIA DÖRFFEL,GER,127.4,52.7,
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",13321,19,MIA AOYAGI,JPN,118.7,52.6,
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",12537,20,KYLIE CULLEN,USA,74.6,41.0,
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",3009,21,YUETONG ZHANG,CHN,61.9,,
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",1153,22,VITA LUKAN,SLO,57.5,,
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",4002,23,NOA SHIRAN,ISR,54.5,,
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",1565,24,ALANNAH YIP,CAN,49.3,,
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",2141,25,HSIU-JU LIN,TPE,35.8,,
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",2139,26,HUNG YING LEE,TPE,33.5,,
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",12902,27,MARIANA HANGGI CORREIA,BRA,14.3,,
-"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",14077,28,SELENGE NYAMDOO,MGL,0.0,,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",2380,1,AI MORI,F,JPN,183.2,169.3,190.9
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",1803,2,NATALIA GROSSMAN,F,USA,160.8,148.7,171.2
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",2080,3,CHAEHYUN SEO,F,KOR,150.8,118.8,131.8
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",1811,4,BROOKE RABOUTOU,F,USA,148.6,138.5,126.0
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",2294,5,MIHO NONAKA,F,JPN,122.9,138.7,104.0
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",2381,6,NATSUKI TANII,F,JPN,104.0,123.1,97.3
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",2357,7,FUTABA ITO,F,JPN,129.0,108.7,74.9
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",1161,8,MIA KRAMPL,F,SLO,101.6,100.4,63.8
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",13596,9,ZHILU LUO,F,CHN,82.9,82.3,
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",11783,10,RYU NAKAGAWA,F,JPN,89.2,78.9,
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",2343,11,NANAKO KURA,F,JPN,108.3,77.8,
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",462,12,MANON HILY,F,FRA,79.8,76.8,
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",316,13,CHLOE CAULIER,F,BEL,97.0,73.3,
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",11462,14,ORIANE BERTONE,F,FRA,159.4,67.9,
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",11813,15,CLOE COSCOY,F,USA,126.3,59.3,
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",3254,16,ANDREA KÜMIN,F,SUI,84.2,57.5,
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",2267,17,RISA OTA,F,JPN,84.9,55.6,
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",4330,18,LUCIA DÖRFFEL,F,GER,127.4,52.7,
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",13321,19,MIA AOYAGI,F,JPN,118.7,52.6,
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",12537,20,KYLIE CULLEN,F,USA,74.6,41.0,
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",3009,21,YUETONG ZHANG,F,CHN,61.9,,
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",1153,22,VITA LUKAN,F,SLO,57.5,,
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",4002,23,NOA SHIRAN,F,ISR,54.5,,
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",1565,24,ALANNAH YIP,F,CAN,49.3,,
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",2141,25,HSIU-JU LIN,F,TPE,35.8,,
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",2139,26,HUNG YING LEE,F,TPE,33.5,,
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",12902,27,MARIANA HANGGI CORREIA,F,BRA,14.3,,
+"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",14077,28,SELENGE NYAMDOO,F,MGL,0.0,,

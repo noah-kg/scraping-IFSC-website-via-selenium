@@ -1,33 +1,33 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2848,1,ALEKSANDRA MIROSLAW,POL,6.53 (WR) (ER),6.54
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1999,2,EMMA HUNT,USA,7.05 (PAR),FALL
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2878,3,ALEKSANDRA KALUCKA,POL,7.04,7.96
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2879,4,NATALIA KALUCKA,POL,7.16,FALL
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",966,5,GIULIA RANDI,ITA,7.58,7.77
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1024,6,BEATRICE COLLI,ITA,7.60,7.40
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",569,7,CAPUCINE VIGLIONE,FRA,7.78,8.48
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",3120,8,FRANZISKA RITTER,GER,7.86,7.82
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2857,9,PATRYCJA CHUDZIAK,POL,7.66,7.65
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",13437,10,KARIN HAYASHI,JPN,7.70,8.31
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",3209,11,ANDREA ROJAS,ECU,7.93,7.77
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",11597,12,NURIA BROCKFELD,GER,8.10,7.98
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1888,13,PIPER KELLY,USA,8.41,11.45
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2000,14,CALLIE CLOSE,USA,8.44,8.24
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2855,15,ANNA BROZEK,POL,8.52,8.01
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1517,16,TETIANA KOLKOTINA,UKR,8.56,10.39
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",13045,17,FUMIKA KAWAKAMI,JPN,8.74,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2114,18,YOUJIN CHA,KOR,8.75,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",12493,19,MARÍA LABORDA SAGASTE,ESP,9.08,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",3911,20,ALEJANDRA CONTRERAS,CHI,9.21,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",13025,21,SOPHIA CURCIO,USA,9.34,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",13158,22,HANAREUM SUNG,KOR,9.38,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",4221,23,VALERIA MACIAS FERREIRA,MEX,9.46,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1898,24,ISABEL GIFFORD,USA,10.04,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",13593,25,ADDYSON TALLENT,USA,10.22,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",4227,26,ARANTZA FERNÁNDEZ GUTIERREZ,MEX,10.57,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",511,27,VICTOIRE ANDRIER,FRA,10.83,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",13551,28,LIBERTY RUNNELS,USA,12.55,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",11517,29,GRACE CROWLEY,AUS,14.53,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",4220,30,MARÍA FERNANDA HIDALGO AMEZQUITA,MEX,14.80,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",12906,31,DORIANE SARAMANDIF,MRI,28.10,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",488,32,AURELIA SARISSON,FRA,FALSE START,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2848,1,ALEKSANDRA MIROSLAW,F,POL,6.53 (WR) (ER),6.54
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1999,2,EMMA HUNT,F,USA,7.05 (PAR),FALL
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2878,3,ALEKSANDRA KALUCKA,F,POL,7.04,7.96
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2879,4,NATALIA KALUCKA,F,POL,7.16,FALL
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",966,5,GIULIA RANDI,F,ITA,7.58,7.77
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1024,6,BEATRICE COLLI,F,ITA,7.60,7.40
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",569,7,CAPUCINE VIGLIONE,F,FRA,7.78,8.48
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",3120,8,FRANZISKA RITTER,F,GER,7.86,7.82
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2857,9,PATRYCJA CHUDZIAK,F,POL,7.66,7.65
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",13437,10,KARIN HAYASHI,F,JPN,7.70,8.31
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",3209,11,ANDREA ROJAS,F,ECU,7.93,7.77
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",11597,12,NURIA BROCKFELD,F,GER,8.10,7.98
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1888,13,PIPER KELLY,F,USA,8.41,11.45
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2000,14,CALLIE CLOSE,F,USA,8.44,8.24
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2855,15,ANNA BROZEK,F,POL,8.52,8.01
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1517,16,TETIANA KOLKOTINA,F,UKR,8.56,10.39
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",13045,17,FUMIKA KAWAKAMI,F,JPN,8.74,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2114,18,YOUJIN CHA,F,KOR,8.75,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",12493,19,MARÍA LABORDA SAGASTE,F,ESP,9.08,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",3911,20,ALEJANDRA CONTRERAS,F,CHI,9.21,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",13025,21,SOPHIA CURCIO,F,USA,9.34,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",13158,22,HANAREUM SUNG,F,KOR,9.38,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",4221,23,VALERIA MACIAS FERREIRA,F,MEX,9.46,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1898,24,ISABEL GIFFORD,F,USA,10.04,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",13593,25,ADDYSON TALLENT,F,USA,10.22,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",4227,26,ARANTZA FERNÁNDEZ GUTIERREZ,F,MEX,10.57,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",511,27,VICTOIRE ANDRIER,F,FRA,10.83,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",13551,28,LIBERTY RUNNELS,F,USA,12.55,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",11517,29,GRACE CROWLEY,F,AUS,14.53,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",4220,30,MARÍA FERNANDA HIDALGO AMEZQUITA,F,MEX,14.80,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",12906,31,DORIANE SARAMANDIF,F,MRI,28.10,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",488,32,AURELIA SARISSON,F,FRA,FALSE START,

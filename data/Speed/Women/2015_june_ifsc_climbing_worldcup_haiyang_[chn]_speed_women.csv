@@ -1,17 +1,17 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",479,1,ANOUCK JAUBERT,FRA,8.420,7.90
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",73,2,ANNA TSYGANOVA,RUS,8.290,8.18
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",110,3,IULIIA KAPLINA,RUS,8.100,7.71
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",82,4,MARIIA KRASAVINA,RUS,8.220,7.76
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2834,5,EDYTA ROPEK,POL,8.800,8.40
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2848,6,ALEKSANDRA MIROSLAW,POL,9.120,8.41
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2857,7,PATRYCJA CHUDZIAK,POL,9.090,8.79
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2847,8,KLAUDIA BUCZEK,POL,9.480,10.57
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2842,9,MONIKA PROKOPIUK-KAWECKA,POL,9.410,9.07
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3357,10,TAMARA ULZHABAYEVA,KAZ,9.270,9.10
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1233,11,NINA LACH,AUT,9.520,9.34
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1493,12,ALLA MARENYCH,UKR,8.900,10.14
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3364,13,ASSEL MARLENOVA,KAZ,10.450,10.19
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3378,14,ALEXANDRA ZHIZNEVSKAYA,KAZ,11.590,11.54
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2855,15,ANNA BROZEK,POL,9.900,FALL
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",488,16,AURELIA SARISSON,FRA,11.520,FALL
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",479,1,ANOUCK JAUBERT,F,FRA,8.420,7.90
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",73,2,ANNA TSYGANOVA,F,RUS,8.290,8.18
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",110,3,IULIIA KAPLINA,F,RUS,8.100,7.71
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",82,4,MARIIA KRASAVINA,F,RUS,8.220,7.76
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2834,5,EDYTA ROPEK,F,POL,8.800,8.40
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2848,6,ALEKSANDRA MIROSLAW,F,POL,9.120,8.41
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2857,7,PATRYCJA CHUDZIAK,F,POL,9.090,8.79
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2847,8,KLAUDIA BUCZEK,F,POL,9.480,10.57
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2842,9,MONIKA PROKOPIUK-KAWECKA,F,POL,9.410,9.07
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3357,10,TAMARA ULZHABAYEVA,F,KAZ,9.270,9.10
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1233,11,NINA LACH,F,AUT,9.520,9.34
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1493,12,ALLA MARENYCH,F,UKR,8.900,10.14
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3364,13,ASSEL MARLENOVA,F,KAZ,10.450,10.19
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3378,14,ALEXANDRA ZHIZNEVSKAYA,F,KAZ,11.590,11.54
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2855,15,ANNA BROZEK,F,POL,9.900,FALL
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",488,16,AURELIA SARISSON,F,FRA,11.520,FALL

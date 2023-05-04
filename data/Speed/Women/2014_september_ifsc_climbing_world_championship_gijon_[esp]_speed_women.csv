@@ -1,36 +1,36 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",62,1,ALINA GAIDAMAKINA,RUS,8.690,8.38
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2847,2,KLAUDIA BUCZEK,POL,8.650,8.55
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2848,3,ALEKSANDRA MIROSLAW,POL,8.870,9.00
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2834,4,EDYTA ROPEK,POL,9.130,9.08
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",82,5,MARIIA KRASAVINA,RUS,8.250,8.75
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",112,6,DARIA KAN,RUS,9.270,9.13
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",73,7,ANNA TSYGANOVA,RUS,8.560,9.93
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",110,8,IULIIA KAPLINA,RUS,8.290,FALSE START
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",63,9,KSENIYA POLEKHINA,RUS,8.830,8.51
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",1493,10,ALLA MARENYCH,UKR,8.520,8.79
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2857,11,PATRYCJA CHUDZIAK,POL,9.010,8.86
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",81,12,YULIYA LEVOCHKINA,RUS,8.690,8.98
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",1230,13,ALEXANDRA ELMER,AUT,9.280,9.23
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",3357,14,TAMARA ULZHABAYEVA,KAZ,9.250,9.40
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",479,15,ANOUCK JAUBERT,FRA,8.270,10.02
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",117,16,ELENA TIMOFEEVA,RUS,8.950,FALL
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",3275,17,SUPITA TITA,INA,9.410,
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",3464,18,FARNAZ ESMAEILZADEH,IRI,9.460,
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2842,19,MONIKA PROKOPIUK-KAWECKA,POL,9.540,
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",1488,20,MARGARYTA ZAKHAROVA,UKR,10.140,
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",4743,21,ANNA KOLOKOVSKA,UKR,10.470,
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",445,22,CHARLOTTE DURIF,FRA,10.570,
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",1491,23,YANA LUGOVENKO,UKR,10.610,
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",6359,24,NICOLE MEJIA,ECU,10.680,
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2855,25,ANNA BROZEK,POL,10.690,
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",1484,26,ANASTASIYA ZAICHENKO,UKR,10.930,
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",3246,27,PETRA KLINGLER,SUI,11.030,
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",3209,28,ANDREA ROJAS,ECU,11.810,
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",68,29,DINARA FAKHRITDINOVA,RUS,12.100,
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",7461,30,MARGARITA ROBLES,COL,13.480,
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",7447,31,FLOR DE LUNA PAZAN,COL,15.480,
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",3925,32,PUNTARIKA TUNYAVANICH,THA,16.490,
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",1380,33,ANDREA POKORNA,CZE,16.590,
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",1122,34,MINA MARKOVIC,SLO,18.410,
-"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",1202,35,BARBARA BACHER,AUT,19.400,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",62,1,ALINA GAIDAMAKINA,F,RUS,8.690,8.38
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2847,2,KLAUDIA BUCZEK,F,POL,8.650,8.55
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2848,3,ALEKSANDRA MIROSLAW,F,POL,8.870,9.00
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2834,4,EDYTA ROPEK,F,POL,9.130,9.08
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",82,5,MARIIA KRASAVINA,F,RUS,8.250,8.75
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",112,6,DARIA KAN,F,RUS,9.270,9.13
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",73,7,ANNA TSYGANOVA,F,RUS,8.560,9.93
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",110,8,IULIIA KAPLINA,F,RUS,8.290,FALSE START
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",63,9,KSENIYA POLEKHINA,F,RUS,8.830,8.51
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",1493,10,ALLA MARENYCH,F,UKR,8.520,8.79
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2857,11,PATRYCJA CHUDZIAK,F,POL,9.010,8.86
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",81,12,YULIYA LEVOCHKINA,F,RUS,8.690,8.98
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",1230,13,ALEXANDRA ELMER,F,AUT,9.280,9.23
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",3357,14,TAMARA ULZHABAYEVA,F,KAZ,9.250,9.40
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",479,15,ANOUCK JAUBERT,F,FRA,8.270,10.02
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",117,16,ELENA TIMOFEEVA,F,RUS,8.950,FALL
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",3275,17,SUPITA TITA,F,INA,9.410,
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",3464,18,FARNAZ ESMAEILZADEH,F,IRI,9.460,
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2842,19,MONIKA PROKOPIUK-KAWECKA,F,POL,9.540,
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",1488,20,MARGARYTA ZAKHAROVA,F,UKR,10.140,
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",4743,21,ANNA KOLOKOVSKA,F,UKR,10.470,
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",445,22,CHARLOTTE DURIF,F,FRA,10.570,
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",1491,23,YANA LUGOVENKO,F,UKR,10.610,
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",6359,24,NICOLE MEJIA,F,ECU,10.680,
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2855,25,ANNA BROZEK,F,POL,10.690,
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",1484,26,ANASTASIYA ZAICHENKO,F,UKR,10.930,
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",3246,27,PETRA KLINGLER,F,SUI,11.030,
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",3209,28,ANDREA ROJAS,F,ECU,11.810,
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",68,29,DINARA FAKHRITDINOVA,F,RUS,12.100,
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",7461,30,MARGARITA ROBLES,F,COL,13.480,
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",7447,31,FLOR DE LUNA PAZAN,F,COL,15.480,
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",3925,32,PUNTARIKA TUNYAVANICH,F,THA,16.490,
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",1380,33,ANDREA POKORNA,F,CZE,16.590,
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",1122,34,MINA MARKOVIC,F,SLO,18.410,
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",1202,35,BARBARA BACHER,F,AUT,19.400,

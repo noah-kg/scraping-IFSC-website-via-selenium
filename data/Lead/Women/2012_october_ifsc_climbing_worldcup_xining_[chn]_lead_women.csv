@@ -1,21 +1,21 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1219,1,JOHANNA ERNST,AUT,TOP  1. | TOP  1. [4.90],26,TOP
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1122,2,MINA MARKOVIC,SLO,TOP  1. | TOP  1. [4.90],26,TOP
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2035,3,JAIN KIM,KOR,TOP  1. | TOP  1. [4.90],28+,42+
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1224,4,MAGDALENA RÖCK,AUT,TOP  1. | 36   9. [7.35],28+,32.5+
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",455,5,HÉLÈNE JANICOT,FRA,TOP  1. | TOP  1. [4.90],27+,32.5+
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1222,6,KATHARINA POSCH,AUT,TOP  1. | TOP  1. [4.90],26,32.5+
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",445,7,CHARLOTTE DURIF,FRA,TOP  1. | TOP  1. [4.90],26,32.5+
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",49,8,EVGENIIA MALAMID,RUS,TOP  1. | 36+  8. [6.93],26+,26+
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",68,9,DINARA FAKHRITDINOVA,RUS,TOP  1. | TOP  1. [4.90],27,10
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",848,10,JENNY LAVARDA,ITA,31+  12. | 35+  10. [10.95],26,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1202,11,BARBARA BACHER,AUT,TOP  1. | 28+  13. [9.17],25.5+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2043,12,SEURAN HAN,KOR,TOP  1. | 28+  13. [9.17],25.5,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",6211,13,ANASTASIIA SAMOILINA,RUS,22+  15. | 23+  17. [16.49],25+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2936,14,LAMU RENQING,CHN,24+  14. | 33   11. [12.41],23+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1121,15,MAJA STREMFELJ,SLO,22+  15. | 26+  16. [16.00],23+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2933,16,XUHUA PAN,CHN,26   13. | 32   12. [12.49],20+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2141,17,HSIU-JU LIN,TPE,22   18. | 28+  13. [15.87],17+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2940,18,WANGMU RENZENG,CHN,19+  20. | 23   18. [19.24],17+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2935,19,RONG JIANG,CHN,21+  19. | 23   18. [18.75],16,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2139,20,HUNG YING LEE,TPE,22+  15. | 21+  20. [17.89],7,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1219,1,JOHANNA ERNST,F,AUT,TOP  1. | TOP  1. [4.90],26,TOP
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1122,2,MINA MARKOVIC,F,SLO,TOP  1. | TOP  1. [4.90],26,TOP
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2035,3,JAIN KIM,F,KOR,TOP  1. | TOP  1. [4.90],28+,42+
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1224,4,MAGDALENA RÖCK,F,AUT,TOP  1. | 36   9. [7.35],28+,32.5+
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",455,5,HÉLÈNE JANICOT,F,FRA,TOP  1. | TOP  1. [4.90],27+,32.5+
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1222,6,KATHARINA POSCH,F,AUT,TOP  1. | TOP  1. [4.90],26,32.5+
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",445,7,CHARLOTTE DURIF,F,FRA,TOP  1. | TOP  1. [4.90],26,32.5+
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",49,8,EVGENIIA MALAMID,F,RUS,TOP  1. | 36+  8. [6.93],26+,26+
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",68,9,DINARA FAKHRITDINOVA,F,RUS,TOP  1. | TOP  1. [4.90],27,10
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",848,10,JENNY LAVARDA,F,ITA,31+  12. | 35+  10. [10.95],26,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1202,11,BARBARA BACHER,F,AUT,TOP  1. | 28+  13. [9.17],25.5+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2043,12,SEURAN HAN,F,KOR,TOP  1. | 28+  13. [9.17],25.5,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",6211,13,ANASTASIIA SAMOILINA,F,RUS,22+  15. | 23+  17. [16.49],25+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2936,14,LAMU RENQING,F,CHN,24+  14. | 33   11. [12.41],23+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1121,15,MAJA STREMFELJ,F,SLO,22+  15. | 26+  16. [16.00],23+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2933,16,XUHUA PAN,F,CHN,26   13. | 32   12. [12.49],20+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2141,17,HSIU-JU LIN,F,TPE,22   18. | 28+  13. [15.87],17+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2940,18,WANGMU RENZENG,F,CHN,19+  20. | 23   18. [19.24],17+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2935,19,RONG JIANG,F,CHN,21+  19. | 23   18. [18.75],16,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2139,20,HUNG YING LEE,F,TPE,22+  15. | 21+  20. [17.89],7,

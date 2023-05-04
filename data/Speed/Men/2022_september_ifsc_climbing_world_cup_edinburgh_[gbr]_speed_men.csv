@@ -1,42 +1,42 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13034,1,SAMUEL WATSON,USA,5.49,5.97
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",11460,2,JINBAO LONG,CHN,5.73,6.93
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",11701,3,ERIK NOYA CARDONA,ESP,5.56,WILDCARD
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",899,4,GIAN LUCA ZODDA,ITA,5.58,FALSE START
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",11395,5,JIANGUO LONG,CHN,5.50,FALL
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",3361,6,RISHAT KHAIBULLIN,KAZ,5.59,6.40
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1754,7,JOHN BROSLER,USA,5.60,FALL
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13153,8,YONGJUN JUNG,KOR,5.67,FALSE START
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",474,9,GUILLAUME MORO,FRA,5.62,5.91
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",11381,10,RYO OMASA,JPN,5.69,5.94
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",11893,11,ETHAN PITCHER,CAN,5.78,9.44
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1798,12,NOAH BRATSCHI,USA,5.84,FALSE START
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13033,13,RICHARD LI,USA,5.94,8.54
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",3115,14,LEANDER CARMANNS,GER,6.060,5.83
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1263,15,LUKAS KNAPP,AUT,6.068,7.78
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1801,16,JOE GOODACRE,USA,6.07,8.83
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",952,17,ALESSANDRO CINGARI,ITA,6.08,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1843,18,MICHAEL FINN-HENRY,CAN,6.15,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",12717,19,MUNEKAZU KITAMI,JPN,6.22,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",10820,20,ALISHER MURAT,KAZ,6.23,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13806,21,MATTHEW FALL,GBR,6.26,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",11603,22,LINUS BADER,GER,6.27,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",2853,23,HUBERT PRZYTULA,POL,6.298,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",2383,24,HAJIME TAKEDA,JPN,6.299,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",11607,25,MARCO RONTINI,ITA,6.32,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",2218,26,CHEUNG-CHI SHOJI CHAN,HKG,6.50,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13598,27,PENG WU,CHN,6.64,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",12310,28,JOSHUA BRUYNS,RSA,6.73,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13821,29,ANDREW GOODALL,GBR,6.75,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",2217,30,CHI-FUNG AU,HKG,6.76,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",865,31,LUDOVICO FOSSALI,ITA,6.81,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13435,32,AYUMU MITA,JPN,7.82,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13043,33,SHUTO FUJINO,JPN,8.16,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",3362,34,AMIR MAIMURATOV,KAZ,8.33,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13805,35,RAFE STOKES,GBR,8.41,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",6283,36,ALESSANDRO BOULOS,ITA,9.27,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1480,37,DANYIL BOLDYREV,UKR,FALSE START,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",11414,37,LONG CAO,CHN,FALSE START,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",2845,37,MARCIN DZIENSKI,POL,FALSE START,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13592,37,ZACH HAMMER,USA,FALSE START,
-"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",11409,37,LIANG ZHANG,CHN,FALSE START,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13034,1,SAMUEL WATSON,M,USA,5.49,5.97
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",11460,2,JINBAO LONG,M,CHN,5.73,6.93
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",11701,3,ERIK NOYA CARDONA,M,ESP,5.56,WILDCARD
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",899,4,GIAN LUCA ZODDA,M,ITA,5.58,FALSE START
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",11395,5,JIANGUO LONG,M,CHN,5.50,FALL
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",3361,6,RISHAT KHAIBULLIN,M,KAZ,5.59,6.40
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1754,7,JOHN BROSLER,M,USA,5.60,FALL
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13153,8,YONGJUN JUNG,M,KOR,5.67,FALSE START
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",474,9,GUILLAUME MORO,M,FRA,5.62,5.91
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",11381,10,RYO OMASA,M,JPN,5.69,5.94
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",11893,11,ETHAN PITCHER,M,CAN,5.78,9.44
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1798,12,NOAH BRATSCHI,M,USA,5.84,FALSE START
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13033,13,RICHARD LI,M,USA,5.94,8.54
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",3115,14,LEANDER CARMANNS,M,GER,6.060,5.83
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1263,15,LUKAS KNAPP,M,AUT,6.068,7.78
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1801,16,JOE GOODACRE,M,USA,6.07,8.83
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",952,17,ALESSANDRO CINGARI,M,ITA,6.08,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1843,18,MICHAEL FINN-HENRY,M,CAN,6.15,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",12717,19,MUNEKAZU KITAMI,M,JPN,6.22,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",10820,20,ALISHER MURAT,M,KAZ,6.23,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13806,21,MATTHEW FALL,M,GBR,6.26,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",11603,22,LINUS BADER,M,GER,6.27,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",2853,23,HUBERT PRZYTULA,M,POL,6.298,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",2383,24,HAJIME TAKEDA,M,JPN,6.299,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",11607,25,MARCO RONTINI,M,ITA,6.32,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",2218,26,CHEUNG-CHI SHOJI CHAN,M,HKG,6.50,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13598,27,PENG WU,M,CHN,6.64,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",12310,28,JOSHUA BRUYNS,M,RSA,6.73,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13821,29,ANDREW GOODALL,M,GBR,6.75,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",2217,30,CHI-FUNG AU,M,HKG,6.76,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",865,31,LUDOVICO FOSSALI,M,ITA,6.81,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13435,32,AYUMU MITA,M,JPN,7.82,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13043,33,SHUTO FUJINO,M,JPN,8.16,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",3362,34,AMIR MAIMURATOV,M,KAZ,8.33,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13805,35,RAFE STOKES,M,GBR,8.41,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",6283,36,ALESSANDRO BOULOS,M,ITA,9.27,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1480,37,DANYIL BOLDYREV,M,UKR,FALSE START,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",11414,37,LONG CAO,M,CHN,FALSE START,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",2845,37,MARCIN DZIENSKI,M,POL,FALSE START,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",13592,37,ZACH HAMMER,M,USA,FALSE START,
+"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",11409,37,LIANG ZHANG,M,CHN,FALSE START,

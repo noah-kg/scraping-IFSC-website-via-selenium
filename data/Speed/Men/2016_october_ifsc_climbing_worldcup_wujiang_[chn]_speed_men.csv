@@ -1,27 +1,27 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2929,1,QIXIN ZHONG,CHN,6.150,6.44
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,98,2,VLADISLAV DEULIN,RUS,6.600,8.33
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2845,3,MARCIN DZIENSKI,POL,6.100,6.82
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,7613,4,BASSA MAWEM,FRA,6.240,FALL
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,74,5,STANISLAV KOKORIN,RUS,6.380,6.28
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,3471,6,REZA ALIPOUR SHENAZANDIFARD,IRI,5.860,6.87
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,474,7,GUILLAUME MORO,FRA,6.430,7.24
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,1480,8,DANYIL BOLDYREV,UKR,6.400,8.57
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,1372,9,JAN KRIZ,CZE,6.800,6.73
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,856,10,LEONARDO GONTERO,ITA,6.870,6.92
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,464,11,QUENTIN NAMBOT,FRA,6.880,6.98
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2849,12,RAFAL HALASA,POL,7.110,7.26
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2973,13,XU HAORAN,CHN,7.020,7.36
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,865,14,LUDOVICO FOSSALI,ITA,6.820,8.99
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,3459,15,HAMIDREZA TOOZANDEHJANI,IRI,6.740,10.01
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2951,16,ZHIYONG OU,CHN,6.760,FALL
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2950,17,PENGHUI LIN,CHN,7.200,
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2944,18,ZHIXUAN CHEN,CHN,7.340,
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2856,19,MICHAL LEWICKI,POL,7.410,
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2958,20,ZHAXI BIANBA,CHN,7.550,
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,109,21,ALEKSANDR SHIKOV,RUS,7.580,
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2938,22,ZIDA MA,CHN,8.060,
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2989,23,DANZENG CHILIE,CHN,8.140,
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,1576,24,ELAN JONASMCRAE,CAN,11.840,
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,1559,25,SEAN MCCOLL,CAN,12.090,
-IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,861,26,ALESSANDRO SANTONI,ITA,FALL,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2929,1,QIXIN ZHONG,M,CHN,6.150,6.44
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,98,2,VLADISLAV DEULIN,M,RUS,6.600,8.33
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2845,3,MARCIN DZIENSKI,M,POL,6.100,6.82
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,7613,4,BASSA MAWEM,M,FRA,6.240,FALL
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,74,5,STANISLAV KOKORIN,M,RUS,6.380,6.28
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,3471,6,REZA ALIPOUR SHENAZANDIFARD,M,IRI,5.860,6.87
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,474,7,GUILLAUME MORO,M,FRA,6.430,7.24
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,1480,8,DANYIL BOLDYREV,M,UKR,6.400,8.57
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,1372,9,JAN KRIZ,M,CZE,6.800,6.73
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,856,10,LEONARDO GONTERO,M,ITA,6.870,6.92
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,464,11,QUENTIN NAMBOT,M,FRA,6.880,6.98
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2849,12,RAFAL HALASA,M,POL,7.110,7.26
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2973,13,XU HAORAN,M,CHN,7.020,7.36
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,865,14,LUDOVICO FOSSALI,M,ITA,6.820,8.99
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,3459,15,HAMIDREZA TOOZANDEHJANI,M,IRI,6.740,10.01
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2951,16,ZHIYONG OU,M,CHN,6.760,FALL
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2950,17,PENGHUI LIN,M,CHN,7.200,
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2944,18,ZHIXUAN CHEN,M,CHN,7.340,
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2856,19,MICHAL LEWICKI,M,POL,7.410,
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2958,20,ZHAXI BIANBA,M,CHN,7.550,
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,109,21,ALEKSANDR SHIKOV,M,RUS,7.580,
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2938,22,ZIDA MA,M,CHN,8.060,
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,2989,23,DANZENG CHILIE,M,CHN,8.140,
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,1576,24,ELAN JONASMCRAE,M,CAN,11.840,
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,1559,25,SEAN MCCOLL,M,CAN,12.090,
+IFSC Climbing Worldcup (S) - Wujiang (CHN) 2016,861,26,ALESSANDRO SANTONI,M,ITA,FALL,

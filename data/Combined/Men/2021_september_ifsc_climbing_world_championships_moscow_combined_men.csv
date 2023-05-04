@@ -1,16 +1,16 @@
-Event,ID,Rank,Name,Country,Qualification
-"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",3131,1,YANNICK FLOHÉ,GER,9.0
-"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",765,2,PHILIPP MARTIN,GER,48.0
-"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1489,3,FEDIR SAMOILOV,UKR,60.0
-"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",3422,4,JAN HOJER,GER,64.0
-"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",3211,5,CARLOS GRANJA,ECU,70.0
-"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1492,6,KOSTIANTYN PAVLENKO,UKR,90.0
-"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",2146,7,CHIA HSIANG LIN,TPE,252.0
-"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1472,8,SERGII TOPISHKO,UKR,450.0
-"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",3220,9,NICKOLAIE RIVADENEIRA,ECU,500.0
-"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1511,10,YAROSLAV TKACH,UKR,546.0
-"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",3214,11,AARON PEÑARANDA,ECU,560.0
-"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",2627,12,GAURAV KUMAR,IND,1495.0
-"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",12999,13,FERHAT BEKMEZ,TUR,1650.0
-"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",12310,14,JOSHUA BRUYNS,RSA,1932.0
-"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",13122,15,TİMUR TAŞ,TUR,2730.0
+Event,ID,Rank,Name,Gender,Country,Qualification
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",3131,1,YANNICK FLOHÉ,M,GER,9.0
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",765,2,PHILIPP MARTIN,M,GER,48.0
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1489,3,FEDIR SAMOILOV,M,UKR,60.0
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",3422,4,JAN HOJER,M,GER,64.0
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",3211,5,CARLOS GRANJA,M,ECU,70.0
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1492,6,KOSTIANTYN PAVLENKO,M,UKR,90.0
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",2146,7,CHIA HSIANG LIN,M,TPE,252.0
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1472,8,SERGII TOPISHKO,M,UKR,450.0
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",3220,9,NICKOLAIE RIVADENEIRA,M,ECU,500.0
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1511,10,YAROSLAV TKACH,M,UKR,546.0
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",3214,11,AARON PEÑARANDA,M,ECU,560.0
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",2627,12,GAURAV KUMAR,M,IND,1495.0
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",12999,13,FERHAT BEKMEZ,M,TUR,1650.0
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",12310,14,JOSHUA BRUYNS,M,RSA,1932.0
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",13122,15,TİMUR TAŞ,M,TUR,2730.0

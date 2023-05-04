@@ -1,24 +1,24 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",1122,1,MINA MARKOVIC,SLO,TOP  1. | TOP  1. [5.00],TOP,TOP
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2035,2,JAIN KIM,KOR,TOP  1. | 39-  10. [7.25],TOP,TOP
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",1222,3,KATHARINA POSCH,AUT,TOP  1. | TOP  1. [5.00],42-,43+
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",1121,4,MAJA STREMFELJ,SLO,TOP  1. | TOP  1. [5.00],44+,41-
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2263,5,MOMOKA ODA,JPN,TOP  1. | TOP  1. [5.00],41+,41-
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",445,6,CHARLOTTE DURIF,FRA,TOP  1. | TOP  1. [5.00],41-,40+
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",58,7,YANA CHERESHNEVA,RUS,TOP  1. | TOP  1. [5.00],41+,40-
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",1202,8,BARBARA BACHER,AUT,45   10. | 39-  10. [10.50],41-,40-
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",438,9,CAROLINE CIAVALDINI,FRA,TOP  1. | TOP  1. [5.00],40+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",1210,9,CHRISTINE SCHRANZ,AUT,TOP  1. | TOP  1. [5.00],40+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2043,11,SEURAN HAN,KOR,45   10. | TOP  1. [7.25],40+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2933,12,XUHUA PAN,CHN,41-  13. | 36-  12. [12.49],39,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2936,13,LAMU RENQING,CHN,41   12. | 33   13. [12.49],39-,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2139,14,HUNG YING LEE,TPE,36+  16. | 32   14. [14.97],32,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",6120,15,UJI AYU SUKMANDIRI,INA,33+  19. | 26-  21. [20.21],32-,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",3357,16,TAMARA ULZHABAYEVA,KAZ,31   22. | 30   20. [20.98],32-,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2044,17,HANNARAI SONG,KOR,36-  17. | 32-  15. [16.23],30+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",5691,18,BACO ACHMAD WILDA,INA,37-  15. | 31   17. [16.43],30,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",3272,19,ABDUL ROCHMAN SYARIFAH,INA,32-  20. | 31   17. [18.97],30,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2141,20,HSIU-JU LIN,TPE,38-  14. | 31   17. [15.87],30-,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2940,21,WANGMU RENZENG,CHN,31+  21. | 32-  15. [18.04],30-,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2935,22,RONG JIANG,CHN,34   18. | 26-  21. [19.67],27-,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",4986,23,WANGMU GESANG,CHN,24+  23. | 24   23. [23.00],18,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",1122,1,MINA MARKOVIC,F,SLO,TOP  1. | TOP  1. [5.00],TOP,TOP
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2035,2,JAIN KIM,F,KOR,TOP  1. | 39-  10. [7.25],TOP,TOP
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",1222,3,KATHARINA POSCH,F,AUT,TOP  1. | TOP  1. [5.00],42-,43+
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",1121,4,MAJA STREMFELJ,F,SLO,TOP  1. | TOP  1. [5.00],44+,41-
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2263,5,MOMOKA ODA,F,JPN,TOP  1. | TOP  1. [5.00],41+,41-
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",445,6,CHARLOTTE DURIF,F,FRA,TOP  1. | TOP  1. [5.00],41-,40+
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",58,7,YANA CHERESHNEVA,F,RUS,TOP  1. | TOP  1. [5.00],41+,40-
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",1202,8,BARBARA BACHER,F,AUT,45   10. | 39-  10. [10.50],41-,40-
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",438,9,CAROLINE CIAVALDINI,F,FRA,TOP  1. | TOP  1. [5.00],40+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",1210,9,CHRISTINE SCHRANZ,F,AUT,TOP  1. | TOP  1. [5.00],40+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2043,11,SEURAN HAN,F,KOR,45   10. | TOP  1. [7.25],40+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2933,12,XUHUA PAN,F,CHN,41-  13. | 36-  12. [12.49],39,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2936,13,LAMU RENQING,F,CHN,41   12. | 33   13. [12.49],39-,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2139,14,HUNG YING LEE,F,TPE,36+  16. | 32   14. [14.97],32,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",6120,15,UJI AYU SUKMANDIRI,F,INA,33+  19. | 26-  21. [20.21],32-,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",3357,16,TAMARA ULZHABAYEVA,F,KAZ,31   22. | 30   20. [20.98],32-,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2044,17,HANNARAI SONG,F,KOR,36-  17. | 32-  15. [16.23],30+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",5691,18,BACO ACHMAD WILDA,F,INA,37-  15. | 31   17. [16.43],30,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",3272,19,ABDUL ROCHMAN SYARIFAH,F,INA,32-  20. | 31   17. [18.97],30,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2141,20,HSIU-JU LIN,F,TPE,38-  14. | 31   17. [15.87],30-,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2940,21,WANGMU RENZENG,F,CHN,31+  21. | 32-  15. [18.04],30-,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2935,22,RONG JIANG,F,CHN,34   18. | 26-  21. [19.67],27-,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",4986,23,WANGMU GESANG,F,CHN,24+  23. | 24   23. [23.00],18,

@@ -1,32 +1,32 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3246,1,PETRA KLINGLER,SUI,2T2 4B4,4T5 4B5,3T3 4B10
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2253,2,AKIYO NOGUCHI,JPN,5T6 5B5,4T5 4B5,3T4 4B5
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",636,3,SHAUNA COXSEY,GBR,3T3 5B5,3T3 3B3,3T8 4B9
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2294,4,MIHO NONAKA,JPN,3T4 5B5,3T4 3B3,2T4 4B11
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1209,5,KATHARINA SAURWEIN,AUT,2T2 5B9,4T5 4B4,1T1 2B4
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",454,6,MELISSA LE NEVE,FRA,2T3 5B7,3T3 3B3,1T3 3B7
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2047,7,SOL SA,KOR,3T4 5B5,3T4 3B4,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2251,8,YUKA KOBAYASHI,JPN,2T5 4B7,3T4 3B4,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",632,9,LEAH CRANE,GBR,2T3 4B5,3T5 3B3,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3578,10,VERA ZIJLSTRA,NED,2T5 4B7,3T7 3B4,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1223,11,BERIT SCHWAIGER,AUT,2T2 5B6,3T8 4B8,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1137,12,JULIJA KRUDER,SLO,2T4 5B5,2T3 4B8,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",316,13,CHLOE CAULIER,BEL,2T2 5B10,2T4 3B6,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2935,14,RONG JIANG,CHN,2T2 4B6,1T2 3B4,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2055,15,MINSEON KIM,KOR,2T4 3B6,1T2 3B7,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2941,16,DI NIU,CHN,2T5 5B10,1T4 3B5,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1714,17,SIERRA BLAIR-COYLE,USA,2T2 5B7,0T 4B12,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",6309,18,KAORI HOSONO,JPN,2T3 3B4,0T 2B3,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2281,19,MIWA OBA,JPN,2T3 4B7,0T 2B4,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2936,20,LAMU RENQING,CHN,2T5 5B13,0T 2B5,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1557,21,STACEY WELDON,CAN,1T1 5B9,,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2268,22,AYA ONOE,JPN,1T1 4B12,,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2013,23,MONIKA RETSCHY,GER,1T1 3B3,,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3357,24,TAMARA ULZHABAYEVA,KAZ,1T2 4B7,,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2850,25,KATARZYNA EKWINSKA,POL,1T2 4B11,,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3925,26,PUNTARIKA TUNYAVANICH,THA,1T2 2B3,,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2051,27,SEUNGHYUN KIM,KOR,1T4 3B10,,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2946,28,ZHUOMA PUBU,CHN,0T 3B10,,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2494,29,CLAIRE KASSAY,AUS,0T 2B2,,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",6398,30,SOFIA HEINZE CACHO,MEX,0T 2B4,,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3378,31,ALEXANDRA ZHIZNEVSKAYA,KAZ,0T 1B4,,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3246,1,PETRA KLINGLER,F,SUI,2T2 4B4,4T5 4B5,3T3 4B10
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2253,2,AKIYO NOGUCHI,F,JPN,5T6 5B5,4T5 4B5,3T4 4B5
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",636,3,SHAUNA COXSEY,F,GBR,3T3 5B5,3T3 3B3,3T8 4B9
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2294,4,MIHO NONAKA,F,JPN,3T4 5B5,3T4 3B3,2T4 4B11
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1209,5,KATHARINA SAURWEIN,F,AUT,2T2 5B9,4T5 4B4,1T1 2B4
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",454,6,MELISSA LE NEVE,F,FRA,2T3 5B7,3T3 3B3,1T3 3B7
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2047,7,SOL SA,F,KOR,3T4 5B5,3T4 3B4,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2251,8,YUKA KOBAYASHI,F,JPN,2T5 4B7,3T4 3B4,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",632,9,LEAH CRANE,F,GBR,2T3 4B5,3T5 3B3,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3578,10,VERA ZIJLSTRA,F,NED,2T5 4B7,3T7 3B4,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1223,11,BERIT SCHWAIGER,F,AUT,2T2 5B6,3T8 4B8,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1137,12,JULIJA KRUDER,F,SLO,2T4 5B5,2T3 4B8,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",316,13,CHLOE CAULIER,F,BEL,2T2 5B10,2T4 3B6,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2935,14,RONG JIANG,F,CHN,2T2 4B6,1T2 3B4,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2055,15,MINSEON KIM,F,KOR,2T4 3B6,1T2 3B7,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2941,16,DI NIU,F,CHN,2T5 5B10,1T4 3B5,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1714,17,SIERRA BLAIR-COYLE,F,USA,2T2 5B7,0T 4B12,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",6309,18,KAORI HOSONO,F,JPN,2T3 3B4,0T 2B3,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2281,19,MIWA OBA,F,JPN,2T3 4B7,0T 2B4,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2936,20,LAMU RENQING,F,CHN,2T5 5B13,0T 2B5,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1557,21,STACEY WELDON,F,CAN,1T1 5B9,,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2268,22,AYA ONOE,F,JPN,1T1 4B12,,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2013,23,MONIKA RETSCHY,F,GER,1T1 3B3,,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3357,24,TAMARA ULZHABAYEVA,F,KAZ,1T2 4B7,,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2850,25,KATARZYNA EKWINSKA,F,POL,1T2 4B11,,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3925,26,PUNTARIKA TUNYAVANICH,F,THA,1T2 2B3,,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2051,27,SEUNGHYUN KIM,F,KOR,1T4 3B10,,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2946,28,ZHUOMA PUBU,F,CHN,0T 3B10,,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2494,29,CLAIRE KASSAY,F,AUS,0T 2B2,,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",6398,30,SOFIA HEINZE CACHO,F,MEX,0T 2B4,,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3378,31,ALEXANDRA ZHIZNEVSKAYA,F,KAZ,0T 1B4,,

@@ -1,22 +1,22 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",855,1,STEFANO GHISOLFI,ITA,33+  4. | 31.5+  9. [6.71],33+,36+
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",773,2,RAMÓN JULIAN PUIGBLANQUE,ESP,TOP  1. | 34+  6. [3.74],34,36
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",437,3,ROMAIN DESGRANGES,FRA,33+  4. | TOP  1. [3.67],40,34+
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1129,4,DOMEN SKOFIC,SLO,28+  8. | TOP  1. [5.20],36,34+
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1559,5,SEAN MCCOLL,CAN,TOP  1. | TOP  1. [2.45],TOP,33+
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",4783,6,AKITO MATSUSHIMA,JPN,28+  8. | TOP  1. [5.20],33+,22+
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1216,7,MARIO LECHNER,AUT,26+  11. | 31.5   12. [11.99],25,20
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",444,8,GAUTIER SUPPER,FRA,28+  8. | 34+  6. [7.94],33+,13
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2938,9,ZIDA MA,CHN,25+  13. | 30   15. [14.47],25,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1576,10,ELAN JONASMCRAE,CAN,22+  16. | 31.5+  9. [13.04],24+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2934,11,CHANGFENG QU,CHN,24   15. | 29+  17. [16.20],24+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",3058,12,MAGNUS MIDTBOE,NOR,30+  7. | 34+  6. [7.00],24,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",776,13,JAVIER CANO BLAZQUEZ,ESP,26+  11. | 31.5+  9. [10.72],24,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2927,14,QINGHUA WANG,CHN,22+  16. | 29+  17. [17.25],23+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2286,15,SHINICHIRO NOMURA,JPN,25+  13. | 30+  14. [13.75],23,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",3982,16,OR WECHSLER,ISR,22+  16. | 30   15. [16.23],22,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1214,17,JAKOB SCHUBERT,AUT,31+  6. | TOP  1. [4.24],18,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",314,18,LOÏC TIMMERMANS,BEL,19+  20. | 31.5   12. [15.81],18,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1364,19,ADAM ONDRA,CZE,TOP  1. | 28+  19. [6.16],17+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1378,20,MARTIN JECH,CZE,20   19. | 24   20. [19.49],17+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1776,21,SHANE MESSER,USA,16   21. | 16   21. [21.00],17+,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",855,1,STEFANO GHISOLFI,M,ITA,33+  4. | 31.5+  9. [6.71],33+,36+
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",773,2,RAMÓN JULIAN PUIGBLANQUE,M,ESP,TOP  1. | 34+  6. [3.74],34,36
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",437,3,ROMAIN DESGRANGES,M,FRA,33+  4. | TOP  1. [3.67],40,34+
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1129,4,DOMEN SKOFIC,M,SLO,28+  8. | TOP  1. [5.20],36,34+
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1559,5,SEAN MCCOLL,M,CAN,TOP  1. | TOP  1. [2.45],TOP,33+
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",4783,6,AKITO MATSUSHIMA,M,JPN,28+  8. | TOP  1. [5.20],33+,22+
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1216,7,MARIO LECHNER,M,AUT,26+  11. | 31.5   12. [11.99],25,20
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",444,8,GAUTIER SUPPER,M,FRA,28+  8. | 34+  6. [7.94],33+,13
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2938,9,ZIDA MA,M,CHN,25+  13. | 30   15. [14.47],25,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1576,10,ELAN JONASMCRAE,M,CAN,22+  16. | 31.5+  9. [13.04],24+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2934,11,CHANGFENG QU,M,CHN,24   15. | 29+  17. [16.20],24+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",3058,12,MAGNUS MIDTBOE,M,NOR,30+  7. | 34+  6. [7.00],24,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",776,13,JAVIER CANO BLAZQUEZ,M,ESP,26+  11. | 31.5+  9. [10.72],24,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2927,14,QINGHUA WANG,M,CHN,22+  16. | 29+  17. [17.25],23+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2286,15,SHINICHIRO NOMURA,M,JPN,25+  13. | 30+  14. [13.75],23,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",3982,16,OR WECHSLER,M,ISR,22+  16. | 30   15. [16.23],22,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1214,17,JAKOB SCHUBERT,M,AUT,31+  6. | TOP  1. [4.24],18,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",314,18,LOÏC TIMMERMANS,M,BEL,19+  20. | 31.5   12. [15.81],18,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1364,19,ADAM ONDRA,M,CZE,TOP  1. | 28+  19. [6.16],17+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1378,20,MARTIN JECH,M,CZE,20   19. | 24   20. [19.49],17+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1776,21,SHANE MESSER,M,USA,16   21. | 16   21. [21.00],17+,

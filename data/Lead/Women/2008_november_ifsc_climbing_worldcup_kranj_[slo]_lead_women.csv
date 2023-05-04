@@ -1,36 +1,36 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,1219,1,JOHANNA ERNST,AUT,TOP,TOP,TOP
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,1121,2,MAJA STREMFELJ,SLO,TOP,39+,43-
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,2253,3,AKIYO NOGUCHI,JPN,TOP,31-,36+
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,438,4,CAROLINE CIAVALDINI,FRA,TOP,31-,35-
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,1119,5,NATALIJA GROS,SLO,TOP,31,30-
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,445,6,CHARLOTTE DURIF,FRA,TOP,31-,30-
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,58,7,YANA CHERESHNEVA,RUS,TOP,32-,25-
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,1122,8,MINA MARKOVIC,SLO,TOP,31-,25-
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,2823,9,JULIANE WURM,GER,29+,31-,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,4756,10,OLGA SHALAGINA,UKR,TOP,30+,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,1209,11,KATHARINA SAURWEIN,AUT,TOP,28-,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,4920,12,KINGA OCIEPKA,POL,28-,27,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,49,13,EVGENIIA MALAMID,RUS,TOP,27-,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,4917,14,FLORENCE PINET,FRA,26,26.5-,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,3059,15,HANNAH MIDTBOE,NOR,27,24,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,4535,16,ALEXANDRA EYER,SUI,TOP,24-,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,2035,16,JAIN KIM,KOR,TOP,24-,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,3580,18,NIKKI VAN BERGEN,NED,26-,24-,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,4926,19,IRATI ANDA VILLANUEVA,ESP,25-,24-,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,1210,20,CHRISTINE SCHRANZ,AUT,TOP,23+,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,4922,21,ASJA GOSAR,SLO,28+,23+,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,454,22,MELISSA LE NEVE,FRA,26+,23+,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,3578,23,VERA ZIJLSTRA,NED,28-,23,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,4560,24,LINN KARIN STENDAL,NOR,27,22-,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,5952,25,LEJA KOS,SLO,23-,22-,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,5953,26,JULIA MIROSHNICHENKO,RUS,27-,17,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,3176,27,FRANCIS RODRIGUEZ,VEN,21-,,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,4923,28,AGATA MODRZEJEWSKA,POL,18-,,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,5954,29,PATRICIJA LEVSTEK,SLO,17,,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,4702,30,OLENA OSTAPENKO,UKR,16-,,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,5637,31,SPASINA NEDYALKOVA,BUL,15,,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,5521,32,SARAH MATTHEWS,AUS,13,,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,5781,33,OLGA MEDVEDIEVA,UKR,12,,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,5955,34,MARIJA MILOSAVLJEVIC,SRB,11,,
-IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,5769,35,ANAMARIA BOGACIU,ROU,1+,,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,1219,1,JOHANNA ERNST,F,AUT,TOP,TOP,TOP
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,1121,2,MAJA STREMFELJ,F,SLO,TOP,39+,43-
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,2253,3,AKIYO NOGUCHI,F,JPN,TOP,31-,36+
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,438,4,CAROLINE CIAVALDINI,F,FRA,TOP,31-,35-
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,1119,5,NATALIJA GROS,F,SLO,TOP,31,30-
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,445,6,CHARLOTTE DURIF,F,FRA,TOP,31-,30-
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,58,7,YANA CHERESHNEVA,F,RUS,TOP,32-,25-
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,1122,8,MINA MARKOVIC,F,SLO,TOP,31-,25-
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,2823,9,JULIANE WURM,F,GER,29+,31-,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,4756,10,OLGA SHALAGINA,F,UKR,TOP,30+,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,1209,11,KATHARINA SAURWEIN,F,AUT,TOP,28-,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,4920,12,KINGA OCIEPKA,F,POL,28-,27,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,49,13,EVGENIIA MALAMID,F,RUS,TOP,27-,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,4917,14,FLORENCE PINET,F,FRA,26,26.5-,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,3059,15,HANNAH MIDTBOE,F,NOR,27,24,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,4535,16,ALEXANDRA EYER,F,SUI,TOP,24-,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,2035,16,JAIN KIM,F,KOR,TOP,24-,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,3580,18,NIKKI VAN BERGEN,F,NED,26-,24-,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,4926,19,IRATI ANDA VILLANUEVA,F,ESP,25-,24-,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,1210,20,CHRISTINE SCHRANZ,F,AUT,TOP,23+,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,4922,21,ASJA GOSAR,F,SLO,28+,23+,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,454,22,MELISSA LE NEVE,F,FRA,26+,23+,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,3578,23,VERA ZIJLSTRA,F,NED,28-,23,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,4560,24,LINN KARIN STENDAL,F,NOR,27,22-,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,5952,25,LEJA KOS,F,SLO,23-,22-,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,5953,26,JULIA MIROSHNICHENKO,F,RUS,27-,17,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,3176,27,FRANCIS RODRIGUEZ,F,VEN,21-,,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,4923,28,AGATA MODRZEJEWSKA,F,POL,18-,,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,5954,29,PATRICIJA LEVSTEK,F,SLO,17,,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,4702,30,OLENA OSTAPENKO,F,UKR,16-,,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,5637,31,SPASINA NEDYALKOVA,F,BUL,15,,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,5521,32,SARAH MATTHEWS,F,AUS,13,,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,5781,33,OLGA MEDVEDIEVA,F,UKR,12,,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,5955,34,MARIJA MILOSAVLJEVIC,F,SRB,11,,
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,5769,35,ANAMARIA BOGACIU,F,ROU,1+,,

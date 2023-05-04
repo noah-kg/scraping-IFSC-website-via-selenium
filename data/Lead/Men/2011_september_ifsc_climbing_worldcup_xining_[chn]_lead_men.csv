@@ -1,30 +1,30 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",1214,1,JAKOB SCHUBERT,AUT,TOP  1. | TOP  1. [6.98],44-,TOP
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2254,2,SACHI AMMA,JPN,TOP  1. | TOP  1. [6.98],43+,TOP
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",447,3,MANUEL ROMAIN,FRA,TOP  1. | TOP  1. [6.98],41+,TOP
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",437,4,ROMAIN DESGRANGES,FRA,TOP  1. | TOP  1. [6.98],37-,TOP
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",773,5,RAMÓN JULIAN PUIGBLANQUE,ESP,TOP  1. | TOP  1. [6.98],TOP,45-
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",3124,6,THOMAS TAUPORN,GER,TOP  1. | TOP  1. [6.98],36-,42
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",4783,7,AKITO MATSUSHIMA,JPN,TOP  1. | TOP  1. [6.98],37,34-
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2039,8,HYUNBIN MIN,KOR,TOP  1. | TOP  1. [6.98],44-,13
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",1216,9,MARIO LECHNER,AUT,TOP  1. | TOP  1. [6.98],35-,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2032,9,SANGWON SON,KOR,TOP  1. | TOP  1. [6.98],35-,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",444,11,GAUTIER SUPPER,FRA,TOP  1. | TOP  1. [6.98],34,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",61,12,MIKHAIL CHERNIKOV,RUS,TOP  1. | TOP  1. [6.98],34-,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",4940,13,TATSUMI NITTA,JPN,38-  13. | 34-  15. [13.96],33-,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2938,14,ZIDA MA,CHN,33-  16. | 27-  24. [19.60],32-,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",4937,15,KAZUMA WATANABE,JPN,35   14. | TOP  1. [10.25],31+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",5151,16,HIDEKAZU ITO,JPN,33+  15. | TOP  1. [10.61],31-,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",5002,17,SEOLBIN SIM,KOR,32-  20. | 30   17. [18.44],31-,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2033,18,JABEE KIM,KOR,32   18. | 28+  18. [18.75],31-,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",5005,19,MASAKI SHIBATA,JPN,32+  17. | 28+  18. [17.97],28+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",4877,20,JIACUO SUOLANG,CHN,32   18. | 32   16. [17.20],28-,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2927,21,QINGHUA WANG,CHN,31+  21. | 28+  18. [19.97],27+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",6121,22,INDRA YOGASWARA,INA,10-  28. | 28-  22. [25.32],27-,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",3261,23,AMRI AMRI,INA,31-  22. | 28   21. [21.49],25-,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2931,24,HAIBIN QU,CHN,23-  24. | 28-  22. [23.24],25-,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2138,25,YEU-SHIANG CHANG,TPE,22-  25. | 26-  25. [25.00],24,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2934,26,CHANGFENG QU,CHN,30   23. | 20-  27. [24.92],24-,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",3263,27,HUDA WARDANA AKBAR,INA,21-  26. | 24-  26. [26.00],,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2140,28,JIUN-JIE TZENG,TPE,16-  27. | 15-  29. [27.98],,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",5835,29,JAU SHIUAN HUNG,TPE,10-  28. | 16   28. [28.25],,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",1214,1,JAKOB SCHUBERT,M,AUT,TOP  1. | TOP  1. [6.98],44-,TOP
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2254,2,SACHI AMMA,M,JPN,TOP  1. | TOP  1. [6.98],43+,TOP
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",447,3,MANUEL ROMAIN,M,FRA,TOP  1. | TOP  1. [6.98],41+,TOP
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",437,4,ROMAIN DESGRANGES,M,FRA,TOP  1. | TOP  1. [6.98],37-,TOP
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",773,5,RAMÓN JULIAN PUIGBLANQUE,M,ESP,TOP  1. | TOP  1. [6.98],TOP,45-
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",3124,6,THOMAS TAUPORN,M,GER,TOP  1. | TOP  1. [6.98],36-,42
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",4783,7,AKITO MATSUSHIMA,M,JPN,TOP  1. | TOP  1. [6.98],37,34-
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2039,8,HYUNBIN MIN,M,KOR,TOP  1. | TOP  1. [6.98],44-,13
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",1216,9,MARIO LECHNER,M,AUT,TOP  1. | TOP  1. [6.98],35-,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2032,9,SANGWON SON,M,KOR,TOP  1. | TOP  1. [6.98],35-,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",444,11,GAUTIER SUPPER,M,FRA,TOP  1. | TOP  1. [6.98],34,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",61,12,MIKHAIL CHERNIKOV,M,RUS,TOP  1. | TOP  1. [6.98],34-,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",4940,13,TATSUMI NITTA,M,JPN,38-  13. | 34-  15. [13.96],33-,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2938,14,ZIDA MA,M,CHN,33-  16. | 27-  24. [19.60],32-,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",4937,15,KAZUMA WATANABE,M,JPN,35   14. | TOP  1. [10.25],31+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",5151,16,HIDEKAZU ITO,M,JPN,33+  15. | TOP  1. [10.61],31-,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",5002,17,SEOLBIN SIM,M,KOR,32-  20. | 30   17. [18.44],31-,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2033,18,JABEE KIM,M,KOR,32   18. | 28+  18. [18.75],31-,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",5005,19,MASAKI SHIBATA,M,JPN,32+  17. | 28+  18. [17.97],28+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",4877,20,JIACUO SUOLANG,M,CHN,32   18. | 32   16. [17.20],28-,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2927,21,QINGHUA WANG,M,CHN,31+  21. | 28+  18. [19.97],27+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",6121,22,INDRA YOGASWARA,M,INA,10-  28. | 28-  22. [25.32],27-,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",3261,23,AMRI AMRI,M,INA,31-  22. | 28   21. [21.49],25-,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2931,24,HAIBIN QU,M,CHN,23-  24. | 28-  22. [23.24],25-,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2138,25,YEU-SHIANG CHANG,M,TPE,22-  25. | 26-  25. [25.00],24,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2934,26,CHANGFENG QU,M,CHN,30   23. | 20-  27. [24.92],24-,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",3263,27,HUDA WARDANA AKBAR,M,INA,21-  26. | 24-  26. [26.00],,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2140,28,JIUN-JIE TZENG,M,TPE,16-  27. | 15-  29. [27.98],,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",5835,29,JAU SHIUAN HUNG,M,TPE,10-  28. | 16   28. [28.25],,

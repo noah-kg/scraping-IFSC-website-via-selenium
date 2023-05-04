@@ -1,19 +1,19 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",56,1,EVGENII VAITSEKHOVSKII,RUS,8.060,7.35
-"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",48,2,SERGEI SINITCYN,RUS,7.680,7.75
-"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",1359,3,LIBOR HROZA,CZE,8.090,7.94
-"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",4581,4,TOMASZ OLEKSY,POL,8.740,8.18
-"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",2167,5,CSABA KOMONDI,HUN,8.350,7.93
-"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",64,6,SERGEY ABDRAKHMANOV,RUS,8.830,8.28
-"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",4745,7,LUKASZ SWIRK,POL,8.850,8.48
-"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",2838,8,JEDRZEJ KOMOSINSKI,POL,9.100,FALL
-"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",4778,9,LUCAS PRETI,ITA,9.790,9.11
-"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",74,10,STANISLAV KOKORIN,RUS,9.040,9.22
-"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",856,11,LEONARDO GONTERO,ITA,12.640,11.10
-"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",4957,12,MICHEL SIROTTI,ITA,9.320,11.47
-"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",855,13,STEFANO GHISOLFI,ITA,13.570,11.80
-"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",4754,14,GYULA JUHASZ,HUN,14.450,14.60
-"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",450,15,THOMAS DUPIN,FRA,12.200,FALL
-"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",4753,16,SALAH BOULBAHAIEM,BEL,16.740,
-"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",4953,16,YOANN LE COUSTER,FRA,16.740,
-"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",5765,18,MACIEJ KALITA,POL,FALL,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",56,1,EVGENII VAITSEKHOVSKII,M,RUS,8.060,7.35
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",48,2,SERGEI SINITCYN,M,RUS,7.680,7.75
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",1359,3,LIBOR HROZA,M,CZE,8.090,7.94
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",4581,4,TOMASZ OLEKSY,M,POL,8.740,8.18
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",2167,5,CSABA KOMONDI,M,HUN,8.350,7.93
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",64,6,SERGEY ABDRAKHMANOV,M,RUS,8.830,8.28
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",4745,7,LUKASZ SWIRK,M,POL,8.850,8.48
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",2838,8,JEDRZEJ KOMOSINSKI,M,POL,9.100,FALL
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",4778,9,LUCAS PRETI,M,ITA,9.790,9.11
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",74,10,STANISLAV KOKORIN,M,RUS,9.040,9.22
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",856,11,LEONARDO GONTERO,M,ITA,12.640,11.10
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",4957,12,MICHEL SIROTTI,M,ITA,9.320,11.47
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",855,13,STEFANO GHISOLFI,M,ITA,13.570,11.80
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",4754,14,GYULA JUHASZ,M,HUN,14.450,14.60
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",450,15,THOMAS DUPIN,M,FRA,12.200,FALL
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",4753,16,SALAH BOULBAHAIEM,M,BEL,16.740,
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",4953,16,YOANN LE COUSTER,M,FRA,16.740,
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",5765,18,MACIEJ KALITA,M,POL,FALL,

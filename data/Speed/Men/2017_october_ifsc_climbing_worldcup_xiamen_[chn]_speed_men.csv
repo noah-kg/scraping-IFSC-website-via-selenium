@@ -1,35 +1,35 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",98,1,VLADISLAV DEULIN,RUS,5.960,5.53
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3278,2,ASPAR ASPAR,INA,5.980,5.70
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",1492,3,KOSTIANTYN PAVLENKO,UKR,6.390,6.34
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",865,4,LUDOVICO FOSSALI,ITA,5.950,7.21
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",105,5,DMITRII TIMOFEEV,RUS,6.190,6.33
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2929,6,QIXIN ZHONG,CHN,6.180,7.31
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",474,7,GUILLAUME MORO,FRA,6.260,7.97
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3318,8,HINAYAH MUHAMMAD,INA,6.070,FALL
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3274,9,SABRI SABRI,INA,6.380,6.03
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",146,10,ARSENII BOGOMOLOV,RUS,6.300,6.15
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",856,11,LEONARDO GONTERO,ITA,6.240,6.22
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3471,12,REZA ALIPOUR SHENAZANDIFARD,IRI,5.580,6.47
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",154,13,ALEKSANDR SHILOV,RUS,6.050,7.94
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",109,14,ALEKSANDR SHIKOV,RUS,6.070,FALL
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",74,15,STANISLAV KOKORIN,RUS,6.130,FALL
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3258,16,YULIANTO ABUDZAR,INA,6.300,FALL
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",92,17,GEORGY ARTAMONOV,RUS,6.400,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3276,18,SUFRIYANTO RINDI,INA,6.410,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2996,19,JINXIN LI,CHN,6.420,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2951,20,ZHIYONG OU,CHN,6.430,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2845,21,MARCIN DZIENSKI,POL,6.520,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2849,22,RAFAL HALASA,POL,6.530,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",861,23,ALESSANDRO SANTONI,ITA,6.570,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3504,24,EHSAN ASRAR,IRI,6.610,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2960,25,FENGQI WANG,CHN,6.720,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2076,26,YONGSU LEE,KOR,7.010,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",899,27,GIAN LUCA ZODDA,ITA,7.210,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3422,28,JAN HOJER,GER,7.280,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2063,29,JUNGJU KIM,KOR,7.490,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",776,30,JAVIER CANO BLAZQUEZ,ESP,8.950,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",1713,31,JOSH LEVIN,USA,9.560,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",816,32,SERGIO PASTOR MARTÍNEZ,ESP,10.510,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3487,33,MORTEZA MOHAMMADI,IRI,FALSE START,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3316,33,PANGERAN SEPTO WIBOWO SIBURIAN,INA,FALSE START,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",98,1,VLADISLAV DEULIN,M,RUS,5.960,5.53
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3278,2,ASPAR ASPAR,M,INA,5.980,5.70
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",1492,3,KOSTIANTYN PAVLENKO,M,UKR,6.390,6.34
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",865,4,LUDOVICO FOSSALI,M,ITA,5.950,7.21
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",105,5,DMITRII TIMOFEEV,M,RUS,6.190,6.33
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2929,6,QIXIN ZHONG,M,CHN,6.180,7.31
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",474,7,GUILLAUME MORO,M,FRA,6.260,7.97
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3318,8,HINAYAH MUHAMMAD,M,INA,6.070,FALL
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3274,9,SABRI SABRI,M,INA,6.380,6.03
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",146,10,ARSENII BOGOMOLOV,M,RUS,6.300,6.15
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",856,11,LEONARDO GONTERO,M,ITA,6.240,6.22
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3471,12,REZA ALIPOUR SHENAZANDIFARD,M,IRI,5.580,6.47
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",154,13,ALEKSANDR SHILOV,M,RUS,6.050,7.94
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",109,14,ALEKSANDR SHIKOV,M,RUS,6.070,FALL
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",74,15,STANISLAV KOKORIN,M,RUS,6.130,FALL
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3258,16,YULIANTO ABUDZAR,M,INA,6.300,FALL
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",92,17,GEORGY ARTAMONOV,M,RUS,6.400,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3276,18,SUFRIYANTO RINDI,M,INA,6.410,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2996,19,JINXIN LI,M,CHN,6.420,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2951,20,ZHIYONG OU,M,CHN,6.430,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2845,21,MARCIN DZIENSKI,M,POL,6.520,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2849,22,RAFAL HALASA,M,POL,6.530,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",861,23,ALESSANDRO SANTONI,M,ITA,6.570,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3504,24,EHSAN ASRAR,M,IRI,6.610,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2960,25,FENGQI WANG,M,CHN,6.720,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2076,26,YONGSU LEE,M,KOR,7.010,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",899,27,GIAN LUCA ZODDA,M,ITA,7.210,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3422,28,JAN HOJER,M,GER,7.280,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2063,29,JUNGJU KIM,M,KOR,7.490,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",776,30,JAVIER CANO BLAZQUEZ,M,ESP,8.950,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",1713,31,JOSH LEVIN,M,USA,9.560,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",816,32,SERGIO PASTOR MARTÍNEZ,M,ESP,10.510,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3487,33,MORTEZA MOHAMMADI,M,IRI,FALSE START,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",3316,33,PANGERAN SEPTO WIBOWO SIBURIAN,M,INA,FALSE START,

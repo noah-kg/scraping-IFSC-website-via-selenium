@@ -1,39 +1,39 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",3340,1,VEDDRIQ LEONARDO,INA,5.37,5.20 (WR) (WR)
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",3324,2,KIROMAL KATIBIN,INA,5.25 (WR),FALL
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",2845,3,MARCIN DZIENSKI,POL,5.90,5.84
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1754,4,JOHN BROSLER,USA,5.60 (R),6.89
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1908,5,MERRITT ERNSBERGER,USA,6.19,6.13
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",12317,6,JUN YASUKAWA,JPN,6.253,6.23
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",494,7,PIERRE REBREYEND,FRA,6.14,FALSE START
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1511,8,YAROSLAV TKACH,UKR,6.17,FALL
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",865,9,LUDOVICO FOSSALI,ITA,6.09,5.95
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",474,10,GUILLAUME MORO,FRA,6.36,6.12
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",523,11,MICKAEL MAWEM,FRA,6.28,6.79
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1843,12,MICHAEL FINN-HENRY,USA,6.255,7.79
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",899,13,GIAN LUCA ZODDA,ITA,6.06,7.88
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1492,14,KOSTIANTYN PAVLENKO,UKR,6.02,8.28
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",3211,15,CARLOS GRANJA,ECU,6.03,8.73
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",11603,16,LINUS BADER,GER,6.32,11.09
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1372,17,JAN KRIZ,CZE,6.40,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",11893,18,ETHAN PITCHER,CAN,6.54,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",3362,19,AMIR MAIMURATOV,KAZ,6.56,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1929,20,COLIN DUFFY,USA,6.75,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1925,21,STEFAN FELLNER,USA,6.76,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1058,22,CHRISTOPHER COSSER,RSA,6.83,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1936,23,DARREN SKOLNIK,USA,6.86,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",11886,24,QUINN O'FRANCIA,USA,6.87,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",3422,25,JAN HOJER,GER,6.88,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",3242,26,PAOLO RIVADENEIRA,ECU,6.91,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1778,27,NATHANIEL COLEMAN,USA,6.97,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",3220,28,NICKOLAIE RIVADENEIRA,ECU,7.09,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",857,29,MICHAEL PICCOLRUAZ,ITA,7.15,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",12722,30,CADEN REEDY,USA,7.26,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1798,31,NOAH BRATSCHI,USA,7.36,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1278,32,TOBIAS PLANGGER,AUT,7.55,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1559,33,SEAN MCCOLL,CAN,7.81,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",2332,34,KAI HARADA,JPN,7.89,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",12717,35,MUNEKAZU KITAMI,JPN,8.06,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",11518,36,FREDERIK VIBERG CHRISTIANSEN,DEN,9.58,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",12740,37,TOMAS CHICAIZA,ECU,9.81,
-"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",2276,38,TOMOA NARASAKI,JPN,FALSE START,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",3340,1,VEDDRIQ LEONARDO,M,INA,5.37,5.20 (WR) (WR)
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",3324,2,KIROMAL KATIBIN,M,INA,5.25 (WR),FALL
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",2845,3,MARCIN DZIENSKI,M,POL,5.90,5.84
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1754,4,JOHN BROSLER,M,USA,5.60 (R),6.89
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1908,5,MERRITT ERNSBERGER,M,USA,6.19,6.13
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",12317,6,JUN YASUKAWA,M,JPN,6.253,6.23
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",494,7,PIERRE REBREYEND,M,FRA,6.14,FALSE START
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1511,8,YAROSLAV TKACH,M,UKR,6.17,FALL
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",865,9,LUDOVICO FOSSALI,M,ITA,6.09,5.95
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",474,10,GUILLAUME MORO,M,FRA,6.36,6.12
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",523,11,MICKAEL MAWEM,M,FRA,6.28,6.79
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1843,12,MICHAEL FINN-HENRY,M,USA,6.255,7.79
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",899,13,GIAN LUCA ZODDA,M,ITA,6.06,7.88
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1492,14,KOSTIANTYN PAVLENKO,M,UKR,6.02,8.28
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",3211,15,CARLOS GRANJA,M,ECU,6.03,8.73
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",11603,16,LINUS BADER,M,GER,6.32,11.09
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1372,17,JAN KRIZ,M,CZE,6.40,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",11893,18,ETHAN PITCHER,M,CAN,6.54,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",3362,19,AMIR MAIMURATOV,M,KAZ,6.56,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1929,20,COLIN DUFFY,M,USA,6.75,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1925,21,STEFAN FELLNER,M,USA,6.76,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1058,22,CHRISTOPHER COSSER,M,RSA,6.83,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1936,23,DARREN SKOLNIK,M,USA,6.86,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",11886,24,QUINN O'FRANCIA,M,USA,6.87,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",3422,25,JAN HOJER,M,GER,6.88,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",3242,26,PAOLO RIVADENEIRA,M,ECU,6.91,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1778,27,NATHANIEL COLEMAN,M,USA,6.97,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",3220,28,NICKOLAIE RIVADENEIRA,M,ECU,7.09,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",857,29,MICHAEL PICCOLRUAZ,M,ITA,7.15,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",12722,30,CADEN REEDY,M,USA,7.26,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1798,31,NOAH BRATSCHI,M,USA,7.36,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1278,32,TOBIAS PLANGGER,M,AUT,7.55,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1559,33,SEAN MCCOLL,M,CAN,7.81,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",2332,34,KAI HARADA,M,JPN,7.89,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",12717,35,MUNEKAZU KITAMI,M,JPN,8.06,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",11518,36,FREDERIK VIBERG CHRISTIANSEN,M,DEN,9.58,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",12740,37,TOMAS CHICAIZA,M,ECU,9.81,
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",2276,38,TOMOA NARASAKI,M,JPN,FALSE START,

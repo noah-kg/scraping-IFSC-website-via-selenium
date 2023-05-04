@@ -1,40 +1,40 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",3340,1,VEDDRIQ LEONARDO,INA,5.41,6.96
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",3324,2,KIROMAL KATIBIN,INA,5.17 (WR) (ASR),FALSE START
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",11415,3,RAHMAD ADI MULYONO,INA,5.48,5.58
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",865,4,LUDOVICO FOSSALI,ITA,5.887,FALL
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",11175,5,ZAENAL ARIPIN,INA,5.74,FALL
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",2069,6,SEUNG BEOM LEE,KOR,5.76,5.76
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",474,7,GUILLAUME MORO,FRA,5.79,6.26
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1278,8,TOBIAS PLANGGER,AUT,5.889,5.69
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",3471,9,REZA ALIPOUR SHENAZANDIFARD,IRI,5.49,6.40
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",3278,10,ASPAR ASPAR,INA,5.70,5.71
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",11701,11,ERIK NOYA CARDONA,ESP,5.78,FALL
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",3270,12,ALFIAN MUHAMMAD FAJRI,INA,5.80,5.79
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",13153,13,YONGJUN JUNG,KOR,5.85,7.70
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",13547,14,RAHARJATI NURSAMSA,INA,5.93,8.39
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",494,15,PIERRE REBREYEND,FRA,5.94,FALL
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",13034,16,SAMUEL WATSON,USA,5.97,6.64
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",3115,17,LEANDER CARMANNS,GER,6.01,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1801,18,JOE GOODACRE,USA,6.12,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",2391,19,YUDAI IKEDA,JPN,6.15,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",11381,20,RYO OMASA,JPN,6.17,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",11854,21,DYLAN LE,CAN,6.30,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1263,22,LUKAS KNAPP,AUT,6.33,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",613,23,YANN LE CLERCQ DE LANNOY,FRA,6.36,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",11892,24,MINSU KANG,KOR,6.387,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1798,25,NOAH BRATSCHI,USA,6.388,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",11886,26,QUINN O'FRANCIA,USA,6.45,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",13155,27,TAEUNG MOON,KOR,6.53,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",13443,28,AKIHISA KAJI,JPN,6.72,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",899,29,GIAN LUCA ZODDA,ITA,6.89,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",2099,30,EUNCHEOL SHIN,KOR,6.90,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",13560,31,HYEONU SONG,KOR,7.12,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",13555,32,MINSOO PARK,KOR,7.84,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",3361,33,RISHAT KHAIBULLIN,KAZ,8.17,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",13043,34,SHUTO FUJINO,JPN,8.55,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",2079,35,SANGHYUN CHO,KOR,8.78,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",11603,36,LINUS BADER,GER,9.22,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",2124,37,HARAM JEON,KOR,9.34,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1754,38,JOHN BROSLER,USA,FALL,
-"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",2125,38,JIHWAN JU,KOR,FALL,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",3340,1,VEDDRIQ LEONARDO,M,INA,5.41,6.96
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",3324,2,KIROMAL KATIBIN,M,INA,5.17 (WR) (ASR),FALSE START
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",11415,3,RAHMAD ADI MULYONO,M,INA,5.48,5.58
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",865,4,LUDOVICO FOSSALI,M,ITA,5.887,FALL
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",11175,5,ZAENAL ARIPIN,M,INA,5.74,FALL
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",2069,6,SEUNG BEOM LEE,M,KOR,5.76,5.76
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",474,7,GUILLAUME MORO,M,FRA,5.79,6.26
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1278,8,TOBIAS PLANGGER,M,AUT,5.889,5.69
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",3471,9,REZA ALIPOUR SHENAZANDIFARD,M,IRI,5.49,6.40
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",3278,10,ASPAR ASPAR,M,INA,5.70,5.71
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",11701,11,ERIK NOYA CARDONA,M,ESP,5.78,FALL
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",3270,12,ALFIAN MUHAMMAD FAJRI,M,INA,5.80,5.79
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",13153,13,YONGJUN JUNG,M,KOR,5.85,7.70
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",13547,14,RAHARJATI NURSAMSA,M,INA,5.93,8.39
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",494,15,PIERRE REBREYEND,M,FRA,5.94,FALL
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",13034,16,SAMUEL WATSON,M,USA,5.97,6.64
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",3115,17,LEANDER CARMANNS,M,GER,6.01,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1801,18,JOE GOODACRE,M,USA,6.12,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",2391,19,YUDAI IKEDA,M,JPN,6.15,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",11381,20,RYO OMASA,M,JPN,6.17,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",11854,21,DYLAN LE,M,CAN,6.30,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1263,22,LUKAS KNAPP,M,AUT,6.33,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",613,23,YANN LE CLERCQ DE LANNOY,M,FRA,6.36,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",11892,24,MINSU KANG,M,KOR,6.387,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1798,25,NOAH BRATSCHI,M,USA,6.388,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",11886,26,QUINN O'FRANCIA,M,USA,6.45,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",13155,27,TAEUNG MOON,M,KOR,6.53,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",13443,28,AKIHISA KAJI,M,JPN,6.72,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",899,29,GIAN LUCA ZODDA,M,ITA,6.89,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",2099,30,EUNCHEOL SHIN,M,KOR,6.90,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",13560,31,HYEONU SONG,M,KOR,7.12,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",13555,32,MINSOO PARK,M,KOR,7.84,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",3361,33,RISHAT KHAIBULLIN,M,KAZ,8.17,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",13043,34,SHUTO FUJINO,M,JPN,8.55,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",2079,35,SANGHYUN CHO,M,KOR,8.78,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",11603,36,LINUS BADER,M,GER,9.22,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",2124,37,HARAM JEON,M,KOR,9.34,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1754,38,JOHN BROSLER,M,USA,FALL,
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",2125,38,JIHWAN JU,M,KOR,FALL,

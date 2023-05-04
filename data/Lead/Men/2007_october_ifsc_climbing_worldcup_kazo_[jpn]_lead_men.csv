@@ -1,34 +1,34 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,1356,1,TOMÁS MRÁZEK,CZE,TOP,TOP,53
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,773,2,RAMÓN JULIAN PUIGBLANQUE,ESP,TOP,TOP,40
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,772,2,PATXI USOBIAGA LAKUNZA,ESP,TOP,TOP,40
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,1213,4,DAVID LAMA,AUT,TOP,TOP,39
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,2254,5,SACHI AMMA,JPN,TOP,56-,39
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,426,6,SYLVAIN MILLET,FRA,TOP,TOP,38+
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,845,7,FLAVIO CRESPI,ITA,TOP,TOP,38
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,2032,7,SANGWON SON,KOR,TOP,TOP,38
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,2033,9,JABEE KIM,KOR,TOP,53-,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,4783,10,AKITO MATSUSHIMA,JPN,51-,49,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,2255,11,TSUKURU HORI,JPN,50-,49,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,2249,12,KEITA MOGAKI,JPN,50-,48-,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,3577,13,JORG VERHOEVEN,NED,TOP,46+,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,4690,14,FABIEN DUGIT,FRA,TOP,44-,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,4864,15,IVAN KAUROV,RUS,47,43,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,5832,16,SYUHEI TANAKA,JPN,47+,43-,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,4933,17,ALEXANDER KALINA,RUS,47-,43-,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,1204,18,KILIAN FISCHHUBER,AUT,51,42+,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,4988,19,HIROKI TSUNODA,JPN,50,41,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,5001,20,SAKAE NAKAHARA,JPN,49-,41,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,4937,21,KAZUMA WATANABE,JPN,51-,40,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,4942,22,DAISUKE KONISHI,JPN,50-,40-,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,5151,23,HIDEKAZU ITO,JPN,51-,39+,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,4934,24,SHINTA OZAWA,JPN,50-,34-,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,2034,25,JAHA KIM,KOR,51-,27,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,5225,26,KA-WAI CHU,HKG,47-,27-,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,5833,27,NOBUYUKI NAGATA,JPN,47-,25+,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,5010,28,CHI-WAI LAI,HKG,42-,,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,5834,29,SUNG-HOON KANG,KOR,40+,,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,2138,30,YEU-SHIANG CHANG,TPE,40-,,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,2927,31,QINGHUA WANG,CHN,36+,,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,5835,32,JAU SHIUAN HUNG,TPE,26,,
-IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,5023,33,KUEI CHI PENG,TPE,21-,,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,1356,1,TOMÁS MRÁZEK,M,CZE,TOP,TOP,53
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,773,2,RAMÓN JULIAN PUIGBLANQUE,M,ESP,TOP,TOP,40
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,772,2,PATXI USOBIAGA LAKUNZA,M,ESP,TOP,TOP,40
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,1213,4,DAVID LAMA,M,AUT,TOP,TOP,39
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,2254,5,SACHI AMMA,M,JPN,TOP,56-,39
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,426,6,SYLVAIN MILLET,M,FRA,TOP,TOP,38+
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,845,7,FLAVIO CRESPI,M,ITA,TOP,TOP,38
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,2032,7,SANGWON SON,M,KOR,TOP,TOP,38
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,2033,9,JABEE KIM,M,KOR,TOP,53-,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,4783,10,AKITO MATSUSHIMA,M,JPN,51-,49,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,2255,11,TSUKURU HORI,M,JPN,50-,49,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,2249,12,KEITA MOGAKI,M,JPN,50-,48-,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,3577,13,JORG VERHOEVEN,M,NED,TOP,46+,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,4690,14,FABIEN DUGIT,M,FRA,TOP,44-,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,4864,15,IVAN KAUROV,M,RUS,47,43,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,5832,16,SYUHEI TANAKA,M,JPN,47+,43-,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,4933,17,ALEXANDER KALINA,M,RUS,47-,43-,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,1204,18,KILIAN FISCHHUBER,M,AUT,51,42+,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,4988,19,HIROKI TSUNODA,M,JPN,50,41,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,5001,20,SAKAE NAKAHARA,M,JPN,49-,41,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,4937,21,KAZUMA WATANABE,M,JPN,51-,40,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,4942,22,DAISUKE KONISHI,M,JPN,50-,40-,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,5151,23,HIDEKAZU ITO,M,JPN,51-,39+,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,4934,24,SHINTA OZAWA,M,JPN,50-,34-,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,2034,25,JAHA KIM,M,KOR,51-,27,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,5225,26,KA-WAI CHU,M,HKG,47-,27-,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,5833,27,NOBUYUKI NAGATA,M,JPN,47-,25+,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,5010,28,CHI-WAI LAI,M,HKG,42-,,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,5834,29,SUNG-HOON KANG,M,KOR,40+,,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,2138,30,YEU-SHIANG CHANG,M,TPE,40-,,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,2927,31,QINGHUA WANG,M,CHN,36+,,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,5835,32,JAU SHIUAN HUNG,M,TPE,26,,
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,5023,33,KUEI CHI PENG,M,TPE,21-,,

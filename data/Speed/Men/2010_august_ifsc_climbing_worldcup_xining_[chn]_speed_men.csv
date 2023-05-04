@@ -1,10 +1,10 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",64,1,SERGEY ABDRAKHMANOV,RUS,7.310,7.17
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",4990,2,YUHANG ZHANG,CHN,8.050,7.82
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",56,3,EVGENII VAITSEKHOVSKII,RUS,7.550,6.64
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",74,4,STANISLAV KOKORIN,RUS,7.410,13.94
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",1359,5,LIBOR HROZA,CZE,7.660,7.34
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",48,6,SERGEI SINITCYN,RUS,7.760,7.59
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",2932,7,NING ZHANG,CHN,7.630,11.80
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",2929,8,QIXIN ZHONG,CHN,6.730,FALL
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",4752,9,MÁTÉ GÁL,HUN,9.510,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",64,1,SERGEY ABDRAKHMANOV,M,RUS,7.310,7.17
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",4990,2,YUHANG ZHANG,M,CHN,8.050,7.82
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",56,3,EVGENII VAITSEKHOVSKII,M,RUS,7.550,6.64
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",74,4,STANISLAV KOKORIN,M,RUS,7.410,13.94
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",1359,5,LIBOR HROZA,M,CZE,7.660,7.34
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",48,6,SERGEI SINITCYN,M,RUS,7.760,7.59
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",2932,7,NING ZHANG,M,CHN,7.630,11.80
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",2929,8,QIXIN ZHONG,M,CHN,6.730,FALL
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",4752,9,MÁTÉ GÁL,M,HUN,9.510,

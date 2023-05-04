@@ -1,21 +1,21 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1559,1,SEAN MCCOLL,CAN,TOP  1. | TOP  1. [5.50],37+,38+
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",3577,2,JORG VERHOEVEN,NED,31   17. | TOP  1. [9.81],36+,33
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",855,3,STEFANO GHISOLFI,ITA,TOP  1. | 33+  11. [8.12],32+,32
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1214,4,JAKOB SCHUBERT,AUT,TOP  1. | TOP  1. [5.50],40+,30+
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",437,5,ROMAIN DESGRANGES,FRA,TOP  1. | TOP  1. [5.50],39+,29
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2039,6,HYUNBIN MIN,KOR,TOP  1. | TOP  1. [5.50],31,26+
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1216,7,MARIO LECHNER,AUT,TOP  1. | TOP  1. [5.50],34+,24
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",447,8,MANUEL ROMAIN,FRA,TOP  1. | TOP  1. [5.50],34,19+
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2938,9,ZIDA MA,CHN,31   17. | 32+  15. [16.20],26,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",61,10,MIKHAIL CHERNIKOV,RUS,TOP  1. | TOP  1. [5.50],22+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1129,11,DOMEN SKOFIC,SLO,TOP  1. | 33+  11. [8.12],22+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1127,12,URBAN PRIMOZIC,SLO,32   11. | 33+  11. [11.49],22+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",778,13,VICTOR ESTELLER OCAÑA,ESP,31+  12. | 28+  17. [15.65],21+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",4877,14,JIACUO SUOLANG,CHN,31+  12. | 28+  17. [15.65],21,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",774,15,MARCO ANTONIO JUBES ANGARITA,ESP,31+  12. | 33   14. [14.00],20+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",448,16,THOMAS BALLET,FRA,31+  12. | TOP  1. [8.77],20,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2033,17,JABEE KIM,KOR,31+  12. | 30+  16. [14.97],15+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2138,18,YEU-SHIANG CHANG,TPE,13+  20. | 26   19. [19.49],15+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",773,19,RAMÓN JULIAN PUIGBLANQUE,ESP,TOP  1. | TOP  1. [5.50],12+,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",5225,20,KA-WAI CHU,HKG,21+  19. | 22   20. [19.49],12+,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1559,1,SEAN MCCOLL,M,CAN,TOP  1. | TOP  1. [5.50],37+,38+
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",3577,2,JORG VERHOEVEN,M,NED,31   17. | TOP  1. [9.81],36+,33
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",855,3,STEFANO GHISOLFI,M,ITA,TOP  1. | 33+  11. [8.12],32+,32
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1214,4,JAKOB SCHUBERT,M,AUT,TOP  1. | TOP  1. [5.50],40+,30+
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",437,5,ROMAIN DESGRANGES,M,FRA,TOP  1. | TOP  1. [5.50],39+,29
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2039,6,HYUNBIN MIN,M,KOR,TOP  1. | TOP  1. [5.50],31,26+
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1216,7,MARIO LECHNER,M,AUT,TOP  1. | TOP  1. [5.50],34+,24
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",447,8,MANUEL ROMAIN,M,FRA,TOP  1. | TOP  1. [5.50],34,19+
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2938,9,ZIDA MA,M,CHN,31   17. | 32+  15. [16.20],26,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",61,10,MIKHAIL CHERNIKOV,M,RUS,TOP  1. | TOP  1. [5.50],22+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1129,11,DOMEN SKOFIC,M,SLO,TOP  1. | 33+  11. [8.12],22+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",1127,12,URBAN PRIMOZIC,M,SLO,32   11. | 33+  11. [11.49],22+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",778,13,VICTOR ESTELLER OCAÑA,M,ESP,31+  12. | 28+  17. [15.65],21+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",4877,14,JIACUO SUOLANG,M,CHN,31+  12. | 28+  17. [15.65],21,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",774,15,MARCO ANTONIO JUBES ANGARITA,M,ESP,31+  12. | 33   14. [14.00],20+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",448,16,THOMAS BALLET,M,FRA,31+  12. | TOP  1. [8.77],20,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2033,17,JABEE KIM,M,KOR,31+  12. | 30+  16. [14.97],15+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2138,18,YEU-SHIANG CHANG,M,TPE,13+  20. | 26   19. [19.49],15+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",773,19,RAMÓN JULIAN PUIGBLANQUE,M,ESP,TOP  1. | TOP  1. [5.50],12+,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",5225,20,KA-WAI CHU,M,HKG,21+  19. | 22   20. [19.49],12+,

@@ -1,36 +1,36 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",7613,1,BASSA MAWEM,FRA,5.700,5.60
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",3278,2,ASPAR ASPAR,INA,5.720,5.62
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",3471,3,REZA ALIPOUR SHENAZANDIFARD,IRI,5.760,7.60
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",105,4,DMITRII TIMOFEEV,RUS,5.770,FALL
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",98,5,VLADISLAV DEULIN,RUS,5.900,5.95
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",2929,6,QIXIN ZHONG,CHN,5.850,5.97
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",2996,7,JINXIN LI,CHN,6.080,6.75
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",3270,8,ALFIAN MUHAMMAD FAJRI,INA,5.920,FALSE START
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",3274,9,SABRI SABRI,INA,6.050,5.97
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",3340,10,VEDDRIQ LEONARDO,INA,5.980,6.05
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",899,11,GIAN LUCA ZODDA,ITA,6.130,6.27
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",474,12,GUILLAUME MORO,FRA,6.140,6.56
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",154,13,ALEKSANDR SHILOV,RUS,6.090,7.43
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",1480,14,DANYIL BOLDYREV,UKR,5.880,8.53
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",865,15,LUDOVICO FOSSALI,ITA,6.140,FALL
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",2950,16,PENGHUI LIN,CHN,6.190,FALL
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",1372,17,JAN KRIZ,CZE,6.200,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",3318,18,HINAYAH MUHAMMAD,INA,6.220,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",1492,19,KOSTIANTYN PAVLENKO,UKR,6.280,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",2845,20,MARCIN DZIENSKI,POL,6.530,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",3551,21,MILAD ALIPOUR SHENAZANDIFAR,IRI,6.540,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",2309,22,YOSHIYUKI OGATA,JPN,6.710,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",2276,23,TOMOA NARASAKI,JPN,6.980,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",3316,24,PANGERAN SEPTO WIBOWO SIBURIAN,INA,7.360,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",3570,25,EHSAN DELFANIYAN,IRI,7.460,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",1214,26,JAKOB SCHUBERT,AUT,7.670,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",320,27,NICOLAS COLLIN,BEL,8.210,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",2965,28,YURONG DUAN,CHN,8.710,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",1634,29,AIDAN DOYLE,CAN,8.840,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",314,30,LOÏC TIMMERMANS,BEL,9.110,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",1489,31,FEDIR SAMOILOV,UKR,10.690,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",1754,32,JOHN BROSLER,USA,FALSE START,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",2944,32,ZHIXUAN CHEN,CHN,FALSE START,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",74,32,STANISLAV KOKORIN,RUS,FALSE START,
-"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",4299,32,SASCHA LEHMANN,SUI,FALL,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",7613,1,BASSA MAWEM,M,FRA,5.700,5.60
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",3278,2,ASPAR ASPAR,M,INA,5.720,5.62
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",3471,3,REZA ALIPOUR SHENAZANDIFARD,M,IRI,5.760,7.60
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",105,4,DMITRII TIMOFEEV,M,RUS,5.770,FALL
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",98,5,VLADISLAV DEULIN,M,RUS,5.900,5.95
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",2929,6,QIXIN ZHONG,M,CHN,5.850,5.97
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",2996,7,JINXIN LI,M,CHN,6.080,6.75
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",3270,8,ALFIAN MUHAMMAD FAJRI,M,INA,5.920,FALSE START
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",3274,9,SABRI SABRI,M,INA,6.050,5.97
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",3340,10,VEDDRIQ LEONARDO,M,INA,5.980,6.05
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",899,11,GIAN LUCA ZODDA,M,ITA,6.130,6.27
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",474,12,GUILLAUME MORO,M,FRA,6.140,6.56
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",154,13,ALEKSANDR SHILOV,M,RUS,6.090,7.43
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",1480,14,DANYIL BOLDYREV,M,UKR,5.880,8.53
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",865,15,LUDOVICO FOSSALI,M,ITA,6.140,FALL
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",2950,16,PENGHUI LIN,M,CHN,6.190,FALL
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",1372,17,JAN KRIZ,M,CZE,6.200,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",3318,18,HINAYAH MUHAMMAD,M,INA,6.220,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",1492,19,KOSTIANTYN PAVLENKO,M,UKR,6.280,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",2845,20,MARCIN DZIENSKI,M,POL,6.530,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",3551,21,MILAD ALIPOUR SHENAZANDIFAR,M,IRI,6.540,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",2309,22,YOSHIYUKI OGATA,M,JPN,6.710,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",2276,23,TOMOA NARASAKI,M,JPN,6.980,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",3316,24,PANGERAN SEPTO WIBOWO SIBURIAN,M,INA,7.360,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",3570,25,EHSAN DELFANIYAN,M,IRI,7.460,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",1214,26,JAKOB SCHUBERT,M,AUT,7.670,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",320,27,NICOLAS COLLIN,M,BEL,8.210,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",2965,28,YURONG DUAN,M,CHN,8.710,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",1634,29,AIDAN DOYLE,M,CAN,8.840,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",314,30,LOÏC TIMMERMANS,M,BEL,9.110,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",1489,31,FEDIR SAMOILOV,M,UKR,10.690,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",1754,32,JOHN BROSLER,M,USA,FALSE START,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",2944,32,ZHIXUAN CHEN,M,CHN,FALSE START,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",74,32,STANISLAV KOKORIN,M,RUS,FALSE START,
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018",4299,32,SASCHA LEHMANN,M,SUI,FALL,

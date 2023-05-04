@@ -1,38 +1,38 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",3014,1,LIJUAN DENG,CHN,6.84,6.66
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2879,2,NATALIA KALUCKA,POL,7.12,7.20
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2878,3,ALEKSANDRA KALUCKA,POL,6.91,6.81
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2941,4,DI NIU,CHN,7.31,FALL
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1999,5,EMMA HUNT,USA,7.18,8.07
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",3290,6,NURUL IQAMAH,INA,7.21,7.09
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",11364,7,NARDA MUTIA AMANDA,INA,7.29,7.33
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2995,8,YUFANG XIE,CHN,7.82,7.57
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",11357,9,DESAK MADE RITA KUSUMA DEWI,INA,6.75,8.22
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",488,10,AURELIA SARISSON,FRA,7.36,7.37
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",13606,11,SHENGYAN WANG,CHN,7.40,FALL
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",14094,12,RAHMAYUNA FADILLAH,INA,7.422,FALSE START
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",13154,13,JIMIN JEONG,KOR,7.427,7.47
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",3334,14,ALIVANY VER KHADIJAH,INA,7.63,7.82
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",569,15,CAPUCINE VIGLIONE,FRA,7.72,7.48
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",7165,16,GUIZHEN XIE,CHN,7.73,7.78
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",14093,17,EKA DIAN KRISMAWATI,INA,7.85,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2857,18,PATRYCJA CHUDZIAK,POL,7.90,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",3311,19,RAJIAH SALLSABILLAH,INA,7.99,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2114,20,YOUJIN CHA,KOR,8.09,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2445,21,ERICA VELEV,CAN,8.22,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",12853,22,JULIA KOCH,GER,8.23,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",13551,23,LIBERTY RUNNELS,USA,8.26,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",11597,24,NURIA BROCKFELD,GER,8.35,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",13736,25,SUSAN NURHIDAYAH,INA,8.62,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",13437,26,KARIN HAYASHI,JPN,8.70,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",14073,27,HARUKA KANETANI,JPN,9.07,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",13734,28,PUJA LESTARI,INA,9.08,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2139,29,HUNG YING LEE,TPE,9.09,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",14092,30,NOOR ARSYADA,INA,9.28,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",11517,31,GRACE CROWLEY,AUS,9.42,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",13438,32,NATSUMI HAYASHI,JPN,9.50,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",14075,33,MOMONA TATSUKI,JPN,10.17,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",3759,34,SARAH TETZLAFF,NZL,10.23,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",3772,35,ABBY GEBERT,NZL,11.11,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",14049,36,JORJA RANGI,NZL,11.15,
-"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2855,37,ANNA BROZEK,POL,FALSE START,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",3014,1,LIJUAN DENG,F,CHN,6.84,6.66
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2879,2,NATALIA KALUCKA,F,POL,7.12,7.20
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2878,3,ALEKSANDRA KALUCKA,F,POL,6.91,6.81
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2941,4,DI NIU,F,CHN,7.31,FALL
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1999,5,EMMA HUNT,F,USA,7.18,8.07
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",3290,6,NURUL IQAMAH,F,INA,7.21,7.09
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",11364,7,NARDA MUTIA AMANDA,F,INA,7.29,7.33
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2995,8,YUFANG XIE,F,CHN,7.82,7.57
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",11357,9,DESAK MADE RITA KUSUMA DEWI,F,INA,6.75,8.22
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",488,10,AURELIA SARISSON,F,FRA,7.36,7.37
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",13606,11,SHENGYAN WANG,F,CHN,7.40,FALL
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",14094,12,RAHMAYUNA FADILLAH,F,INA,7.422,FALSE START
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",13154,13,JIMIN JEONG,F,KOR,7.427,7.47
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",3334,14,ALIVANY VER KHADIJAH,F,INA,7.63,7.82
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",569,15,CAPUCINE VIGLIONE,F,FRA,7.72,7.48
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",7165,16,GUIZHEN XIE,F,CHN,7.73,7.78
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",14093,17,EKA DIAN KRISMAWATI,F,INA,7.85,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2857,18,PATRYCJA CHUDZIAK,F,POL,7.90,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",3311,19,RAJIAH SALLSABILLAH,F,INA,7.99,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2114,20,YOUJIN CHA,F,KOR,8.09,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2445,21,ERICA VELEV,F,CAN,8.22,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",12853,22,JULIA KOCH,F,GER,8.23,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",13551,23,LIBERTY RUNNELS,F,USA,8.26,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",11597,24,NURIA BROCKFELD,F,GER,8.35,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",13736,25,SUSAN NURHIDAYAH,F,INA,8.62,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",13437,26,KARIN HAYASHI,F,JPN,8.70,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",14073,27,HARUKA KANETANI,F,JPN,9.07,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",13734,28,PUJA LESTARI,F,INA,9.08,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2139,29,HUNG YING LEE,F,TPE,9.09,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",14092,30,NOOR ARSYADA,F,INA,9.28,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",11517,31,GRACE CROWLEY,F,AUS,9.42,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",13438,32,NATSUMI HAYASHI,F,JPN,9.50,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",14075,33,MOMONA TATSUKI,F,JPN,10.17,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",3759,34,SARAH TETZLAFF,F,NZL,10.23,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",3772,35,ABBY GEBERT,F,NZL,11.11,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",14049,36,JORJA RANGI,F,NZL,11.15,
+"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2855,37,ANNA BROZEK,F,POL,FALSE START,

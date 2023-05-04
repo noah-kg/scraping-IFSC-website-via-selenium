@@ -1,28 +1,28 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,1207,1,ANGELA EITER,AUT,TOP  1. | TOP  1. [10.68],TOP,TOP
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,2035,1,JAIN KIM,KOR,TOP  1. | TOP  1. [10.68],TOP,TOP
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,1122,1,MINA MARKOVIC,SLO,TOP  1. | TOP  1. [10.68],TOP,TOP
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,1219,4,JOHANNA ERNST,AUT,TOP  1. | TOP  1. [10.68],TOP,50-
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,1121,5,MAJA STREMFELJ,SLO,TOP  1. | TOP  1. [10.68],45-,47-
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,4916,6,MATHILDE BRUMAGNE,BEL,TOP  1. | TOP  1. [10.68],45-,46+
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,1210,7,CHRISTINE SCHRANZ,AUT,TOP  1. | TOP  1. [10.68],46+,46-
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,1222,8,KATHARINA POSCH,AUT,TOP  1. | TOP  1. [10.68],45+,43
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,2043,9,SEURAN HAN,KOR,TOP  1. | TOP  1. [10.68],42-,
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,442,10,ALIZÉE DUFRAISSE,FRA,TOP  1. | TOP  1. [10.68],41-,
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,438,11,CAROLINE CIAVALDINI,FRA,TOP  1. | 48   19. [15.30],41-,
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,1202,12,BARBARA BACHER,AUT,TOP  1. | TOP  1. [10.68],39-,
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,456,12,MATHILDE BECERRA,FRA,TOP  1. | TOP  1. [10.68],39-,
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,58,12,YANA CHERESHNEVA,RUS,TOP  1. | TOP  1. [10.68],39-,
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,445,12,CHARLOTTE DURIF,FRA,TOP  1. | TOP  1. [10.68],39-,
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,455,12,HÉLÈNE JANICOT,FRA,TOP  1. | TOP  1. [10.68],39-,
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,2047,17,SOL SA,KOR,TOP  1. | TOP  1. [10.68],37-,
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,4756,18,OLGA SHALAGINA,UKR,TOP  1. | TOP  1. [10.68],36-,
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,4922,19,ASJA GOSAR,SLO,TOP  1. | TOP  1. [10.68],35,
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,2268,20,AYA ONOE,JPN,TOP  1. | 47   22. [16.25],33-,
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,5030,21,CHRISTINA STÜTZ,AUT,TOP  1. | 48   19. [15.30],32+,
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,4702,22,OLENA OSTAPENKO,UKR,TOP  1. | 37+  23. [16.61],29+,
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,5818,23,DANIELA LOPEZ,VEN,39+  25. | 33   24. [24.49],27+,
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,5781,24,OLGA MEDVEDIEVA,UKR,40-  24. | 26   27. [25.46],18-,
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,2935,25,RONG JIANG,CHN,32+  27. | 30-  25. [25.98],15-,
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,848,26,JENNY LAVARDA,ITA,TOP  1. | 47+  21. [15.87],14+,
-IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,6143,27,MARÍA CARTRÓ IRIARTE,ESP,39-  26. | 26+  26. [26.00],,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,1207,1,ANGELA EITER,F,AUT,TOP  1. | TOP  1. [10.68],TOP,TOP
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,2035,1,JAIN KIM,F,KOR,TOP  1. | TOP  1. [10.68],TOP,TOP
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,1122,1,MINA MARKOVIC,F,SLO,TOP  1. | TOP  1. [10.68],TOP,TOP
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,1219,4,JOHANNA ERNST,F,AUT,TOP  1. | TOP  1. [10.68],TOP,50-
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,1121,5,MAJA STREMFELJ,F,SLO,TOP  1. | TOP  1. [10.68],45-,47-
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,4916,6,MATHILDE BRUMAGNE,F,BEL,TOP  1. | TOP  1. [10.68],45-,46+
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,1210,7,CHRISTINE SCHRANZ,F,AUT,TOP  1. | TOP  1. [10.68],46+,46-
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,1222,8,KATHARINA POSCH,F,AUT,TOP  1. | TOP  1. [10.68],45+,43
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,2043,9,SEURAN HAN,F,KOR,TOP  1. | TOP  1. [10.68],42-,
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,442,10,ALIZÉE DUFRAISSE,F,FRA,TOP  1. | TOP  1. [10.68],41-,
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,438,11,CAROLINE CIAVALDINI,F,FRA,TOP  1. | 48   19. [15.30],41-,
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,1202,12,BARBARA BACHER,F,AUT,TOP  1. | TOP  1. [10.68],39-,
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,456,12,MATHILDE BECERRA,F,FRA,TOP  1. | TOP  1. [10.68],39-,
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,58,12,YANA CHERESHNEVA,F,RUS,TOP  1. | TOP  1. [10.68],39-,
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,445,12,CHARLOTTE DURIF,F,FRA,TOP  1. | TOP  1. [10.68],39-,
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,455,12,HÉLÈNE JANICOT,F,FRA,TOP  1. | TOP  1. [10.68],39-,
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,2047,17,SOL SA,F,KOR,TOP  1. | TOP  1. [10.68],37-,
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,4756,18,OLGA SHALAGINA,F,UKR,TOP  1. | TOP  1. [10.68],36-,
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,4922,19,ASJA GOSAR,F,SLO,TOP  1. | TOP  1. [10.68],35,
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,2268,20,AYA ONOE,F,JPN,TOP  1. | 47   22. [16.25],33-,
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,5030,21,CHRISTINA STÜTZ,F,AUT,TOP  1. | 48   19. [15.30],32+,
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,4702,22,OLENA OSTAPENKO,F,UKR,TOP  1. | 37+  23. [16.61],29+,
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,5818,23,DANIELA LOPEZ,F,VEN,39+  25. | 33   24. [24.49],27+,
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,5781,24,OLGA MEDVEDIEVA,F,UKR,40-  24. | 26   27. [25.46],18-,
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,2935,25,RONG JIANG,F,CHN,32+  27. | 30-  25. [25.98],15-,
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,848,26,JENNY LAVARDA,F,ITA,TOP  1. | 47+  21. [15.87],14+,
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,6143,27,MARÍA CARTRÓ IRIARTE,F,ESP,39-  26. | 26+  26. [26.00],,

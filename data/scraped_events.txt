@@ -1,3 +1,11 @@
+--2023_april_ifsc_climbing_world_cup_hachioji_[jpn]_boulder_men.csv
+--2023_april_ifsc_climbing_world_cup_hachioji_[jpn]_boulder_women.csv
+IFSC - Climbing World Cup (B) - Hachioji (JPN) 2023
+--2023_april_ifsc_climbing_world_cup_seoul_[kor]_boulder_men.csv
+--2023_april_ifsc_climbing_world_cup_seoul_[kor]_boulder_women.csv
+--2023_april_ifsc_climbing_world_cup_seoul_[kor]_speed_men.csv
+--2023_april_ifsc_climbing_world_cup_seoul_[kor]_speed_women.csv
+IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2023
 --2022_april_ifsc_climbing_world_cup_meiringen_[sui]_boulder_men.csv
 --2022_april_ifsc_climbing_world_cup_meiringen_[sui]_boulder_women.csv
 IFSC - Climbing World Cup (B) - Meiringen (SUI) 2022
@@ -222,6 +230,8 @@ IFSC Climbing World Championships Combined - Innsbruck (AUT) 2018
 --2018_september_ifsc_climbing_worldcup_kranj_[slo]_lead_men.csv
 --2018_september_ifsc_climbing_worldcup_kranj_[slo]_lead_women.csv
 IFSC Climbing Worldcup (L) - Kranj (SLO) 2018
+--2018_october_ifsc_climbing_worldcup_wujiang_[chn]_lead_men.csv
+--2018_october_ifsc_climbing_worldcup_wujiang_[chn]_lead_women.csv
 --2018_october_ifsc_climbing_worldcup_wujiang_[chn]_speed_men.csv
 --2018_october_ifsc_climbing_worldcup_wujiang_[chn]_speed_women.csv
 IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018
@@ -282,6 +292,7 @@ IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017
 --2017_october_ifsc_climbing_worldcup_wujiang_[chn]_speed_women.csv
 IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017
 --2017_october_ifsc_climbing_worldcup_xiamen_[chn]_lead_men.csv
+--2017_october_ifsc_climbing_worldcup_xiamen_[chn]_lead_women.csv
 --2017_october_ifsc_climbing_worldcup_xiamen_[chn]_speed_men.csv
 --2017_october_ifsc_climbing_worldcup_xiamen_[chn]_speed_women.csv
 IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017
@@ -437,6 +448,8 @@ IFSC Climbing Worldcup (B) - Laval (FRA) 2014
 --2014_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_men.csv
 --2014_july_ifsc_climbing_worldcup_chamonix_[fra]_speed_women.csv
 IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014
+--2014_july_ifsc_climbing_worldcup_briançon_[fra]_lead_men.csv
+--2014_july_ifsc_climbing_worldcup_briançon_[fra]_lead_women.csv
 IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
 --2014_august_ifsc_climbing_worldcup_imst_[aut]_lead_men.csv
 --2014_august_ifsc_climbing_worldcup_imst_[aut]_lead_women.csv
@@ -688,6 +701,7 @@ IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2010
 --2010_june_ifsc_climbing_worldcup_eindhoven_[ned]_boulder_women.csv
 IFSC Climbing Worldcup (B) - Eindhoven (NED) 2010
 --2010_july_ifsc_climbing_worldcup_sheffield_[gbr]_boulder_men.csv
+--2010_july_ifsc_climbing_worldcup_sheffield_[gbr]_boulder_women.csv
 IFSC Climbing Worldcup (B) - Sheffield (GBR) 2010
 --2010_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_men.csv
 --2010_july_ifsc_climbing_worldcup_chamonix_[fra]_lead_women.csv
@@ -700,6 +714,8 @@ IFSC Climbing Worldcup (S) - Daone (ITA) 2010
 --2010_july_ifsc_climbing_worldcup_munich_[ger]_boulder_men.csv
 --2010_july_ifsc_climbing_worldcup_munich_[ger]_boulder_women.csv
 IFSC Climbing Worldcup (B) - Munich (GER) 2010
+--2010_august_ifsc_climbing_worldcup_xining_[chn]_lead_men.csv
+--2010_august_ifsc_climbing_worldcup_xining_[chn]_lead_women.csv
 --2010_august_ifsc_climbing_worldcup_xining_[chn]_speed_men.csv
 --2010_august_ifsc_climbing_worldcup_xining_[chn]_speed_women.csv
 IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010
@@ -712,6 +728,7 @@ IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010
 --2010_september_ifsc_climbing_worldcup_puurs_[bel]_lead_women.csv
 IFSC Climbing Worldcup (L) - Puurs (BEL) 2010
 --2010_october_ifsc_climbing_worldcup_huaiji_[chn]_lead_men.csv
+--2010_october_ifsc_climbing_worldcup_huaiji_[chn]_lead_women.csv
 --2010_october_ifsc_climbing_worldcup_huaiji_[chn]_speed_men.csv
 --2010_october_ifsc_climbing_worldcup_huaiji_[chn]_speed_women.csv
 IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010
@@ -870,13 +887,3 @@ IFSC Climbing Worldcup (B) - Brno (CZE) 2007
 --2007_november_ifsc_climbing_worldcup_kranj_[slo]_lead_men.csv
 --2007_november_ifsc_climbing_worldcup_kranj_[slo]_lead_women.csv
 IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-IFSC Climbing World Championships - Arco (ITA) 2011
-IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2021 - CANCELLED
---2023_april_ifsc_climbing_world_cup_hachioji_[jpn]_boulder_men.csv
---2023_april_ifsc_climbing_world_cup_hachioji_[jpn]_boulder_women.csv
-IFSC - Climbing World Cup (B) - Hachioji (JPN) 2023
---2023_april_ifsc_climbing_world_cup_seoul_[kor]_boulder_men.csv
---2023_april_ifsc_climbing_world_cup_seoul_[kor]_boulder_women.csv
---2023_april_ifsc_climbing_world_cup_seoul_[kor]_speed_men.csv
---2023_april_ifsc_climbing_world_cup_seoul_[kor]_speed_women.csv
-IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2023

@@ -1,14 +1,14 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",81,1,YULIYA LEVOCHKINA,RUS,12.960,10.36
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",4735,2,KSENIIA ALEKSEEVA,RUS,11.080,10.54
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",2930,3,CUILIAN HE,CHN,10.440,9.80
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",2834,4,EDYTA ROPEK,POL,10.640,10.29
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",2933,5,XUHUA PAN,CHN,11.610,11.19
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",4982,6,CHUNHUA LI,CHN,13.110,11.69
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",4736,7,OLGA EVSTIGNEEVA,RUS,13.450,13.28
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",4984,8,YANG WANG,CHN,13.470,FALL
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",2936,9,LAMU RENQING,CHN,16.120,
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",4985,10,WEILING YANG,CHN,17.070,
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",4983,11,XIAOTONG GUAN,CHN,17.280,
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",2940,12,WANGMU RENZENG,CHN,17.330,
-"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",4986,13,WANGMU GESANG,CHN,20.290,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",81,1,YULIYA LEVOCHKINA,F,RUS,12.960,10.36
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",4735,2,KSENIIA ALEKSEEVA,F,RUS,11.080,10.54
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",2930,3,CUILIAN HE,F,CHN,10.440,9.80
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",2834,4,EDYTA ROPEK,F,POL,10.640,10.29
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",2933,5,XUHUA PAN,F,CHN,11.610,11.19
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",4982,6,CHUNHUA LI,F,CHN,13.110,11.69
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",4736,7,OLGA EVSTIGNEEVA,F,RUS,13.450,13.28
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",4984,8,YANG WANG,F,CHN,13.470,FALL
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",2936,9,LAMU RENQING,F,CHN,16.120,
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",4985,10,WEILING YANG,F,CHN,17.070,
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",4983,11,XIAOTONG GUAN,F,CHN,17.280,
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",2940,12,WANGMU RENZENG,F,CHN,17.330,
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",4986,13,WANGMU GESANG,F,CHN,20.290,

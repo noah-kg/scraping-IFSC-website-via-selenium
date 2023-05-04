@@ -1,17 +1,17 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",2929,1,QIXIN ZHONG,CHN,6.690,6.52
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",56,2,EVGENII VAITSEKHOVSKII,RUS,6.850,7.52
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",1359,3,LIBOR HROZA,CZE,6.890,6.75
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",74,4,STANISLAV KOKORIN,RUS,6.790,6.78
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",3358,5,ARTYOM DEVYATERIKOV,KAZ,8.280,8.62
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",48,6,SERGEI SINITCYN,RUS,7.010,9.39
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",64,7,SERGEY ABDRAKHMANOV,RUS,7.130,FALL
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",2932,8,NING ZHANG,CHN,7.750,FALL
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",2048,9,SUNGJOON CHAE,KOR,9.690,
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",5010,10,CHI-WAI LAI,HKG,10.140,
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",5011,11,CHIGON SEO,KOR,11.280,
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",4864,12,IVAN KAUROV,RUS,11.510,
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",5006,13,YONGHO JANG,KOR,12.370,
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",2214,14,KA-CHUN YAU,HKG,12.850,
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",5009,15,DANIEL TIRADO,COL,15.510,
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",4752,16,MÁTÉ GÁL,HUN,FALL,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",2929,1,QIXIN ZHONG,M,CHN,6.690,6.52
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",56,2,EVGENII VAITSEKHOVSKII,M,RUS,6.850,7.52
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",1359,3,LIBOR HROZA,M,CZE,6.890,6.75
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",74,4,STANISLAV KOKORIN,M,RUS,6.790,6.78
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",3358,5,ARTYOM DEVYATERIKOV,M,KAZ,8.280,8.62
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",48,6,SERGEI SINITCYN,M,RUS,7.010,9.39
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",64,7,SERGEY ABDRAKHMANOV,M,RUS,7.130,FALL
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",2932,8,NING ZHANG,M,CHN,7.750,FALL
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",2048,9,SUNGJOON CHAE,M,KOR,9.690,
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",5010,10,CHI-WAI LAI,M,HKG,10.140,
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",5011,11,CHIGON SEO,M,KOR,11.280,
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",4864,12,IVAN KAUROV,M,RUS,11.510,
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",5006,13,YONGHO JANG,M,KOR,12.370,
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",2214,14,KA-CHUN YAU,M,HKG,12.850,
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",5009,15,DANIEL TIRADO,M,COL,15.510,
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",4752,16,MÁTÉ GÁL,M,HUN,FALL,

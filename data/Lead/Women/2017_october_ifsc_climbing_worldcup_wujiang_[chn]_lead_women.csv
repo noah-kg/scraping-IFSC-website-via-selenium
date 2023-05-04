@@ -1,31 +1,31 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1147,1,JANJA GARNBRET,SLO,TOP  1. | TOP  1. [4.95],TOP,TOP
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2035,2,JAIN KIM,KOR,TOP  1. | TOP  1. [4.95],41+,45+
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",466,3,JULIA CHANOURDIE,FRA,37+  9. | TOP  1. [8.57],35+,36+
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2253,4,AKIYO NOGUCHI,JPN,TOP  1. | TOP  1. [4.95],40+,33.5+
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",642,5,MOLLY THOMPSON-SMITH,GBR,TOP  1. | 38+  14. [7.60],39+,33.5+
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1812,6,ASHIMA SHIRAISHI,USA,TOP  1. | TOP  1. [4.95],40+,33+
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1226,7,JESSICA PILZ,AUT,37+  9. | TOP  1. [8.57],37,31+
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",315,8,ANAK VERHOEVEN,BEL,TOP  1. | TOP  1. [4.95],43+,28+
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",68,9,DINARA FAKHRITDINOVA,RUS,37+  9. | TOP  1. [8.57],34+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1122,10,MINA MARKOVIC,SLO,39+  7. | TOP  1. [7.00],30,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",456,11,MATHILDE BECERRA,FRA,35+  14. | TOP  1. [10.42],29+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",467,12,SALOMÉ ROMAIN,FRA,37+  9. | 38+  14. [13.16],29+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1232,13,HANNAH SCHUBERT,AUT,36+  13. | TOP  1. [9.54],28+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1486,14,IEVGENIIA KAZBEKOVA,UKR,35+  14. | TOP  1. [10.42],28+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2267,14,RISA OTA,JPN,35+  14. | TOP  1. [10.42],28+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2277,16,MOE YOSHIMURA,JPN,35+  14. | 38+  14. [15.99],28+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",860,17,CLAUDIA GHISOLFI,ITA,31   20. | 32+  21. [20.49],28+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2936,18,LAMU RENQING,CHN,34+  18. | 30   26. [21.63],27+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",3984,19,NETTA FREDMAN,ISR,24+  23. | 32   22. [22.74],25,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2386,20,MORIWAKI HONOKA,JPN,24+  23. | 30+  24. [23.99],23,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2278,21,MEI KOTAKE,JPN,38+  8. | 38+  14. [11.49],22,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",3060,22,TINA JOHNSEN HAFSAAS,NOR,30+  21. | 38+  14. [18.61],22,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2056,23,JIWON BAE,KOR,31+  19. | 34.5   20. [19.49],21+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2139,24,HUNG YING LEE,TPE,29+  22. | 31+  23. [22.49],21+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1224,25,MAGDALENA RÖCK,AUT,16+  30. | 38+  14. [22.25],18+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2104,26,SUNGA SON,KOR,23+  25. | 30+  24. [25.24],13+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2957,27,YUZHEN BAIMA,CHN,23+  25. | 28+  27. [26.50],,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",73,28,ANNA TSYGANOVA,RUS,23+  25. | 25+  29. [27.46],,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2141,29,HSIU-JU LIN,TPE,22+  28. | 27+  28. [28.00],,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2970,30,YILING SONG,CHN,22   29. | 24   30. [29.50],,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1147,1,JANJA GARNBRET,F,SLO,TOP  1. | TOP  1. [4.95],TOP,TOP
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2035,2,JAIN KIM,F,KOR,TOP  1. | TOP  1. [4.95],41+,45+
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",466,3,JULIA CHANOURDIE,F,FRA,37+  9. | TOP  1. [8.57],35+,36+
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2253,4,AKIYO NOGUCHI,F,JPN,TOP  1. | TOP  1. [4.95],40+,33.5+
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",642,5,MOLLY THOMPSON-SMITH,F,GBR,TOP  1. | 38+  14. [7.60],39+,33.5+
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1812,6,ASHIMA SHIRAISHI,F,USA,TOP  1. | TOP  1. [4.95],40+,33+
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1226,7,JESSICA PILZ,F,AUT,37+  9. | TOP  1. [8.57],37,31+
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",315,8,ANAK VERHOEVEN,F,BEL,TOP  1. | TOP  1. [4.95],43+,28+
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",68,9,DINARA FAKHRITDINOVA,F,RUS,37+  9. | TOP  1. [8.57],34+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1122,10,MINA MARKOVIC,F,SLO,39+  7. | TOP  1. [7.00],30,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",456,11,MATHILDE BECERRA,F,FRA,35+  14. | TOP  1. [10.42],29+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",467,12,SALOMÉ ROMAIN,F,FRA,37+  9. | 38+  14. [13.16],29+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1232,13,HANNAH SCHUBERT,F,AUT,36+  13. | TOP  1. [9.54],28+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1486,14,IEVGENIIA KAZBEKOVA,F,UKR,35+  14. | TOP  1. [10.42],28+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2267,14,RISA OTA,F,JPN,35+  14. | TOP  1. [10.42],28+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2277,16,MOE YOSHIMURA,F,JPN,35+  14. | 38+  14. [15.99],28+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",860,17,CLAUDIA GHISOLFI,F,ITA,31   20. | 32+  21. [20.49],28+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2936,18,LAMU RENQING,F,CHN,34+  18. | 30   26. [21.63],27+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",3984,19,NETTA FREDMAN,F,ISR,24+  23. | 32   22. [22.74],25,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2386,20,MORIWAKI HONOKA,F,JPN,24+  23. | 30+  24. [23.99],23,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2278,21,MEI KOTAKE,F,JPN,38+  8. | 38+  14. [11.49],22,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",3060,22,TINA JOHNSEN HAFSAAS,F,NOR,30+  21. | 38+  14. [18.61],22,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2056,23,JIWON BAE,F,KOR,31+  19. | 34.5   20. [19.49],21+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2139,24,HUNG YING LEE,F,TPE,29+  22. | 31+  23. [22.49],21+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1224,25,MAGDALENA RÖCK,F,AUT,16+  30. | 38+  14. [22.25],18+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2104,26,SUNGA SON,F,KOR,23+  25. | 30+  24. [25.24],13+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2957,27,YUZHEN BAIMA,F,CHN,23+  25. | 28+  27. [26.50],,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",73,28,ANNA TSYGANOVA,F,RUS,23+  25. | 25+  29. [27.46],,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2141,29,HSIU-JU LIN,F,TPE,22+  28. | 27+  28. [28.00],,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2970,30,YILING SONG,F,CHN,22   29. | 24   30. [29.50],,

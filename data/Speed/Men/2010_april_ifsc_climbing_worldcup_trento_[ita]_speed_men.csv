@@ -1,25 +1,25 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,56,1,EVGENII VAITSEKHOVSKII,RUS,7.490,6.93
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,74,2,STANISLAV KOKORIN,RUS,8.060,7.20
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,1359,3,LIBOR HROZA,CZE,7.740,7.37
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4744,4,IVAN NOVIKOV,RUS,8.230,13.02
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,64,5,SERGEY ABDRAKHMANOV,RUS,7.800,7.06
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4745,6,LUKASZ SWIRK,POL,8.140,7.72
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,1470,7,MAKSYM STYENKOVYY,UKR,7.690,8.01
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,2838,8,JEDRZEJ KOMOSINSKI,POL,7.640,9.76
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,3174,9,MANUEL ESCOBAR,VEN,8.680,8.02
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,2167,10,CSABA KOMONDI,HUN,8.150,8.09
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4746,11,MAKSYM OSIPOV,UKR,8.100,8.25
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4747,12,OLEKSIY YURKO,UKR,8.830,8.29
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,3175,13,LEONEL DE LAS SALAS,VEN,8.740,9.51
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,855,14,STEFANO GHISOLFI,ITA,9.710,9.73
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4748,15,JOSMAR NIEVES,VEN,9.700,11.90
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,48,16,SERGEI SINITCYN,RUS,7.850,FALL
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,856,17,LEONARDO GONTERO,ITA,10.190,
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4749,18,JAKUB POCIECHA,POL,10.200,
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4750,19,HUBERT STYLA,POL,10.690,
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4751,20,BENCE GÁL,HUN,10.810,
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4752,21,MÁTÉ GÁL,HUN,11.090,
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4753,22,SALAH BOULBAHAIEM,BEL,12.530,
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4754,22,GYULA JUHASZ,HUN,12.530,
-IFSC Climbing Worldcup (S) - Trento (ITA) 2010,3208,24,ISAAC ESTEVEZ,ECU,12.690,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,56,1,EVGENII VAITSEKHOVSKII,M,RUS,7.490,6.93
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,74,2,STANISLAV KOKORIN,M,RUS,8.060,7.20
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,1359,3,LIBOR HROZA,M,CZE,7.740,7.37
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4744,4,IVAN NOVIKOV,M,RUS,8.230,13.02
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,64,5,SERGEY ABDRAKHMANOV,M,RUS,7.800,7.06
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4745,6,LUKASZ SWIRK,M,POL,8.140,7.72
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,1470,7,MAKSYM STYENKOVYY,M,UKR,7.690,8.01
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,2838,8,JEDRZEJ KOMOSINSKI,M,POL,7.640,9.76
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,3174,9,MANUEL ESCOBAR,M,VEN,8.680,8.02
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,2167,10,CSABA KOMONDI,M,HUN,8.150,8.09
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4746,11,MAKSYM OSIPOV,M,UKR,8.100,8.25
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4747,12,OLEKSIY YURKO,M,UKR,8.830,8.29
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,3175,13,LEONEL DE LAS SALAS,M,VEN,8.740,9.51
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,855,14,STEFANO GHISOLFI,M,ITA,9.710,9.73
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4748,15,JOSMAR NIEVES,M,VEN,9.700,11.90
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,48,16,SERGEI SINITCYN,M,RUS,7.850,FALL
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,856,17,LEONARDO GONTERO,M,ITA,10.190,
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4749,18,JAKUB POCIECHA,M,POL,10.200,
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4750,19,HUBERT STYLA,M,POL,10.690,
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4751,20,BENCE GÁL,M,HUN,10.810,
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4752,21,MÁTÉ GÁL,M,HUN,11.090,
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4753,22,SALAH BOULBAHAIEM,M,BEL,12.530,
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,4754,22,GYULA JUHASZ,M,HUN,12.530,
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,3208,24,ISAAC ESTEVEZ,M,ECU,12.690,

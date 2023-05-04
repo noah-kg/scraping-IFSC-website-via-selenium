@@ -1,28 +1,28 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2929,1,QIXIN ZHONG,CHN,6.190,5.81
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",1480,2,DANYIL BOLDYREV,UKR,6.210,6.56
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",1359,3,LIBOR HROZA,CZE,5.610,5.85
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",7613,4,BASSA MAWEM,FRA,6.210,FALL
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2845,5,MARCIN DZIENSKI,POL,6.320,6.02
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",154,6,ALEKSANDR SHILOV,RUS,6.480,6.20
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",3471,7,REZA ALIPOUR SHENAZANDIFARD,IRI,6.240,6.30
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",3362,8,AMIR MAIMURATOV,KAZ,6.330,6.53
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2951,9,ZHIYONG OU,CHN,6.830,6.67
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",464,10,QUENTIN NAMBOT,FRA,6.760,6.69
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",1574,11,ROBERT STEWART-PATTERSON,CAN,6.690,6.76
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",74,12,STANISLAV KOKORIN,RUS,7.120,6.90
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2950,13,PENGHUI LIN,CHN,6.640,7.02
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2838,14,JEDRZEJ KOMOSINSKI,POL,6.690,7.09
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",85,15,SERGEI LUZHETSKII,RUS,7.130,7.96
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",56,16,EVGENII VAITSEKHOVSKII,RUS,6.370,8.36
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",3361,17,RISHAT KHAIBULLIN,KAZ,7.200,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2048,18,SUNGJOON CHAE,KOR,7.580,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2860,19,TOMASZ SORDYL,POL,7.750,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2062,20,HYUNJAE KIM,KOR,7.820,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2063,21,JUNGJU KIM,KOR,8.130,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",3641,22,RYAN YEO XU HONG,SGP,8.200,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",6408,23,JEKYOUNG HYUN,KOR,8.300,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",1559,24,SEAN MCCOLL,CAN,8.410,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",6407,25,KANAT EGIZBAYEV,KAZ,8.630,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",6367,26,DAEHYEON KWON,KOR,8.730,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2217,27,CHI-FUNG AU,HKG,9.610,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2929,1,QIXIN ZHONG,M,CHN,6.190,5.81
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",1480,2,DANYIL BOLDYREV,M,UKR,6.210,6.56
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",1359,3,LIBOR HROZA,M,CZE,5.610,5.85
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",7613,4,BASSA MAWEM,M,FRA,6.210,FALL
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2845,5,MARCIN DZIENSKI,M,POL,6.320,6.02
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",154,6,ALEKSANDR SHILOV,M,RUS,6.480,6.20
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",3471,7,REZA ALIPOUR SHENAZANDIFARD,M,IRI,6.240,6.30
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",3362,8,AMIR MAIMURATOV,M,KAZ,6.330,6.53
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2951,9,ZHIYONG OU,M,CHN,6.830,6.67
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",464,10,QUENTIN NAMBOT,M,FRA,6.760,6.69
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",1574,11,ROBERT STEWART-PATTERSON,M,CAN,6.690,6.76
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",74,12,STANISLAV KOKORIN,M,RUS,7.120,6.90
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2950,13,PENGHUI LIN,M,CHN,6.640,7.02
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2838,14,JEDRZEJ KOMOSINSKI,M,POL,6.690,7.09
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",85,15,SERGEI LUZHETSKII,M,RUS,7.130,7.96
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",56,16,EVGENII VAITSEKHOVSKII,M,RUS,6.370,8.36
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",3361,17,RISHAT KHAIBULLIN,M,KAZ,7.200,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2048,18,SUNGJOON CHAE,M,KOR,7.580,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2860,19,TOMASZ SORDYL,M,POL,7.750,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2062,20,HYUNJAE KIM,M,KOR,7.820,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2063,21,JUNGJU KIM,M,KOR,8.130,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",3641,22,RYAN YEO XU HONG,M,SGP,8.200,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",6408,23,JEKYOUNG HYUN,M,KOR,8.300,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",1559,24,SEAN MCCOLL,M,CAN,8.410,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",6407,25,KANAT EGIZBAYEV,M,KAZ,8.630,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",6367,26,DAEHYEON KWON,M,KOR,8.730,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2217,27,CHI-FUNG AU,M,HKG,9.610,

@@ -1,29 +1,29 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,1356,1,TOMÁS MRÁZEK,CZE,33-,42.5,56-
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,845,2,FLAVIO CRESPI,ITA,TOP,40.7,54+
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,3577,3,JORG VERHOEVEN,NED,TOP,51,48+
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,426,4,SYLVAIN MILLET,FRA,TOP,40.7+,43
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,773,5,RAMÓN JULIAN PUIGBLANQUE,ESP,TOP,49-,41-
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,772,6,PATXI USOBIAGA LAKUNZA,ESP,TOP,40.5+,40.5+
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,3129,7,CÉDRIC LACHAT,SUI,32+,52-,39-
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,5393,8,DANIEL WINKLER,SUI,15,40.7+,30-
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,1213,9,DAVID LAMA,AUT,33-,40.5+,
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,4690,10,FABIEN DUGIT,FRA,TOP,40.5,
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2254,11,SACHI AMMA,JPN,TOP,40,
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,4937,12,KAZUMA WATANABE,JPN,33-,38+,
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,4864,13,IVAN KAUROV,RUS,32+,38,
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2034,14,JAHA KIM,KOR,TOP,37+,
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,61,15,MIKHAIL CHERNIKOV,RUS,33-,36+,
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,3460,16,GHOLAMALI BARATZADEH,IRI,32+,36+,
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,3458,17,MOHAMMAD JAFARI MAHMOUDABADI,IRI,TOP,36-,
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,4987,18,CHANGZHONG LIU,CHN,33-,35,
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,5816,19,SOBHAN JAFARI MAHMOUDABADI,IRI,22-,33-,
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2138,20,YEU-SHIANG CHANG,TPE,18,32-,
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,4787,21,MARTIN JAGGI,SUI,33-,27,
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2927,22,QINGHUA WANG,CHN,30-,26-,
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2926,23,LUYUAN CAI,CHN,15,20-,
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2033,24,JABEE KIM,KOR,32+,18,
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2928,25,JINYU PAN,CHN,16,17,
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,3461,26,ARTIMES FARSHAD YEGANEH,IRI,27-,11+,
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,5023,27,KUEI CHI PENG,TPE,10-,,
-IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,4989,27,XIANGYANG YE,CHN,10-,,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,1356,1,TOMÁS MRÁZEK,M,CZE,33-,42.5,56-
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,845,2,FLAVIO CRESPI,M,ITA,TOP,40.7,54+
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,3577,3,JORG VERHOEVEN,M,NED,TOP,51,48+
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,426,4,SYLVAIN MILLET,M,FRA,TOP,40.7+,43
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,773,5,RAMÓN JULIAN PUIGBLANQUE,M,ESP,TOP,49-,41-
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,772,6,PATXI USOBIAGA LAKUNZA,M,ESP,TOP,40.5+,40.5+
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,3129,7,CÉDRIC LACHAT,M,SUI,32+,52-,39-
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,5393,8,DANIEL WINKLER,M,SUI,15,40.7+,30-
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,1213,9,DAVID LAMA,M,AUT,33-,40.5+,
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,4690,10,FABIEN DUGIT,M,FRA,TOP,40.5,
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2254,11,SACHI AMMA,M,JPN,TOP,40,
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,4937,12,KAZUMA WATANABE,M,JPN,33-,38+,
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,4864,13,IVAN KAUROV,M,RUS,32+,38,
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2034,14,JAHA KIM,M,KOR,TOP,37+,
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,61,15,MIKHAIL CHERNIKOV,M,RUS,33-,36+,
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,3460,16,GHOLAMALI BARATZADEH,M,IRI,32+,36+,
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,3458,17,MOHAMMAD JAFARI MAHMOUDABADI,M,IRI,TOP,36-,
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,4987,18,CHANGZHONG LIU,M,CHN,33-,35,
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,5816,19,SOBHAN JAFARI MAHMOUDABADI,M,IRI,22-,33-,
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2138,20,YEU-SHIANG CHANG,M,TPE,18,32-,
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,4787,21,MARTIN JAGGI,M,SUI,33-,27,
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2927,22,QINGHUA WANG,M,CHN,30-,26-,
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2926,23,LUYUAN CAI,M,CHN,15,20-,
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2033,24,JABEE KIM,M,KOR,32+,18,
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2928,25,JINYU PAN,M,CHN,16,17,
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,3461,26,ARTIMES FARSHAD YEGANEH,M,IRI,27-,11+,
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,5023,27,KUEI CHI PENG,M,TPE,10-,,
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,4989,27,XIANGYANG YE,M,CHN,10-,,

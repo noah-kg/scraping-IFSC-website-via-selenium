@@ -1,28 +1,28 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",1214,1,JAKOB SCHUBERT,AUT,5T7 5B5,3T3 4B4,2T2 3B6
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",436,2,GUILLAUME GLAIRON MONDET,FRA,4T5 5B5,2T4 4B6,2T5 4B4
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",60,3,RUSTAM GELMANOV,RUS,4T7 5B6,4T4 4B4,1T3 4B4
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2254,4,SACHI AMMA,JPN,1T1 3B3,3T7 3B6,0T 4B9
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",79,5,ALEKSEY RUBTSOV,RUS,2T3 5B7,2T2 2B2,0T 4B10
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2033,6,JABEE KIM,KOR,0T 5B8,2T3 2B2,0T 2B5
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",441,7,THOMAS CALEYRON,FRA,3T4 5B6,2T4 2B4,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2822,8,JONAS BAUMANN,GER,1T1 3B3,2T5 2B3,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2255,9,TSUKURU HORI,JPN,4T6 5B6,2T6 3B7,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",3353,10,STEFAN DANKER,GER,2T4 4B7,1T1 4B6,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2257,11,REI SUGIMOTO,JPN,3T3 4B4,1T1 4B10,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",3579,12,NICKY DE LEEUW,NED,1T3 4B4,1T1 3B4,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",53,13,DMITRII SHARAFUTDINOV,RUS,4T6 5B5,1T1 2B2,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",1124,14,JERNEJ KRUDER,SLO,1T1 5B7,1T2 4B7,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",3576,15,WOUTER JONGENEELEN,NED,0T 4B6,1T2 2B2,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",9191,16,STÉPHAN JULIEN,FRA,2T3 4B8,1T3 2B5,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",6144,17,AKITO TSUMORI,JPN,1T1 4B5,0T 2B2,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",4716,18,KLEMEN BECAN,SLO,0T 4B6,0T 2B4,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2266,19,RYUICHI MURAI,JPN,2T5 3B4,0T 1B1,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",3890,20,MATHIAS CONRAD,GER,1T1 4B4,0T 1B1,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",6145,21,HONGSHU QIU,CHN,1T1 4B4,0T 0B,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",4877,22,JIACUO SUOLANG,CHN,0T 4B10,,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2929,23,QIXIN ZHONG,CHN,0T 3B5,,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2211,24,SIN-FAI HO,HKG,0T 3B7,,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2938,24,ZIDA MA,CHN,0T 3B7,,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2216,26,SIU-HEI TANG,HKG,0T 3B9,,
-"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2931,27,HAIBIN QU,CHN,0T 2B5,,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",1214,1,JAKOB SCHUBERT,M,AUT,5T7 5B5,3T3 4B4,2T2 3B6
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",436,2,GUILLAUME GLAIRON MONDET,M,FRA,4T5 5B5,2T4 4B6,2T5 4B4
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",60,3,RUSTAM GELMANOV,M,RUS,4T7 5B6,4T4 4B4,1T3 4B4
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2254,4,SACHI AMMA,M,JPN,1T1 3B3,3T7 3B6,0T 4B9
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",79,5,ALEKSEY RUBTSOV,M,RUS,2T3 5B7,2T2 2B2,0T 4B10
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2033,6,JABEE KIM,M,KOR,0T 5B8,2T3 2B2,0T 2B5
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",441,7,THOMAS CALEYRON,M,FRA,3T4 5B6,2T4 2B4,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2822,8,JONAS BAUMANN,M,GER,1T1 3B3,2T5 2B3,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2255,9,TSUKURU HORI,M,JPN,4T6 5B6,2T6 3B7,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",3353,10,STEFAN DANKER,M,GER,2T4 4B7,1T1 4B6,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2257,11,REI SUGIMOTO,M,JPN,3T3 4B4,1T1 4B10,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",3579,12,NICKY DE LEEUW,M,NED,1T3 4B4,1T1 3B4,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",53,13,DMITRII SHARAFUTDINOV,M,RUS,4T6 5B5,1T1 2B2,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",1124,14,JERNEJ KRUDER,M,SLO,1T1 5B7,1T2 4B7,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",3576,15,WOUTER JONGENEELEN,M,NED,0T 4B6,1T2 2B2,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",9191,16,STÉPHAN JULIEN,M,FRA,2T3 4B8,1T3 2B5,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",6144,17,AKITO TSUMORI,M,JPN,1T1 4B5,0T 2B2,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",4716,18,KLEMEN BECAN,M,SLO,0T 4B6,0T 2B4,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2266,19,RYUICHI MURAI,M,JPN,2T5 3B4,0T 1B1,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",3890,20,MATHIAS CONRAD,M,GER,1T1 4B4,0T 1B1,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",6145,21,HONGSHU QIU,M,CHN,1T1 4B4,0T 0B,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",4877,22,JIACUO SUOLANG,M,CHN,0T 4B10,,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2929,23,QIXIN ZHONG,M,CHN,0T 3B5,,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2211,24,SIN-FAI HO,M,HKG,0T 3B7,,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2938,24,ZIDA MA,M,CHN,0T 3B7,,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2216,26,SIU-HEI TANG,M,HKG,0T 3B9,,
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2931,27,HAIBIN QU,M,CHN,0T 2B5,,

@@ -1,31 +1,31 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",2845,1,MARCIN DZIENSKI,POL,6.020,5.99
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",1480,2,DANYIL BOLDYREV,UKR,6.170,8.51
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",74,3,STANISLAV KOKORIN,RUS,6.200,WILDCARD
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",105,4,DMITRII TIMOFEEV,RUS,6.250,FALSE START
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",7613,5,BASSA MAWEM,FRA,6.120,6.12
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",474,6,GUILLAUME MORO,FRA,6.420,6.24
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",86,7,ARSENII SHEVCHENKO,RUS,6.480,6.42
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",3471,8,REZA ALIPOUR SHENAZANDIFARD,IRI,5.940,FALL
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",464,9,QUENTIN NAMBOT,FRA,6.360,6.47
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",1492,10,KOSTIANTYN PAVLENKO,UKR,6.550,6.47
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",1359,11,LIBOR HROZA,CZE,6.150,6.50
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",98,12,VLADISLAV DEULIN,RUS,6.580,6.64
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",856,13,LEONARDO GONTERO,ITA,6.470,7.65
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",92,14,GEORGY ARTAMONOV,RUS,6.470,9.03
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",146,15,ARSENII BOGOMOLOV,RUS,6.480,9.81
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",154,16,ALEKSANDR SHILOV,RUS,6.250,FALSE START
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",865,17,LUDOVICO FOSSALI,ITA,6.660,
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",1372,18,JAN KRIZ,CZE,6.680,
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",2849,19,RAFAL HALASA,POL,6.700,
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",899,20,GIAN LUCA ZODDA,ITA,6.840,
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",861,21,ALESSANDRO SANTONI,ITA,7.010,
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",885,22,STANISLAO ZAMA,ITA,7.050,
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",3487,23,MORTEZA MOHAMMADI,IRI,7.080,
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",2856,24,MICHAL LEWICKI,POL,7.230,
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",56,25,EVGENII VAITSEKHOVSKII,RUS,7.320,
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",936,26,CRISTIAN DORIGATTI,ITA,7.400,
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",1263,27,LUKAS KNAPP,AUT,7.660,
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",2042,28,SEUNGWOON CHO,KOR,8.210,
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",1559,29,SEAN MCCOLL,CAN,8.850,
-"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",2041,30,HANWOOL KIM,KOR,9.230,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",2845,1,MARCIN DZIENSKI,M,POL,6.020,5.99
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",1480,2,DANYIL BOLDYREV,M,UKR,6.170,8.51
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",74,3,STANISLAV KOKORIN,M,RUS,6.200,WILDCARD
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",105,4,DMITRII TIMOFEEV,M,RUS,6.250,FALSE START
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",7613,5,BASSA MAWEM,M,FRA,6.120,6.12
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",474,6,GUILLAUME MORO,M,FRA,6.420,6.24
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",86,7,ARSENII SHEVCHENKO,M,RUS,6.480,6.42
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",3471,8,REZA ALIPOUR SHENAZANDIFARD,M,IRI,5.940,FALL
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",464,9,QUENTIN NAMBOT,M,FRA,6.360,6.47
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",1492,10,KOSTIANTYN PAVLENKO,M,UKR,6.550,6.47
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",1359,11,LIBOR HROZA,M,CZE,6.150,6.50
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",98,12,VLADISLAV DEULIN,M,RUS,6.580,6.64
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",856,13,LEONARDO GONTERO,M,ITA,6.470,7.65
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",92,14,GEORGY ARTAMONOV,M,RUS,6.470,9.03
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",146,15,ARSENII BOGOMOLOV,M,RUS,6.480,9.81
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",154,16,ALEKSANDR SHILOV,M,RUS,6.250,FALSE START
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",865,17,LUDOVICO FOSSALI,M,ITA,6.660,
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",1372,18,JAN KRIZ,M,CZE,6.680,
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",2849,19,RAFAL HALASA,M,POL,6.700,
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",899,20,GIAN LUCA ZODDA,M,ITA,6.840,
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",861,21,ALESSANDRO SANTONI,M,ITA,7.010,
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",885,22,STANISLAO ZAMA,M,ITA,7.050,
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",3487,23,MORTEZA MOHAMMADI,M,IRI,7.080,
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",2856,24,MICHAL LEWICKI,M,POL,7.230,
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",56,25,EVGENII VAITSEKHOVSKII,M,RUS,7.320,
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",936,26,CRISTIAN DORIGATTI,M,ITA,7.400,
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",1263,27,LUKAS KNAPP,M,AUT,7.660,
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",2042,28,SEUNGWOON CHO,M,KOR,8.210,
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",1559,29,SEAN MCCOLL,M,CAN,8.850,
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",2041,30,HANWOOL KIM,M,KOR,9.230,

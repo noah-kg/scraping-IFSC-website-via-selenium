@@ -1,25 +1,25 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",479,1,ANOUCK JAUBERT,FRA,7.860,7.93
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",82,2,MARIIA KRASAVINA,RUS,8.190,10.35
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",110,3,IULIIA KAPLINA,RUS,7.920,7.68
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",2855,4,ANNA BROZEK,POL,8.310,8.11
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",511,5,VICTOIRE ANDRIER,FRA,8.770,8.54
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",935,6,ELISABETTA DALLA BRIDA,ITA,8.760,8.68
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",1493,7,ALLA MARENYCH,UKR,9.120,9.12
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",488,8,AURELIA SARISSON,FRA,9.730,FALL
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",2847,9,KLAUDIA BUCZEK,POL,8.670,8.58
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",2834,10,EDYTA ROPEK,POL,8.900,8.93
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",510,11,ELMA FLEURET,FRA,9.330,9.24
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",1233,12,NINA LACH,AUT,9.420,9.86
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",898,13,SILVIA PORTA,ITA,9.990,10.04
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",2842,14,MONIKA PROKOPIUK-KAWECKA,POL,10.380,10.10
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",1230,15,ALEXANDRA ELMER,AUT,10.010,10.11
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",934,16,FRANCESCA VASI,ITA,10.380,10.39
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",915,17,GIORGIA RANDI,ITA,10.710,
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",1566,18,CHRISTY SPURRELL,CAN,12.380,
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",1812,19,ASHIMA SHIRAISHI,USA,12.590,
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",680,20,PHILIPPA WATKIN,GBR,14.010,
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",1869,21,JENNIFER DE LA TORRE,USA,14.810,
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",653,22,JENNIFER WOOD,GBR,15.290,
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",682,23,KITTY MORRISON,GBR,17.200,
-"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",697,24,JOANNA NEAME,GBR,22.400,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",479,1,ANOUCK JAUBERT,F,FRA,7.860,7.93
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",82,2,MARIIA KRASAVINA,F,RUS,8.190,10.35
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",110,3,IULIIA KAPLINA,F,RUS,7.920,7.68
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",2855,4,ANNA BROZEK,F,POL,8.310,8.11
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",511,5,VICTOIRE ANDRIER,F,FRA,8.770,8.54
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",935,6,ELISABETTA DALLA BRIDA,F,ITA,8.760,8.68
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",1493,7,ALLA MARENYCH,F,UKR,9.120,9.12
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",488,8,AURELIA SARISSON,F,FRA,9.730,FALL
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",2847,9,KLAUDIA BUCZEK,F,POL,8.670,8.58
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",2834,10,EDYTA ROPEK,F,POL,8.900,8.93
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",510,11,ELMA FLEURET,F,FRA,9.330,9.24
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",1233,12,NINA LACH,F,AUT,9.420,9.86
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",898,13,SILVIA PORTA,F,ITA,9.990,10.04
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",2842,14,MONIKA PROKOPIUK-KAWECKA,F,POL,10.380,10.10
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",1230,15,ALEXANDRA ELMER,F,AUT,10.010,10.11
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",934,16,FRANCESCA VASI,F,ITA,10.380,10.39
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",915,17,GIORGIA RANDI,F,ITA,10.710,
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",1566,18,CHRISTY SPURRELL,F,CAN,12.380,
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",1812,19,ASHIMA SHIRAISHI,F,USA,12.590,
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",680,20,PHILIPPA WATKIN,F,GBR,14.010,
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",1869,21,JENNIFER DE LA TORRE,F,USA,14.810,
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",653,22,JENNIFER WOOD,F,GBR,15.290,
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",682,23,KITTY MORRISON,F,GBR,17.200,
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",697,24,JOANNA NEAME,F,GBR,22.400,

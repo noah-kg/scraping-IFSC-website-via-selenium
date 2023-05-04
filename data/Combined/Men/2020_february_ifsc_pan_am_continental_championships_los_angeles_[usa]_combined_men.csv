@@ -1,21 +1,21 @@
-Event,ID,Rank,Name,Country,Qualification
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,1929,1,COLIN DUFFY,USA,55
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,1926,2,ZACH GALLA,USA,45
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,1934,3,ZANDER WALLER,USA,80
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,1741,4,SEAN BAILEY,USA,14
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3211,5,CARLOS GRANJA,ECU,56
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3213,6,DANNY VALENCIA,ECU,78
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3136,7,CESAR GROSSO,BRA,396
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,4196,8,JOSÉ RAMÓN SANTOS BUHL,MEX,390
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,1653,9,BRENNAN DOYLE,CAN,660
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3141,10,FELIPE HO FOGANHOLO,BRA,810
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,1558,11,JASON HOLOWACH,CAN,952
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3174,12,MANUEL ESCOBAR,VEN,1064
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,4397,13,DIEGO LEQUERICA BUSCAGLIA,PER,1792
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,4197,14,HÉCTOR ADRIÁN MARTÍNEZ CORDERO,MEX,2496
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,6393,15,HECTOR LOPEZ VALDEZ,MEX,3240
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3903,16,BENJAMIN AYALA,CHI,3240
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3147,17,JEAN OURIQUES,BRA,3420
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3172,18,SANTIAGO GARCIA,ARG,4800
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3138,19,PEDRO FERREIRA NICOLOSO,BRA,5491
-IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3901,,RONNY ESCOBAR,CHI,DNS
+Event,ID,Rank,Name,Gender,Country,Qualification
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,1929,1,COLIN DUFFY,M,USA,55
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,1926,2,ZACH GALLA,M,USA,45
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,1934,3,ZANDER WALLER,M,USA,80
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,1741,4,SEAN BAILEY,M,USA,14
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3211,5,CARLOS GRANJA,M,ECU,56
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3213,6,DANNY VALENCIA,M,ECU,78
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3136,7,CESAR GROSSO,M,BRA,396
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,4196,8,JOSÉ RAMÓN SANTOS BUHL,M,MEX,390
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,1653,9,BRENNAN DOYLE,M,CAN,660
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3141,10,FELIPE HO FOGANHOLO,M,BRA,810
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,1558,11,JASON HOLOWACH,M,CAN,952
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3174,12,MANUEL ESCOBAR,M,VEN,1064
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,4397,13,DIEGO LEQUERICA BUSCAGLIA,M,PER,1792
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,4197,14,HÉCTOR ADRIÁN MARTÍNEZ CORDERO,M,MEX,2496
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,6393,15,HECTOR LOPEZ VALDEZ,M,MEX,3240
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3903,16,BENJAMIN AYALA,M,CHI,3240
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3147,17,JEAN OURIQUES,M,BRA,3420
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3172,18,SANTIAGO GARCIA,M,ARG,4800
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3138,19,PEDRO FERREIRA NICOLOSO,M,BRA,5491
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,3901,,RONNY ESCOBAR,M,CHI,DNS

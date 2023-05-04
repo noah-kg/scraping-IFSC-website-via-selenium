@@ -1,32 +1,32 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,773,1,RAMÓN JULIAN PUIGBLANQUE,ESP,TOP  1. | TOP  1. [6.42],55,TOP
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1214,2,JAKOB SCHUBERT,AUT,TOP  1. | TOP  1. [6.42],54+,TOP
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,437,3,ROMAIN DESGRANGES,FRA,51   12. | TOP  1. [9.49],56+,70+
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,2254,4,SACHI AMMA,JPN,TOP  1. | TOP  1. [6.42],54+,70+
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,3577,5,JORG VERHOEVEN,NED,TOP  1. | TOP  1. [6.42],48,66+
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1216,6,MARIO LECHNER,AUT,TOP  1. | TOP  1. [6.42],45,66+
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1559,7,SEAN MCCOLL,CAN,TOP  1. | TOP  1. [6.42],54+,61+
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1129,8,DOMEN SKOFIC,SLO,TOP  1. | 47   15. [9.08],54,52
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,447,9,MANUEL ROMAIN,FRA,51+  11. | TOP  1. [9.08],40,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,3124,10,THOMAS TAUPORN,GER,37   23. | 40+  18. [20.63],38+,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,61,11,MIKHAIL CHERNIKOV,RUS,TOP  1. | TOP  1. [6.42],37,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,3058,11,MAGNUS MIDTBOE,NOR,TOP  1. | TOP  1. [6.42],37,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,448,13,THOMAS BALLET,FRA,TOP  1. | TOP  1. [6.42],36,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,314,14,LOÏC TIMMERMANS,BEL,48+  14. | TOP  1. [10.43],35+,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,6207,15,BRAD WEAVER,USA,43+  17. | 42+  16. [16.73],35+,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1746,16,VASYA VOROTNIKOV,USA,46+  16. | 34+  25. [20.40],35+,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,2039,17,HYUNBIN MIN,KOR,42+  19. | TOP  1. [12.09],35,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,4945,18,LUKAS KÖB,AUT,34+  24. | 41+  17. [21.02],35,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1723,19,NOAH RIDGE,USA,34+  24. | 38+  20. [22.80],34,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,2033,20,JABEE KIM,KOR,48+  14. | 35+  21. [17.86],33+,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1713,21,JOSH LEVIN,USA,39+  22. | 27+  29. [25.26],31+,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1127,22,URBAN PRIMOZIC,SLO,49   13. | TOP  1. [9.87],28,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,6131,23,OWEN GRAHAM,USA,34+  24. | 35   24. [24.98],27+,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1743,24,BENISAAC TRESCO,USA,43+  17. | 35+  21. [19.62],23,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,5820,25,MAURICIO HUERTA,MEX,40   21. | 40+  18. [19.71],0,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,6092,26,SANTIAGO DE ALBA FLORES,MEX,42+  19. | 35+  21. [20.71],0,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,5250,27,MIKE DOYLE,CAN,34+  24. | 34+  25. [26.00],,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1564,28,ERIC SETHNA,CAN,32+  29. | 34+  25. [27.69],,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,6208,29,ANDREW PALMER,USA,34+  24. | 20   30. [27.93],,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,6209,30,DOMINIC LABARGE,USA,32+  29. | 29+  28. [28.74],,
-IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,6210,31,FRED CHARRON,CAN,28   31. | 19+  31. [31.00],,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,773,1,RAMÓN JULIAN PUIGBLANQUE,M,ESP,TOP  1. | TOP  1. [6.42],55,TOP
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1214,2,JAKOB SCHUBERT,M,AUT,TOP  1. | TOP  1. [6.42],54+,TOP
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,437,3,ROMAIN DESGRANGES,M,FRA,51   12. | TOP  1. [9.49],56+,70+
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,2254,4,SACHI AMMA,M,JPN,TOP  1. | TOP  1. [6.42],54+,70+
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,3577,5,JORG VERHOEVEN,M,NED,TOP  1. | TOP  1. [6.42],48,66+
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1216,6,MARIO LECHNER,M,AUT,TOP  1. | TOP  1. [6.42],45,66+
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1559,7,SEAN MCCOLL,M,CAN,TOP  1. | TOP  1. [6.42],54+,61+
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1129,8,DOMEN SKOFIC,M,SLO,TOP  1. | 47   15. [9.08],54,52
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,447,9,MANUEL ROMAIN,M,FRA,51+  11. | TOP  1. [9.08],40,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,3124,10,THOMAS TAUPORN,M,GER,37   23. | 40+  18. [20.63],38+,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,61,11,MIKHAIL CHERNIKOV,M,RUS,TOP  1. | TOP  1. [6.42],37,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,3058,11,MAGNUS MIDTBOE,M,NOR,TOP  1. | TOP  1. [6.42],37,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,448,13,THOMAS BALLET,M,FRA,TOP  1. | TOP  1. [6.42],36,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,314,14,LOÏC TIMMERMANS,M,BEL,48+  14. | TOP  1. [10.43],35+,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,6207,15,BRAD WEAVER,M,USA,43+  17. | 42+  16. [16.73],35+,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1746,16,VASYA VOROTNIKOV,M,USA,46+  16. | 34+  25. [20.40],35+,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,2039,17,HYUNBIN MIN,M,KOR,42+  19. | TOP  1. [12.09],35,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,4945,18,LUKAS KÖB,M,AUT,34+  24. | 41+  17. [21.02],35,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1723,19,NOAH RIDGE,M,USA,34+  24. | 38+  20. [22.80],34,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,2033,20,JABEE KIM,M,KOR,48+  14. | 35+  21. [17.86],33+,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1713,21,JOSH LEVIN,M,USA,39+  22. | 27+  29. [25.26],31+,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1127,22,URBAN PRIMOZIC,M,SLO,49   13. | TOP  1. [9.87],28,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,6131,23,OWEN GRAHAM,M,USA,34+  24. | 35   24. [24.98],27+,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1743,24,BENISAAC TRESCO,M,USA,43+  17. | 35+  21. [19.62],23,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,5820,25,MAURICIO HUERTA,M,MEX,40   21. | 40+  18. [19.71],0,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,6092,26,SANTIAGO DE ALBA FLORES,M,MEX,42+  19. | 35+  21. [20.71],0,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,5250,27,MIKE DOYLE,M,CAN,34+  24. | 34+  25. [26.00],,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,1564,28,ERIC SETHNA,M,CAN,32+  29. | 34+  25. [27.69],,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,6208,29,ANDREW PALMER,M,USA,34+  24. | 20   30. [27.93],,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,6209,30,DOMINIC LABARGE,M,USA,32+  29. | 29+  28. [28.74],,
+IFSC Climbing Worldcup (L) - Atlanta (USA) 2012,6210,31,FRED CHARRON,M,CAN,28   31. | 19+  31. [31.00],,

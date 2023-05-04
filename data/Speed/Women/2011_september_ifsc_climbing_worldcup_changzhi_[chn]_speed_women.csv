@@ -1,19 +1,19 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",62,1,ALINA GAIDAMAKINA,RUS,9.820,10.05
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2930,2,CUILIAN HE,CHN,10.400,11.10
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2834,3,EDYTA ROPEK,POL,10.390,9.42
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",81,4,YULIYA LEVOCHKINA,RUS,9.840,9.65
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",4735,5,KSENIIA ALEKSEEVA,RUS,10.000,9.56
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",3257,6,EVI NELIWATI,INA,9.570,9.78
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",73,7,ANNA TSYGANOVA,RUS,10.160,10.01
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",82,8,MARIIA KRASAVINA,RUS,9.760,10.49
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",3357,9,TAMARA ULZHABAYEVA,KAZ,10.850,10.22
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",4984,10,YANG WANG,CHN,10.810,11.18
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",3275,11,SUPITA TITA,INA,11.340,11.42
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2940,12,WANGMU RENZENG,CHN,11.750,11.62
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",3260,13,SANTI WELLYANTI,INA,11.190,11.78
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2936,14,LAMU RENQING,CHN,12.690,11.99
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2139,15,HUNG YING LEE,TPE,11.380,14.19
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2933,16,XUHUA PAN,CHN,11.230,FALL
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2935,17,RONG JIANG,CHN,13.090,
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",4986,18,WANGMU GESANG,CHN,13.670,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",62,1,ALINA GAIDAMAKINA,F,RUS,9.820,10.05
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2930,2,CUILIAN HE,F,CHN,10.400,11.10
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2834,3,EDYTA ROPEK,F,POL,10.390,9.42
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",81,4,YULIYA LEVOCHKINA,F,RUS,9.840,9.65
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",4735,5,KSENIIA ALEKSEEVA,F,RUS,10.000,9.56
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",3257,6,EVI NELIWATI,F,INA,9.570,9.78
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",73,7,ANNA TSYGANOVA,F,RUS,10.160,10.01
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",82,8,MARIIA KRASAVINA,F,RUS,9.760,10.49
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",3357,9,TAMARA ULZHABAYEVA,F,KAZ,10.850,10.22
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",4984,10,YANG WANG,F,CHN,10.810,11.18
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",3275,11,SUPITA TITA,F,INA,11.340,11.42
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2940,12,WANGMU RENZENG,F,CHN,11.750,11.62
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",3260,13,SANTI WELLYANTI,F,INA,11.190,11.78
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2936,14,LAMU RENQING,F,CHN,12.690,11.99
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2139,15,HUNG YING LEE,F,TPE,11.380,14.19
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2933,16,XUHUA PAN,F,CHN,11.230,FALL
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2935,17,RONG JIANG,F,CHN,13.090,
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",4986,18,WANGMU GESANG,F,CHN,13.670,

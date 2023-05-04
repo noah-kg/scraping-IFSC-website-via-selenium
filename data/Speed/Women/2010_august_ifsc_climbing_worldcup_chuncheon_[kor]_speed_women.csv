@@ -1,9 +1,9 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",2930,1,CUILIAN HE,CHN,10.420,10.06
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",4735,2,KSENIIA ALEKSEEVA,RUS,10.970,10.50
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",2933,3,XUHUA PAN,CHN,11.330,10.49
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",81,4,YULIYA LEVOCHKINA,RUS,10.930,10.85
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",2834,5,EDYTA ROPEK,POL,11.440,
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",62,6,ALINA GAIDAMAKINA,RUS,11.740,
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",5000,7,YOUNGSOOK CHOI,KOR,FALL,
-"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",4996,7,YOUNGHEE KIM,KOR,FALL,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",2930,1,CUILIAN HE,F,CHN,10.420,10.06
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",4735,2,KSENIIA ALEKSEEVA,F,RUS,10.970,10.50
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",2933,3,XUHUA PAN,F,CHN,11.330,10.49
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",81,4,YULIYA LEVOCHKINA,F,RUS,10.930,10.85
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",2834,5,EDYTA ROPEK,F,POL,11.440,
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",62,6,ALINA GAIDAMAKINA,F,RUS,11.740,
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",5000,7,YOUNGSOOK CHOI,F,KOR,FALL,
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",4996,7,YOUNGHEE KIM,F,KOR,FALL,

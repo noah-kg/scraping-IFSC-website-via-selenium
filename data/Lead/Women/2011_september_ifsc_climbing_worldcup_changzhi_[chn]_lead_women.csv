@@ -1,24 +1,24 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2035,1,JAIN KIM,KOR,TOP  1. | TOP  1. [5.12],TOP,TOP
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",1122,1,MINA MARKOVIC,SLO,TOP  1. | TOP  1. [5.12],TOP,TOP
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",1121,3,MAJA STREMFELJ,SLO,TOP  1. | 33-  7. [7.50],TOP,TOP
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2043,4,SEURAN HAN,KOR,TOP  1. | TOP  1. [5.12],38+,29+
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",445,5,CHARLOTTE DURIF,FRA,TOP  1. | 33-  7. [7.50],38+,26.5-
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",58,6,YANA CHERESHNEVA,RUS,TOP  1. | TOP  1. [5.12],TOP,26+
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",1222,7,KATHARINA POSCH,AUT,TOP  1. | TOP  1. [5.12],36-,26-
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",1210,8,CHRISTINE SCHRANZ,AUT,TOP  1. | TOP  1. [5.12],TOP,8-
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",438,9,CAROLINE CIAVALDINI,FRA,TOP  1. | 32+  9. [8.22],36-,
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",1202,10,BARBARA BACHER,AUT,TOP  1. | 27-  11. [9.49],36-,
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",5691,11,BACO ACHMAD WILDA,INA,TOP  1. | 27   10. [8.66],23,
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2935,12,RONG JIANG,CHN,30   20. | 22-  18. [19.24],23-,
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2940,13,WANGMU RENZENG,CHN,31   18. | 13+  22. [19.90],18-,
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2139,14,HUNG YING LEE,TPE,25-  21. | 27-  11. [15.87],17+,
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",6120,15,UJI AYU SUKMANDIRI,INA,TOP  1. | 25   14. [10.25],13-,
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2936,16,LAMU RENQING,CHN,TOP  1. | 24-  17. [11.29],13-,
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2044,17,HANNARAI SONG,KOR,33-  17. | 24+  15. [15.97],13-,
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",3272,18,ABDUL ROCHMAN SYARIFAH,INA,30+  19. | 24   16. [17.44],13-,
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",5693,19,SALFARINA MOHD DRUS,MAS,18   22. | 14-  21. [21.49],12+,
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",4986,20,WANGMU GESANG,CHN,17+  23. | 12   23. [23.00],11+,
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2933,21,XUHUA PAN,CHN,TOP  1. | 27-  11. [9.49],9-,
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",3357,22,TAMARA ULZHABAYEVA,KAZ,34-  15. | 22-  18. [16.66],8+,
-"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2141,23,HSIU-JU LIN,TPE,33   16. | 19   20. [17.89],8+,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2035,1,JAIN KIM,F,KOR,TOP  1. | TOP  1. [5.12],TOP,TOP
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",1122,1,MINA MARKOVIC,F,SLO,TOP  1. | TOP  1. [5.12],TOP,TOP
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",1121,3,MAJA STREMFELJ,F,SLO,TOP  1. | 33-  7. [7.50],TOP,TOP
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2043,4,SEURAN HAN,F,KOR,TOP  1. | TOP  1. [5.12],38+,29+
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",445,5,CHARLOTTE DURIF,F,FRA,TOP  1. | 33-  7. [7.50],38+,26.5-
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",58,6,YANA CHERESHNEVA,F,RUS,TOP  1. | TOP  1. [5.12],TOP,26+
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",1222,7,KATHARINA POSCH,F,AUT,TOP  1. | TOP  1. [5.12],36-,26-
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",1210,8,CHRISTINE SCHRANZ,F,AUT,TOP  1. | TOP  1. [5.12],TOP,8-
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",438,9,CAROLINE CIAVALDINI,F,FRA,TOP  1. | 32+  9. [8.22],36-,
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",1202,10,BARBARA BACHER,F,AUT,TOP  1. | 27-  11. [9.49],36-,
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",5691,11,BACO ACHMAD WILDA,F,INA,TOP  1. | 27   10. [8.66],23,
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2935,12,RONG JIANG,F,CHN,30   20. | 22-  18. [19.24],23-,
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2940,13,WANGMU RENZENG,F,CHN,31   18. | 13+  22. [19.90],18-,
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2139,14,HUNG YING LEE,F,TPE,25-  21. | 27-  11. [15.87],17+,
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",6120,15,UJI AYU SUKMANDIRI,F,INA,TOP  1. | 25   14. [10.25],13-,
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2936,16,LAMU RENQING,F,CHN,TOP  1. | 24-  17. [11.29],13-,
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2044,17,HANNARAI SONG,F,KOR,33-  17. | 24+  15. [15.97],13-,
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",3272,18,ABDUL ROCHMAN SYARIFAH,F,INA,30+  19. | 24   16. [17.44],13-,
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",5693,19,SALFARINA MOHD DRUS,F,MAS,18   22. | 14-  21. [21.49],12+,
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",4986,20,WANGMU GESANG,F,CHN,17+  23. | 12   23. [23.00],11+,
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2933,21,XUHUA PAN,F,CHN,TOP  1. | 27-  11. [9.49],9-,
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",3357,22,TAMARA ULZHABAYEVA,F,KAZ,34-  15. | 22-  18. [16.66],8+,
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2141,23,HSIU-JU LIN,F,TPE,33   16. | 19   20. [17.89],8+,

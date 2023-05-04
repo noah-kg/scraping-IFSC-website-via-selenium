@@ -1,15 +1,15 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",81,1,YULIYA LEVOCHKINA,RUS,9.820,9.34
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",82,2,MARIIA KRASAVINA,RUS,9.460,9.40
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",458,3,ESTHER BRUCKNER,FRA,9.510,9.35
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2842,4,MONIKA PROKOPIUK-KAWECKA,POL,10.080,9.79
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",62,5,ALINA GAIDAMAKINA,RUS,9.270,8.67
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",479,6,ANOUCK JAUBERT,FRA,9.310,10.04
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2834,7,EDYTA ROPEK,POL,9.290,10.12
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2848,8,ALEKSANDRA MIROSLAW,POL,9.020,FALL
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2847,9,KLAUDIA BUCZEK,POL,10.200,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2930,10,CUILIAN HE,CHN,10.440,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2139,11,HUNG YING LEE,TPE,11.320,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",4741,12,ANASTASIYA SAVISKO,UKR,11.370,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2050,13,SOLAH KIM,KOR,21.600,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",6213,14,WOONWHA JEONG,KOR,26.050,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",81,1,YULIYA LEVOCHKINA,F,RUS,9.820,9.34
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",82,2,MARIIA KRASAVINA,F,RUS,9.460,9.40
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",458,3,ESTHER BRUCKNER,F,FRA,9.510,9.35
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2842,4,MONIKA PROKOPIUK-KAWECKA,F,POL,10.080,9.79
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",62,5,ALINA GAIDAMAKINA,F,RUS,9.270,8.67
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",479,6,ANOUCK JAUBERT,F,FRA,9.310,10.04
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2834,7,EDYTA ROPEK,F,POL,9.290,10.12
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2848,8,ALEKSANDRA MIROSLAW,F,POL,9.020,FALL
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2847,9,KLAUDIA BUCZEK,F,POL,10.200,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2930,10,CUILIAN HE,F,CHN,10.440,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2139,11,HUNG YING LEE,F,TPE,11.320,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",4741,12,ANASTASIYA SAVISKO,F,UKR,11.370,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2050,13,SOLAH KIM,F,KOR,21.600,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",6213,14,WOONWHA JEONG,F,KOR,26.050,

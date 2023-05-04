@@ -1,18 +1,18 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,110,1,IULIIA KAPLINA,RUS,7.980,8.01
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,1493,2,ALLA MARENYCH,UKR,9.230,9.31
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,73,3,ANNA TSYGANOVA,RUS,8.110,7.98
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2848,4,ALEKSANDRA MIROSLAW,POL,8.500,8.34
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2930,5,CUILIAN HE,CHN,9.340,8.97
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,488,6,AURELIA SARISSON,FRA,8.640,9.43
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2847,7,KLAUDIA BUCZEK,POL,8.170,9.92
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,479,8,ANOUCK JAUBERT,FRA,7.810,10.60
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,1233,9,NINA LACH,AUT,9.390,9.15
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3277,10,PURNAMASARI ITA TRIANA,INA,8.650,9.60
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,1218,11,STEFANIE PICHLER,AUT,9.540,9.72
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,1230,12,ALEXANDRA ELMER,AUT,9.690,10.12
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3303,13,SYAFIIYAH DHORIFATUS,INA,9.430,10.13
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2855,14,ANNA BROZEK,POL,8.880,10.28
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2946,15,ZHUOMA PUBU,CHN,10.360,10.31
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2963,16,PEIYANG TIAN,CHN,10.410,11.21
-IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2957,17,YUZHEN BAIMA,CHN,11.700,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,110,1,IULIIA KAPLINA,F,RUS,7.980,8.01
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,1493,2,ALLA MARENYCH,F,UKR,9.230,9.31
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,73,3,ANNA TSYGANOVA,F,RUS,8.110,7.98
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2848,4,ALEKSANDRA MIROSLAW,F,POL,8.500,8.34
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2930,5,CUILIAN HE,F,CHN,9.340,8.97
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,488,6,AURELIA SARISSON,F,FRA,8.640,9.43
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2847,7,KLAUDIA BUCZEK,F,POL,8.170,9.92
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,479,8,ANOUCK JAUBERT,F,FRA,7.810,10.60
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,1233,9,NINA LACH,F,AUT,9.390,9.15
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3277,10,PURNAMASARI ITA TRIANA,F,INA,8.650,9.60
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,1218,11,STEFANIE PICHLER,F,AUT,9.540,9.72
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,1230,12,ALEXANDRA ELMER,F,AUT,9.690,10.12
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,3303,13,SYAFIIYAH DHORIFATUS,F,INA,9.430,10.13
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2855,14,ANNA BROZEK,F,POL,8.880,10.28
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2946,15,ZHUOMA PUBU,F,CHN,10.360,10.31
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2963,16,PEIYANG TIAN,F,CHN,10.410,11.21
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2957,17,YUZHEN BAIMA,F,CHN,11.700,

@@ -1,25 +1,25 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,2253,1,AKIYO NOGUCHI,JPN,5T5 5B5,3T4 4B4,2T2 4B4
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,454,2,MELISSA LE NEVE,FRA,4T6 5B5,2T2 4B4,2T3 3B5
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,1710,3,ALEX PUCCIO,USA,5T6 5B5,3T3 4B4,2T7 4B11
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,2823,4,JULIANE WURM,GER,5T6 5B5,2T2 4B4,1T1 3B4
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,1209,5,KATHARINA SAURWEIN,AUT,3T4 5B7,2T2 4B4,1T1 2B2
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,1211,6,ANNA STÖHR,AUT,5T5 5B5,2T2 4B5,1T2 4B8
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,4763,7,DIANE MERRICK,GBR,3T5 4B6,2T4 3B3,
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,636,8,SHAUNA COXSEY,GBR,4T4 5B5,2T6 4B8,
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,443,9,MÉLANIE SANDOZ,FRA,5T9 5B8,1T1 4B5,
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,638,10,MINA LESLIE-WUJASTYK,GBR,1T2 4B6,1T1 2B3,
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,632,11,LEAH CRANE,GBR,1T2 4B9,1T2 3B5,
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,4755,12,ALEX JOHNSON,USA,5T10 5B6,0T 4B6,
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,2013,13,MONIKA RETSCHY,GER,3T4 5B5,0T 4B7,
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,427,14,CECILE AVEZOU,FRA,3T5 5B7,0T 4B10,
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,848,15,JENNY LAVARDA,ITA,3T4 5B7,0T 3B4,
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,5670,16,KATY WHITTAKER,GBR,3T3 5B5,0T 3B7,
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,439,17,ANNE-LAURE CHEVRIER,FRA,4T5 5B7,0T 2B4,
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,1205,18,SABINE BACHER,AUT,3T3 5B5,0T 2B5,
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,3578,19,VERA ZIJLSTRA,NED,4T6 5B5,0T 1B2,
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,6075,20,GILL PEET,GBR,2T4 3B6,0T 1B2,
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,6057,21,COURTNEY SANDERS,USA,1T2 3B10,,
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,6076,22,YUKI MATSUSHIMA,JPN,0T 2B2,,
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,6089,23,KATHARINA BACHER,AUT,0T 1B3,,
-IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,4837,24,HOLLY REID,CAN,0T 0B,,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,2253,1,AKIYO NOGUCHI,F,JPN,5T5 5B5,3T4 4B4,2T2 4B4
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,454,2,MELISSA LE NEVE,F,FRA,4T6 5B5,2T2 4B4,2T3 3B5
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,1710,3,ALEX PUCCIO,F,USA,5T6 5B5,3T3 4B4,2T7 4B11
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,2823,4,JULIANE WURM,F,GER,5T6 5B5,2T2 4B4,1T1 3B4
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,1209,5,KATHARINA SAURWEIN,F,AUT,3T4 5B7,2T2 4B4,1T1 2B2
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,1211,6,ANNA STÖHR,F,AUT,5T5 5B5,2T2 4B5,1T2 4B8
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,4763,7,DIANE MERRICK,F,GBR,3T5 4B6,2T4 3B3,
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,636,8,SHAUNA COXSEY,F,GBR,4T4 5B5,2T6 4B8,
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,443,9,MÉLANIE SANDOZ,F,FRA,5T9 5B8,1T1 4B5,
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,638,10,MINA LESLIE-WUJASTYK,F,GBR,1T2 4B6,1T1 2B3,
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,632,11,LEAH CRANE,F,GBR,1T2 4B9,1T2 3B5,
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,4755,12,ALEX JOHNSON,F,USA,5T10 5B6,0T 4B6,
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,2013,13,MONIKA RETSCHY,F,GER,3T4 5B5,0T 4B7,
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,427,14,CECILE AVEZOU,F,FRA,3T5 5B7,0T 4B10,
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,848,15,JENNY LAVARDA,F,ITA,3T4 5B7,0T 3B4,
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,5670,16,KATY WHITTAKER,F,GBR,3T3 5B5,0T 3B7,
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,439,17,ANNE-LAURE CHEVRIER,F,FRA,4T5 5B7,0T 2B4,
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,1205,18,SABINE BACHER,F,AUT,3T3 5B5,0T 2B5,
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,3578,19,VERA ZIJLSTRA,F,NED,4T6 5B5,0T 1B2,
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,6075,20,GILL PEET,F,GBR,2T4 3B6,0T 1B2,
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,6057,21,COURTNEY SANDERS,F,USA,1T2 3B10,,
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,6076,22,YUKI MATSUSHIMA,F,JPN,0T 2B2,,
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,6089,23,KATHARINA BACHER,F,AUT,0T 1B3,,
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,4837,24,HOLLY REID,F,CAN,0T 0B,,

@@ -1,32 +1,32 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2254,1,SACHI AMMA,JPN,TOP  1. | TOP  1. [9.49],46+,46+
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2039,2,HYUNBIN MIN,KOR,TOP  1. | TOP  1. [9.49],46+,46+
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",1559,3,SEAN MCCOLL,CAN,TOP  1. | TOP  1. [9.49],TOP,45+
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",1214,4,JAKOB SCHUBERT,AUT,TOP  1. | TOP  1. [9.49],47+,45+
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",437,5,ROMAIN DESGRANGES,FRA,TOP  1. | TOP  1. [9.49],47+,45
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",1129,6,DOMEN SKOFIC,SLO,TOP  1. | TOP  1. [9.49],47+,43+
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",447,7,MANUEL ROMAIN,FRA,TOP  1. | TOP  1. [9.49],44,43+
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",855,8,STEFANO GHISOLFI,ITA,TOP  1. | TOP  1. [9.49],46,41+
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",444,9,GAUTIER SUPPER,FRA,TOP  1. | TOP  1. [9.49],43+,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",773,10,RAMÓN JULIAN PUIGBLANQUE,ESP,TOP  1. | TOP  1. [9.49],42+,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2271,10,NAOKI SHIMATANI,JPN,TOP  1. | TOP  1. [9.49],42+,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",4783,12,AKITO MATSUSHIMA,JPN,TOP  1. | TOP  1. [9.49],42,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",1127,13,URBAN PRIMOZIC,SLO,TOP  1. | TOP  1. [9.49],41+,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",5022,14,DAVOUD REKABI,IRI,TOP  1. | TOP  1. [9.49],41,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",1216,15,MARIO LECHNER,AUT,TOP  1. | TOP  1. [9.49],40,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",314,16,LOÏC TIMMERMANS,BEL,TOP  1. | TOP  1. [9.49],39,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2042,17,SEUNGWOON CHO,KOR,40+  20. | 44   23. [21.91],37,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",774,18,MARCO ANTONIO JUBES ANGARITA,ESP,TOP  1. | TOP  1. [9.49],33+,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",6217,19,DAISUKE KASAHARA,JPN,TOP  1. | 47+  19. [14.14],33+,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2041,20,HANWOOL KIM,KOR,39+  22. | 46+  22. [22.25],33+,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2033,21,JABEE KIM,KOR,40   21. | 44   23. [22.45],32,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",6219,22,MYEONGSU KIM,KOR,39   24. | 39+  28. [25.92],32,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2276,23,TOMOA NARASAKI,JPN,39+  22. | 47+  19. [21.21],30,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2052,24,JONGWON CHON,KOR,TOP  1. | 47+  19. [14.14],29+,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2045,25,HONGIL KIM,KOR,34   27. | 48+  18. [22.05],28,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2046,26,SUNGBO SEO,KOR,34+  26. | 44   23. [24.98],21+,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",5698,27,HEEYONG PARK,KOR,35   25. | 40+  27. [25.98],,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",5003,28,CHANGHYON LEE,KOR,27   28. | 42+  26. [26.98],,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",6301,29,YOUNGWHA KIM,KOR,24+  29. | 36+  30. [29.50],,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",6302,29,KIYOON KWON,KOR,23+  30. | 37   29. [29.50],,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2627,31,GAURAV KUMAR,IND,17+  31. | 26+  31. [31.00],,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2254,1,SACHI AMMA,M,JPN,TOP  1. | TOP  1. [9.49],46+,46+
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2039,2,HYUNBIN MIN,M,KOR,TOP  1. | TOP  1. [9.49],46+,46+
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",1559,3,SEAN MCCOLL,M,CAN,TOP  1. | TOP  1. [9.49],TOP,45+
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",1214,4,JAKOB SCHUBERT,M,AUT,TOP  1. | TOP  1. [9.49],47+,45+
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",437,5,ROMAIN DESGRANGES,M,FRA,TOP  1. | TOP  1. [9.49],47+,45
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",1129,6,DOMEN SKOFIC,M,SLO,TOP  1. | TOP  1. [9.49],47+,43+
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",447,7,MANUEL ROMAIN,M,FRA,TOP  1. | TOP  1. [9.49],44,43+
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",855,8,STEFANO GHISOLFI,M,ITA,TOP  1. | TOP  1. [9.49],46,41+
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",444,9,GAUTIER SUPPER,M,FRA,TOP  1. | TOP  1. [9.49],43+,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",773,10,RAMÓN JULIAN PUIGBLANQUE,M,ESP,TOP  1. | TOP  1. [9.49],42+,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2271,10,NAOKI SHIMATANI,M,JPN,TOP  1. | TOP  1. [9.49],42+,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",4783,12,AKITO MATSUSHIMA,M,JPN,TOP  1. | TOP  1. [9.49],42,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",1127,13,URBAN PRIMOZIC,M,SLO,TOP  1. | TOP  1. [9.49],41+,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",5022,14,DAVOUD REKABI,M,IRI,TOP  1. | TOP  1. [9.49],41,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",1216,15,MARIO LECHNER,M,AUT,TOP  1. | TOP  1. [9.49],40,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",314,16,LOÏC TIMMERMANS,M,BEL,TOP  1. | TOP  1. [9.49],39,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2042,17,SEUNGWOON CHO,M,KOR,40+  20. | 44   23. [21.91],37,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",774,18,MARCO ANTONIO JUBES ANGARITA,M,ESP,TOP  1. | TOP  1. [9.49],33+,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",6217,19,DAISUKE KASAHARA,M,JPN,TOP  1. | 47+  19. [14.14],33+,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2041,20,HANWOOL KIM,M,KOR,39+  22. | 46+  22. [22.25],33+,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2033,21,JABEE KIM,M,KOR,40   21. | 44   23. [22.45],32,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",6219,22,MYEONGSU KIM,M,KOR,39   24. | 39+  28. [25.92],32,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2276,23,TOMOA NARASAKI,M,JPN,39+  22. | 47+  19. [21.21],30,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2052,24,JONGWON CHON,M,KOR,TOP  1. | 47+  19. [14.14],29+,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2045,25,HONGIL KIM,M,KOR,34   27. | 48+  18. [22.05],28,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2046,26,SUNGBO SEO,M,KOR,34+  26. | 44   23. [24.98],21+,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",5698,27,HEEYONG PARK,M,KOR,35   25. | 40+  27. [25.98],,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",5003,28,CHANGHYON LEE,M,KOR,27   28. | 42+  26. [26.98],,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",6301,29,YOUNGWHA KIM,M,KOR,24+  29. | 36+  30. [29.50],,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",6302,29,KIYOON KWON,M,KOR,23+  30. | 37   29. [29.50],,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2627,31,GAURAV KUMAR,M,IND,17+  31. | 26+  31. [31.00],,

@@ -1,37 +1,37 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,2929,1,QIXIN ZHONG,CHN,4.010,6.64
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,64,2,SERGEY ABDRAKHMANOV,RUS,4.100,7.48
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,2932,3,NING ZHANG,CHN,4.030,7.52
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,48,4,SERGEI SINITCYN,RUS,4.040,9.14
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,3356,5,ALEXANDR NIGMATULIN,KAZ,4.110,7.41
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,1359,6,LIBOR HROZA,CZE,4.020,7.46
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,74,7,STANISLAV KOKORIN,RUS,4.080,8.17
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,56,8,EVGENII VAITSEKHOVSKII,RUS,4.050,FALL
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,4581,9,TOMASZ OLEKSY,POL,4.140,7.71
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,2838,10,JEDRZEJ KOMOSINSKI,POL,4.060,7.80
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,2167,11,CSABA KOMONDI,HUN,4.120,7.95
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,4746,12,MAKSYM OSIPOV,UKR,4.130,8.03
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,4745,13,LUKASZ SWIRK,POL,4.070,8.16
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,7408,14,MIKHAIL YEKIMENKO,KAZ,4.160,8.66
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,5233,15,XIAOJIE CHEN,CHN,4.090,9.16
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,2140,16,JIUN-JIE TZENG,TPE,4.150,FALL
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,5463,17,GUANGPU LI,CHN,8.440,
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,4744,18,IVAN NOVIKOV,RUS,8.500,
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,3359,19,NIKITA DEVYATERIKOV,KAZ,8.590,
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,51,20,ALEXANDER KOSTERIN,RUS,8.640,
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,1470,21,MAKSYM STYENKOVYY,UKR,8.650,
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,3358,22,ARTYOM DEVYATERIKOV,KAZ,8.670,
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,4885,23,VALERIY VOROBYEV,RUS,8.830,
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,7409,24,EN-CHIH LEE,TPE,8.970,
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,4990,25,YUHANG ZHANG,CHN,8.980,
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,3360,26,ALEXEY MOLCHANOV,KAZ,9.160,
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,2138,27,YEU-SHIANG CHANG,TPE,9.480,
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,7410,28,ARTEM AVDEENKO,KGZ,9.960,
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,3264,29,TONNY MAMIRI,INA,10.680,
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,4150,30,ROLANDS RUGENS,LAT,10.940,
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,1124,31,JERNEJ KRUDER,SLO,12.120,
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,2616,32,C. M. PRAVEEN,IND,13.160,
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,7411,33,SHIVALINGA M MAHADEVA K,IND,14.150,
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,7412,34,ANDREAS ANDREOU,CYP,34.150,
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,5010,35,CHI-WAI LAI,HKG,FALL,
-IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,7413,35,JILONG QIU,CHN,FALL,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,2929,1,QIXIN ZHONG,M,CHN,4.010,6.64
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,64,2,SERGEY ABDRAKHMANOV,M,RUS,4.100,7.48
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,2932,3,NING ZHANG,M,CHN,4.030,7.52
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,48,4,SERGEI SINITCYN,M,RUS,4.040,9.14
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,3356,5,ALEXANDR NIGMATULIN,M,KAZ,4.110,7.41
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,1359,6,LIBOR HROZA,M,CZE,4.020,7.46
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,74,7,STANISLAV KOKORIN,M,RUS,4.080,8.17
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,56,8,EVGENII VAITSEKHOVSKII,M,RUS,4.050,FALL
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,4581,9,TOMASZ OLEKSY,M,POL,4.140,7.71
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,2838,10,JEDRZEJ KOMOSINSKI,M,POL,4.060,7.80
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,2167,11,CSABA KOMONDI,M,HUN,4.120,7.95
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,4746,12,MAKSYM OSIPOV,M,UKR,4.130,8.03
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,4745,13,LUKASZ SWIRK,M,POL,4.070,8.16
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,7408,14,MIKHAIL YEKIMENKO,M,KAZ,4.160,8.66
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,5233,15,XIAOJIE CHEN,M,CHN,4.090,9.16
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,2140,16,JIUN-JIE TZENG,M,TPE,4.150,FALL
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,5463,17,GUANGPU LI,M,CHN,8.440,
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,4744,18,IVAN NOVIKOV,M,RUS,8.500,
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,3359,19,NIKITA DEVYATERIKOV,M,KAZ,8.590,
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,51,20,ALEXANDER KOSTERIN,M,RUS,8.640,
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,1470,21,MAKSYM STYENKOVYY,M,UKR,8.650,
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,3358,22,ARTYOM DEVYATERIKOV,M,KAZ,8.670,
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,4885,23,VALERIY VOROBYEV,M,RUS,8.830,
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,7409,24,EN-CHIH LEE,M,TPE,8.970,
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,4990,25,YUHANG ZHANG,M,CHN,8.980,
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,3360,26,ALEXEY MOLCHANOV,M,KAZ,9.160,
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,2138,27,YEU-SHIANG CHANG,M,TPE,9.480,
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,7410,28,ARTEM AVDEENKO,M,KGZ,9.960,
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,3264,29,TONNY MAMIRI,M,INA,10.680,
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,4150,30,ROLANDS RUGENS,M,LAT,10.940,
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,1124,31,JERNEJ KRUDER,M,SLO,12.120,
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,2616,32,C. M. PRAVEEN,M,IND,13.160,
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,7411,33,SHIVALINGA M MAHADEVA K,M,IND,14.150,
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,7412,34,ANDREAS ANDREOU,M,CYP,34.150,
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,5010,35,CHI-WAI LAI,M,HKG,FALL,
+IFSC Climbing World Championships - Qinghai (CHN) 2009 - 15m Speed,7413,35,JILONG QIU,M,CHN,FALL,

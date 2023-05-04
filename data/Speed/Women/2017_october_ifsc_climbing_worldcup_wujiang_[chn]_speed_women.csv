@@ -1,28 +1,28 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",110,1,IULIIA KAPLINA,RUS,7.950,7.66
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",479,2,ANOUCK JAUBERT,FRA,8.100,7.73
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",129,3,ELIZAVETA IVANOVA,RUS,8.750,WILDCARD
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",3337,4,ARIES SUSANTI RAHAYU,INA,7.940,FALSE START
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",488,5,AURELIA SARISSON,FRA,8.640,8.28
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",82,6,MARIIA KRASAVINA,RUS,8.570,8.35
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",3260,7,SANTI WELLYANTI,INA,8.090,8.51
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",73,8,ANNA TSYGANOVA,RUS,8.090,9.12
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1493,9,ALLA MARENYCH,UKR,8.530,8.68
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2855,10,ANNA BROZEK,POL,8.580,8.76
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",511,11,VICTOIRE ANDRIER,FRA,8.800,8.96
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2847,12,KLAUDIA BUCZEK,POL,8.870,9.28
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",3279,13,PUJI LESTARI,INA,8.670,9.79
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2970,14,YILING SONG,CHN,8.801,10.39
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2930,15,CUILIAN HE,CHN,8.880,10.93
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",117,16,ELENA TIMOFEEVA,RUS,8.880,FALSE START
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2966,17,MINGWEI NI,CHN,8.900,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",935,18,ELISABETTA DALLA BRIDA,ITA,9.090,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2933,19,XUHUA PAN,CHN,9.220,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",3303,20,SYAFIIYAH DHORIFATUS,INA,9.330,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2834,21,EDYTA ROPEK,POL,9.460,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",68,22,DINARA FAKHRITDINOVA,RUS,11.980,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1226,23,JESSICA PILZ,AUT,12.230,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2104,24,SUNGA SON,KOR,12.610,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1812,25,ASHIMA SHIRAISHI,USA,12.740,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",3320,26,FITRIYANI FITRIYANI,INA,FALSE START,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",3311,26,RAJIAH SALLSABILLAH,INA,FALSE START,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",110,1,IULIIA KAPLINA,F,RUS,7.950,7.66
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",479,2,ANOUCK JAUBERT,F,FRA,8.100,7.73
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",129,3,ELIZAVETA IVANOVA,F,RUS,8.750,WILDCARD
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",3337,4,ARIES SUSANTI RAHAYU,F,INA,7.940,FALSE START
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",488,5,AURELIA SARISSON,F,FRA,8.640,8.28
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",82,6,MARIIA KRASAVINA,F,RUS,8.570,8.35
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",3260,7,SANTI WELLYANTI,F,INA,8.090,8.51
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",73,8,ANNA TSYGANOVA,F,RUS,8.090,9.12
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1493,9,ALLA MARENYCH,F,UKR,8.530,8.68
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2855,10,ANNA BROZEK,F,POL,8.580,8.76
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",511,11,VICTOIRE ANDRIER,F,FRA,8.800,8.96
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2847,12,KLAUDIA BUCZEK,F,POL,8.870,9.28
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",3279,13,PUJI LESTARI,F,INA,8.670,9.79
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2970,14,YILING SONG,F,CHN,8.801,10.39
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2930,15,CUILIAN HE,F,CHN,8.880,10.93
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",117,16,ELENA TIMOFEEVA,F,RUS,8.880,FALSE START
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2966,17,MINGWEI NI,F,CHN,8.900,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",935,18,ELISABETTA DALLA BRIDA,F,ITA,9.090,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2933,19,XUHUA PAN,F,CHN,9.220,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",3303,20,SYAFIIYAH DHORIFATUS,F,INA,9.330,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2834,21,EDYTA ROPEK,F,POL,9.460,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",68,22,DINARA FAKHRITDINOVA,F,RUS,11.980,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1226,23,JESSICA PILZ,F,AUT,12.230,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2104,24,SUNGA SON,F,KOR,12.610,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",1812,25,ASHIMA SHIRAISHI,F,USA,12.740,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",3320,26,FITRIYANI FITRIYANI,F,INA,FALSE START,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",3311,26,RAJIAH SALLSABILLAH,F,INA,FALSE START,

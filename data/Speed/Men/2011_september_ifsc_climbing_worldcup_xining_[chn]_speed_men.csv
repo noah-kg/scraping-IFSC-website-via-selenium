@@ -1,20 +1,20 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2929,1,QIXIN ZHONG,CHN,6.340,6.33
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",4745,2,LUKASZ SWIRK,POL,7.310,6.77
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",3259,3,PANDU ASMORO GALAR,INA,7.960,7.73
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",48,4,SERGEI SINITCYN,RUS,6.920,FALL
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2838,5,JEDRZEJ KOMOSINSKI,POL,7.350,6.60
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",1359,6,LIBOR HROZA,CZE,7.750,8.15
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",64,7,SERGEY ABDRAKHMANOV,RUS,8.400,FALL
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",86,8,ARSENII SHEVCHENKO,RUS,7.480,FALL
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",56,9,EVGENII VAITSEKHOVSKII,RUS,6.790,7.05
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",3264,10,TONNY MAMIRI,INA,7.410,7.29
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",3258,11,YULIANTO ABUDZAR,INA,7.290,8.10
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",74,12,STANISLAV KOKORIN,RUS,6.410,8.65
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2932,13,NING ZHANG,CHN,7.460,9.96
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",4884,14,EVGENY ASTASHKIN,RUS,6.620,FALL
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",5026,15,LINCAI ZHONG,CHN,7.610,FALL
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",4882,16,ZUFAR NIGMANOV,RUS,8.440,FALL
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",4877,17,JIACUO SUOLANG,CHN,8.820,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2140,18,JIUN-JIE TZENG,TPE,9.330,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2938,19,ZIDA MA,CHN,9.810,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2929,1,QIXIN ZHONG,M,CHN,6.340,6.33
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",4745,2,LUKASZ SWIRK,M,POL,7.310,6.77
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",3259,3,PANDU ASMORO GALAR,M,INA,7.960,7.73
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",48,4,SERGEI SINITCYN,M,RUS,6.920,FALL
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2838,5,JEDRZEJ KOMOSINSKI,M,POL,7.350,6.60
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",1359,6,LIBOR HROZA,M,CZE,7.750,8.15
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",64,7,SERGEY ABDRAKHMANOV,M,RUS,8.400,FALL
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",86,8,ARSENII SHEVCHENKO,M,RUS,7.480,FALL
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",56,9,EVGENII VAITSEKHOVSKII,M,RUS,6.790,7.05
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",3264,10,TONNY MAMIRI,M,INA,7.410,7.29
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",3258,11,YULIANTO ABUDZAR,M,INA,7.290,8.10
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",74,12,STANISLAV KOKORIN,M,RUS,6.410,8.65
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2932,13,NING ZHANG,M,CHN,7.460,9.96
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",4884,14,EVGENY ASTASHKIN,M,RUS,6.620,FALL
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",5026,15,LINCAI ZHONG,M,CHN,7.610,FALL
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",4882,16,ZUFAR NIGMANOV,M,RUS,8.440,FALL
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",4877,17,JIACUO SUOLANG,M,CHN,8.820,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2140,18,JIUN-JIE TZENG,M,TPE,9.330,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2938,19,ZIDA MA,M,CHN,9.810,

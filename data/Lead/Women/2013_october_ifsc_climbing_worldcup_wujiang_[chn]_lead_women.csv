@@ -1,20 +1,20 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",1122,1,MINA MARKOVIC,SLO,TOP  1. | TOP  1. [5.10],TOP,38+
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2035,2,JAIN KIM,KOR,TOP  1. | TOP  1. [5.10],49,38+
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",1224,3,MAGDALENA RÖCK,AUT,TOP  1. | TOP  1. [5.10],51+,34+
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",68,4,DINARA FAKHRITDINOVA,RUS,TOP  1. | TOP  1. [5.10],42+,32+
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2263,5,MOMOKA ODA,JPN,TOP  1. | TOP  1. [5.10],49,27+
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",3580,6,NIKKI VAN BERGEN,NED,TOP  1. | 39+  8. [7.65],42+,27
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",1222,7,KATHARINA POSCH,AUT,TOP  1. | TOP  1. [5.10],42+,26+
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2267,8,RISA OTA,JPN,TOP  1. | 39+  8. [7.65],42+,26+
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2253,9,AKIYO NOGUCHI,JPN,TOP  1. | TOP  1. [5.10],41+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",455,10,HÉLÈNE JANICOT,FRA,TOP  1. | 37+  11. [8.46],41+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",1202,11,BARBARA BACHER,AUT,TOP  1. | 35+  13. [9.37],41+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",58,12,YANA CHERESHNEVA,RUS,TOP  1. | 39+  8. [7.65],39+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2251,13,YUKA KOBAYASHI,JPN,42+  14. | 35+  13. [13.75],34+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2936,14,LAMU RENQING,CHN,37   16. | 33+  15. [15.49],34+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",1209,15,KATHARINA SAURWEIN,AUT,45   13. | 36+  12. [12.49],33+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2277,16,MOE YOSHIMURA,JPN,37+  15. | 31+  16. [15.49],31,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2940,17,WANGMU RENZENG,CHN,31+  18. | 29+  17. [17.49],20,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2935,18,RONG JIANG,CHN,30+  19. | 23   19. [19.00],18+,
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2933,19,XUHUA PAN,CHN,33   17. | 27+  18. [17.49],17+,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",1122,1,MINA MARKOVIC,F,SLO,TOP  1. | TOP  1. [5.10],TOP,38+
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2035,2,JAIN KIM,F,KOR,TOP  1. | TOP  1. [5.10],49,38+
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",1224,3,MAGDALENA RÖCK,F,AUT,TOP  1. | TOP  1. [5.10],51+,34+
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",68,4,DINARA FAKHRITDINOVA,F,RUS,TOP  1. | TOP  1. [5.10],42+,32+
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2263,5,MOMOKA ODA,F,JPN,TOP  1. | TOP  1. [5.10],49,27+
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",3580,6,NIKKI VAN BERGEN,F,NED,TOP  1. | 39+  8. [7.65],42+,27
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",1222,7,KATHARINA POSCH,F,AUT,TOP  1. | TOP  1. [5.10],42+,26+
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2267,8,RISA OTA,F,JPN,TOP  1. | 39+  8. [7.65],42+,26+
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2253,9,AKIYO NOGUCHI,F,JPN,TOP  1. | TOP  1. [5.10],41+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",455,10,HÉLÈNE JANICOT,F,FRA,TOP  1. | 37+  11. [8.46],41+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",1202,11,BARBARA BACHER,F,AUT,TOP  1. | 35+  13. [9.37],41+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",58,12,YANA CHERESHNEVA,F,RUS,TOP  1. | 39+  8. [7.65],39+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2251,13,YUKA KOBAYASHI,F,JPN,42+  14. | 35+  13. [13.75],34+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2936,14,LAMU RENQING,F,CHN,37   16. | 33+  15. [15.49],34+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",1209,15,KATHARINA SAURWEIN,F,AUT,45   13. | 36+  12. [12.49],33+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2277,16,MOE YOSHIMURA,F,JPN,37+  15. | 31+  16. [15.49],31,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2940,17,WANGMU RENZENG,F,CHN,31+  18. | 29+  17. [17.49],20,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2935,18,RONG JIANG,F,CHN,30+  19. | 23   19. [19.00],18+,
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2933,19,XUHUA PAN,F,CHN,33   17. | 27+  18. [17.49],17+,

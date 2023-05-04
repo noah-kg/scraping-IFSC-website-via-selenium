@@ -1,26 +1,26 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2929,1,QIXIN ZHONG,CHN,6.200,5.79
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1480,2,DANYIL BOLDYREV,UKR,5.890,6.72
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3471,3,REZA ALIPOUR SHENAZANDIFARD,IRI,6.240,6.02
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",74,4,STANISLAV KOKORIN,RUS,6.380,6.15
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1359,5,LIBOR HROZA,CZE,6.230,6.34
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",7613,6,BASSA MAWEM,FRA,6.350,8.22
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",464,7,QUENTIN NAMBOT,FRA,6.640,8.42
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2845,8,MARCIN DZIENSKI,POL,6.130,9.14
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3362,9,AMIR MAIMURATOV,KAZ,6.760,6.32
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2838,10,JEDRZEJ KOMOSINSKI,POL,6.670,6.44
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",154,11,ALEKSANDR SHILOV,RUS,6.900,6.63
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",56,12,EVGENII VAITSEKHOVSKII,RUS,6.730,6.68
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",85,13,SERGEI LUZHETSKII,RUS,7.250,7.29
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",856,14,LEONARDO GONTERO,ITA,7.000,7.63
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1574,15,ROBERT STEWART-PATTERSON,CAN,6.870,7.84
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2951,16,ZHIYONG OU,CHN,7.110,FALL
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3361,17,RISHAT KHAIBULLIN,KAZ,7.290,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2048,18,SUNGJOON CHAE,KOR,7.490,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2062,19,HYUNJAE KIM,KOR,7.500,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2950,20,PENGHUI LIN,CHN,7.530,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2860,21,TOMASZ SORDYL,POL,8.130,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",6407,22,KANAT EGIZBAYEV,KAZ,8.250,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2063,23,JUNGJU KIM,KOR,8.360,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2217,24,CHI-FUNG AU,HKG,9.350,
-"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",6408,25,JEKYOUNG HYUN,KOR,10.720,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2929,1,QIXIN ZHONG,M,CHN,6.200,5.79
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1480,2,DANYIL BOLDYREV,M,UKR,5.890,6.72
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3471,3,REZA ALIPOUR SHENAZANDIFARD,M,IRI,6.240,6.02
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",74,4,STANISLAV KOKORIN,M,RUS,6.380,6.15
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1359,5,LIBOR HROZA,M,CZE,6.230,6.34
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",7613,6,BASSA MAWEM,M,FRA,6.350,8.22
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",464,7,QUENTIN NAMBOT,M,FRA,6.640,8.42
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2845,8,MARCIN DZIENSKI,M,POL,6.130,9.14
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3362,9,AMIR MAIMURATOV,M,KAZ,6.760,6.32
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2838,10,JEDRZEJ KOMOSINSKI,M,POL,6.670,6.44
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",154,11,ALEKSANDR SHILOV,M,RUS,6.900,6.63
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",56,12,EVGENII VAITSEKHOVSKII,M,RUS,6.730,6.68
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",85,13,SERGEI LUZHETSKII,M,RUS,7.250,7.29
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",856,14,LEONARDO GONTERO,M,ITA,7.000,7.63
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",1574,15,ROBERT STEWART-PATTERSON,M,CAN,6.870,7.84
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2951,16,ZHIYONG OU,M,CHN,7.110,FALL
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",3361,17,RISHAT KHAIBULLIN,M,KAZ,7.290,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2048,18,SUNGJOON CHAE,M,KOR,7.490,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2062,19,HYUNJAE KIM,M,KOR,7.500,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2950,20,PENGHUI LIN,M,CHN,7.530,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2860,21,TOMASZ SORDYL,M,POL,8.130,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",6407,22,KANAT EGIZBAYEV,M,KAZ,8.250,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2063,23,JUNGJU KIM,M,KOR,8.360,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2217,24,CHI-FUNG AU,M,HKG,9.350,
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",6408,25,JEKYOUNG HYUN,M,KOR,10.720,

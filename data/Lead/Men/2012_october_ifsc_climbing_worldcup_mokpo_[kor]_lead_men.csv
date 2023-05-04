@@ -1,32 +1,32 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2039,1,HYUNBIN MIN,KOR,TOP  1. | TOP  1. [4.24],48+,33
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2254,2,SACHI AMMA,JPN,TOP  1. | TOP  1. [4.24],45+,32+
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",1559,3,SEAN MCCOLL,CAN,TOP  1. | TOP  1. [4.24],44+,29+
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",447,4,MANUEL ROMAIN,FRA,38+  8. | TOP  1. [6.36],44+,26+
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",773,5,RAMÓN JULIAN PUIGBLANQUE,ESP,TOP  1. | TOP  1. [4.24],TOP,25+
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",1214,6,JAKOB SCHUBERT,AUT,38+  8. | TOP  1. [6.36],50,23+
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",3058,7,MAGNUS MIDTBOE,NOR,33+  18. | 38   10. [14.07],44+,23+
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",855,8,STEFANO GHISOLFI,ITA,38+  8. | TOP  1. [6.36],44+,20+
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",3124,9,THOMAS TAUPORN,GER,36+  12. | 38   10. [11.96],43+,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",437,10,ROMAIN DESGRANGES,FRA,TOP  1. | TOP  1. [4.24],42,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",4783,11,AKITO MATSUSHIMA,JPN,TOP  1. | 38   10. [6.63],42,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",1129,12,DOMEN SKOFIC,SLO,36+  12. | 33+  15. [14.87],42,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",3577,13,JORG VERHOEVEN,NED,34+  16. | 35+  13. [14.92],42,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",1216,14,MARIO LECHNER,AUT,TOP  1. | 33   20. [9.06],41+,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",61,15,MIKHAIL CHERNIKOV,RUS,29   21. | 39+  9. [14.07],40+,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",1127,16,URBAN PRIMOZIC,SLO,37   11. | 33+  15. [13.67],38+,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2040,17,JIHWAN PARK,KOR,35+  15. | 35+  13. [14.23],38+,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",448,18,THOMAS BALLET,FRA,36+  12. | 33+  15. [14.87],38+,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",6217,19,DAISUKE KASAHARA,JPN,34+  16. | 29   24. [20.11],36,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2033,20,JABEE KIM,KOR,32+  19. | 33   20. [19.99],35+,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2272,21,KOKORO FUJII,JPN,32+  19. | 33+  15. [18.21],30,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",5005,22,MASAKI SHIBATA,JPN,29   21. | 33+  15. [19.34],26+,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2041,23,HANWOOL KIM,KOR,26+  24. | 30+  22. [23.95],24,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",6218,24,DONGGUN LEE,KOR,26+  24. | 25   26. [25.75],24,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2042,25,SEUNGWOON CHO,KOR,29   21. | 29   24. [23.22],21+,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2045,26,HONGIL KIM,KOR,26+  24. | 30+  22. [23.95],21+,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",6219,27,MYEONGSU KIM,KOR,26+  24. | 24   27. [26.24],,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",5619,28,KHAIRUL HAFIZ ABU HASSAN,MAS,24+  28. | 23+  28. [28.25],,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",6220,29,DAEHEE YOON,KOR,20   30. | 23+  28. [29.24],,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",6221,30,SEWOONG OH,KOR,21+  29. | 7+  31. [29.98],,
-"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2037,31,PYEONGJU HWANG,KOR,18+  31. | 15   30. [30.50],,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2039,1,HYUNBIN MIN,M,KOR,TOP  1. | TOP  1. [4.24],48+,33
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2254,2,SACHI AMMA,M,JPN,TOP  1. | TOP  1. [4.24],45+,32+
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",1559,3,SEAN MCCOLL,M,CAN,TOP  1. | TOP  1. [4.24],44+,29+
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",447,4,MANUEL ROMAIN,M,FRA,38+  8. | TOP  1. [6.36],44+,26+
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",773,5,RAMÓN JULIAN PUIGBLANQUE,M,ESP,TOP  1. | TOP  1. [4.24],TOP,25+
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",1214,6,JAKOB SCHUBERT,M,AUT,38+  8. | TOP  1. [6.36],50,23+
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",3058,7,MAGNUS MIDTBOE,M,NOR,33+  18. | 38   10. [14.07],44+,23+
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",855,8,STEFANO GHISOLFI,M,ITA,38+  8. | TOP  1. [6.36],44+,20+
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",3124,9,THOMAS TAUPORN,M,GER,36+  12. | 38   10. [11.96],43+,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",437,10,ROMAIN DESGRANGES,M,FRA,TOP  1. | TOP  1. [4.24],42,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",4783,11,AKITO MATSUSHIMA,M,JPN,TOP  1. | 38   10. [6.63],42,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",1129,12,DOMEN SKOFIC,M,SLO,36+  12. | 33+  15. [14.87],42,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",3577,13,JORG VERHOEVEN,M,NED,34+  16. | 35+  13. [14.92],42,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",1216,14,MARIO LECHNER,M,AUT,TOP  1. | 33   20. [9.06],41+,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",61,15,MIKHAIL CHERNIKOV,M,RUS,29   21. | 39+  9. [14.07],40+,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",1127,16,URBAN PRIMOZIC,M,SLO,37   11. | 33+  15. [13.67],38+,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2040,17,JIHWAN PARK,M,KOR,35+  15. | 35+  13. [14.23],38+,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",448,18,THOMAS BALLET,M,FRA,36+  12. | 33+  15. [14.87],38+,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",6217,19,DAISUKE KASAHARA,M,JPN,34+  16. | 29   24. [20.11],36,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2033,20,JABEE KIM,M,KOR,32+  19. | 33   20. [19.99],35+,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2272,21,KOKORO FUJII,M,JPN,32+  19. | 33+  15. [18.21],30,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",5005,22,MASAKI SHIBATA,M,JPN,29   21. | 33+  15. [19.34],26+,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2041,23,HANWOOL KIM,M,KOR,26+  24. | 30+  22. [23.95],24,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",6218,24,DONGGUN LEE,M,KOR,26+  24. | 25   26. [25.75],24,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2042,25,SEUNGWOON CHO,M,KOR,29   21. | 29   24. [23.22],21+,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2045,26,HONGIL KIM,M,KOR,26+  24. | 30+  22. [23.95],21+,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",6219,27,MYEONGSU KIM,M,KOR,26+  24. | 24   27. [26.24],,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",5619,28,KHAIRUL HAFIZ ABU HASSAN,M,MAS,24+  28. | 23+  28. [28.25],,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",6220,29,DAEHEE YOON,M,KOR,20   30. | 23+  28. [29.24],,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",6221,30,SEWOONG OH,M,KOR,21+  29. | 7+  31. [29.98],,
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012",2037,31,PYEONGJU HWANG,M,KOR,18+  31. | 15   30. [30.50],,

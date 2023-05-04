@@ -1,13 +1,13 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,4982,1,CHUNHUA LI,CHN,11.500,10.63
-IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,5445,2,CUIFANG HE,CHN,12.320,13.06
-IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2930,3,CUILIAN HE,CHN,15.850,11.75
-IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2933,4,XUHUA PAN,CHN,14.270,FALL
-IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2834,5,EDYTA ROPEK,POL,16.270,16.07
-IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,4857,6,OLGA MOROZKINA,RUS,19.000,17.23
-IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,5617,7,DAN ZHANG,CHN,16.610,17.33
-IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,46,8,ANNA STENKOVAYA,RUS,19.450,19.62
-IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,1468,9,OLENA RYEPKO,UKR,19.650,
-IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,1474,10,SVITLANA TUZHYLINA,UKR,22.440,
-IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,5782,11,ALIYA ISKAKOVA,KAZ,22.800,
-IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,39,12,MAYYA PIRATINSKAYA,RUS,FALL,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,4982,1,CHUNHUA LI,F,CHN,11.500,10.63
+IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,5445,2,CUIFANG HE,F,CHN,12.320,13.06
+IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2930,3,CUILIAN HE,F,CHN,15.850,11.75
+IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2933,4,XUHUA PAN,F,CHN,14.270,FALL
+IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2834,5,EDYTA ROPEK,F,POL,16.270,16.07
+IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,4857,6,OLGA MOROZKINA,F,RUS,19.000,17.23
+IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,5617,7,DAN ZHANG,F,CHN,16.610,17.33
+IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,46,8,ANNA STENKOVAYA,F,RUS,19.450,19.62
+IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,1468,9,OLENA RYEPKO,F,UKR,19.650,
+IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,1474,10,SVITLANA TUZHYLINA,F,UKR,22.440,
+IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,5782,11,ALIYA ISKAKOVA,F,KAZ,22.800,
+IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,39,12,MAYYA PIRATINSKAYA,F,RUS,FALL,

@@ -1,10 +1,10 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",82,1,MARIIA KRASAVINA,RUS,8.710,8.07
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",479,2,ANOUCK JAUBERT,FRA,8.410,8.10
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",110,3,IULIIA KAPLINA,RUS,8.530,8.23
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2847,4,KLAUDIA BUCZEK,POL,8.870,8.70
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2834,5,EDYTA ROPEK,POL,8.890,8.75
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2857,6,PATRYCJA CHUDZIAK,POL,9.400,9.31
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2842,7,MONIKA PROKOPIUK-KAWECKA,POL,10.080,10.01
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1493,8,ALLA MARENYCH,UKR,9.580,10.83
-"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2941,9,DI NIU,CHN,12.470,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",82,1,MARIIA KRASAVINA,F,RUS,8.710,8.07
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",479,2,ANOUCK JAUBERT,F,FRA,8.410,8.10
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",110,3,IULIIA KAPLINA,F,RUS,8.530,8.23
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2847,4,KLAUDIA BUCZEK,F,POL,8.870,8.70
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2834,5,EDYTA ROPEK,F,POL,8.890,8.75
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2857,6,PATRYCJA CHUDZIAK,F,POL,9.400,9.31
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2842,7,MONIKA PROKOPIUK-KAWECKA,F,POL,10.080,10.01
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",1493,8,ALLA MARENYCH,F,UKR,9.580,10.83
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014",2941,9,DI NIU,F,CHN,12.470,

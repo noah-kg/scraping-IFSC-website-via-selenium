@@ -1,26 +1,26 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,3471,1,REZA ALIPOUR SHENAZANDIFARD,IRI,6.520,6.24
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,74,2,STANISLAV KOKORIN,RUS,6.500,6.27
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,56,3,EVGENII VAITSEKHOVSKII,RUS,6.290,6.18
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,2845,4,MARCIN DZIENSKI,POL,6.430,6.21
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,1480,5,DANYIL BOLDYREV,UKR,6.210,6.20
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,1485,6,VOLODYMYR ZINCHENKO,UKR,6.890,6.89
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,105,7,DMITRII TIMOFEEV,RUS,6.310,7.30
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,3278,8,ASPAR ASPAR,INA,6.070,FALL
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,2838,9,JEDRZEJ KOMOSINSKI,POL,6.740,6.52
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,1483,10,YAROSLAV GONTARYK,UKR,6.780,6.75
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,109,11,ALEKSANDR SHIKOV,RUS,6.900,6.86
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,2929,12,QIXIN ZHONG,CHN,6.160,7.16
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,856,13,LEONARDO GONTERO,ITA,6.780,7.37
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,5026,14,LINCAI ZHONG,CHN,6.890,8.74
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,4745,15,LUKASZ SWIRK,POL,6.660,9.55
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,86,16,ARSENII SHEVCHENKO,RUS,6.610,FALL
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,6303,17,"WENG KHIT, ADRIEL CHOO",SGP,6.901,
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,48,18,SERGEI SINITCYN,RUS,6.940,
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,6281,19,ANTON POLIAKOV,RUS,6.990,
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,1359,20,LIBOR HROZA,CZE,7.080,
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,3281,21,ASHARI FAJRI,INA,7.350,
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,4990,22,YUHANG ZHANG,CHN,7.970,
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,6042,23,VIACHESLAV VEDENCHUK,RUS,7.980,
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,1559,24,SEAN MCCOLL,CAN,10.710,
-IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,4934,25,SHINTA OZAWA,JPN,17.990,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,3471,1,REZA ALIPOUR SHENAZANDIFARD,M,IRI,6.520,6.24
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,74,2,STANISLAV KOKORIN,M,RUS,6.500,6.27
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,56,3,EVGENII VAITSEKHOVSKII,M,RUS,6.290,6.18
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,2845,4,MARCIN DZIENSKI,M,POL,6.430,6.21
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,1480,5,DANYIL BOLDYREV,M,UKR,6.210,6.20
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,1485,6,VOLODYMYR ZINCHENKO,M,UKR,6.890,6.89
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,105,7,DMITRII TIMOFEEV,M,RUS,6.310,7.30
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,3278,8,ASPAR ASPAR,M,INA,6.070,FALL
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,2838,9,JEDRZEJ KOMOSINSKI,M,POL,6.740,6.52
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,1483,10,YAROSLAV GONTARYK,M,UKR,6.780,6.75
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,109,11,ALEKSANDR SHIKOV,M,RUS,6.900,6.86
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,2929,12,QIXIN ZHONG,M,CHN,6.160,7.16
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,856,13,LEONARDO GONTERO,M,ITA,6.780,7.37
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,5026,14,LINCAI ZHONG,M,CHN,6.890,8.74
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,4745,15,LUKASZ SWIRK,M,POL,6.660,9.55
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,86,16,ARSENII SHEVCHENKO,M,RUS,6.610,FALL
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,6303,17,"WENG KHIT, ADRIEL CHOO",M,SGP,6.901,
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,48,18,SERGEI SINITCYN,M,RUS,6.940,
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,6281,19,ANTON POLIAKOV,M,RUS,6.990,
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,1359,20,LIBOR HROZA,M,CZE,7.080,
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,3281,21,ASHARI FAJRI,M,INA,7.350,
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,4990,22,YUHANG ZHANG,M,CHN,7.970,
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,6042,23,VIACHESLAV VEDENCHUK,M,RUS,7.980,
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,1559,24,SEAN MCCOLL,M,CAN,10.710,
+IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,4934,25,SHINTA OZAWA,M,JPN,17.990,

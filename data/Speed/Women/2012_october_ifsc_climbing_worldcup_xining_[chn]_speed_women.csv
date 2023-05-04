@@ -1,23 +1,23 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",458,1,ESTHER BRUCKNER,FRA,8.720,8.54
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2834,2,EDYTA ROPEK,POL,9.560,9.19
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",82,3,MARIIA KRASAVINA,RUS,8.390,8.58
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",81,4,YULIYA LEVOCHKINA,RUS,8.660,9.75
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",63,5,KSENIYA POLEKHINA,RUS,9.190,9.02
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2848,6,ALEKSANDRA MIROSLAW,POL,8.920,9.02
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2847,7,KLAUDIA BUCZEK,POL,9.420,9.35
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",62,8,ALINA GAIDAMAKINA,RUS,8.550,9.97
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",110,9,IULIIA KAPLINA,RUS,9.360,9.11
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",3275,10,SUPITA TITA,INA,9.670,9.27
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2930,11,CUILIAN HE,CHN,9.710,9.60
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",479,12,ANOUCK JAUBERT,FRA,10.200,10.26
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2842,13,MONIKA PROKOPIUK-KAWECKA,POL,9.370,10.43
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",4741,14,ANASTASIYA SAVISKO,UKR,10.300,11.71
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",3279,15,PUJI LESTARI,INA,10.700,12.07
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",4984,16,YANG WANG,CHN,10.010,FALL
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2139,17,HUNG YING LEE,TPE,10.790,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",4985,18,WEILING YANG,CHN,11.110,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2933,19,XUHUA PAN,CHN,11.280,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2936,20,LAMU RENQING,CHN,11.460,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2940,21,WANGMU RENZENG,CHN,11.880,
-"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2935,22,RONG JIANG,CHN,13.670,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",458,1,ESTHER BRUCKNER,F,FRA,8.720,8.54
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2834,2,EDYTA ROPEK,F,POL,9.560,9.19
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",82,3,MARIIA KRASAVINA,F,RUS,8.390,8.58
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",81,4,YULIYA LEVOCHKINA,F,RUS,8.660,9.75
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",63,5,KSENIYA POLEKHINA,F,RUS,9.190,9.02
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2848,6,ALEKSANDRA MIROSLAW,F,POL,8.920,9.02
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2847,7,KLAUDIA BUCZEK,F,POL,9.420,9.35
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",62,8,ALINA GAIDAMAKINA,F,RUS,8.550,9.97
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",110,9,IULIIA KAPLINA,F,RUS,9.360,9.11
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",3275,10,SUPITA TITA,F,INA,9.670,9.27
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2930,11,CUILIAN HE,F,CHN,9.710,9.60
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",479,12,ANOUCK JAUBERT,F,FRA,10.200,10.26
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2842,13,MONIKA PROKOPIUK-KAWECKA,F,POL,9.370,10.43
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",4741,14,ANASTASIYA SAVISKO,F,UKR,10.300,11.71
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",3279,15,PUJI LESTARI,F,INA,10.700,12.07
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",4984,16,YANG WANG,F,CHN,10.010,FALL
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2139,17,HUNG YING LEE,F,TPE,10.790,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",4985,18,WEILING YANG,F,CHN,11.110,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2933,19,XUHUA PAN,F,CHN,11.280,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2936,20,LAMU RENQING,F,CHN,11.460,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2940,21,WANGMU RENZENG,F,CHN,11.880,
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2935,22,RONG JIANG,F,CHN,13.670,

@@ -1,29 +1,29 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,1122,1,MINA MARKOVIC,SLO,49+  6. | TOP  1. [5.20],38+,TOP
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,2035,2,JAIN KIM,KOR,TOP  1. | TOP  1. [3.35],TOP,51+
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,1121,3,MAJA STREMFELJ,SLO,TOP  1. | TOP  1. [3.35],TOP,49+
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,1219,4,JOHANNA ERNST,AUT,47   9. | TOP  1. [6.36],TOP,47+
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,2263,5,MOMOKA ODA,JPN,TOP  1. | TOP  1. [3.35],42+,47+
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,2253,6,AKIYO NOGUCHI,JPN,TOP  1. | TOP  1. [3.35],38+,47+
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,68,7,DINARA FAKHRITDINOVA,RUS,50   5. | 43   9. [6.71],42+,46
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,445,8,CHARLOTTE DURIF,FRA,47+  7. | 40+  13. [10.25],38+,45+
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,49,9,EVGENIIA MALAMID,RUS,46+  10. | TOP  1. [6.71],37+,
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,455,10,HÉLÈNE JANICOT,FRA,36+  14. | TOP  1. [8.22],37+,
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,1224,11,MAGDALENA RÖCK,AUT,47+  7. | 40+  13. [10.25],37+,
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,1222,12,KATHARINA POSCH,AUT,36+  14. | 41   12. [13.42],37+,
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,4916,13,MATHILDE BRUMAGNE,BEL,34+  17. | 19+  17. [18.67],37+,
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,2267,14,RISA OTA,JPN,37+  11. | 41+  10. [10.99],34+,
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,1202,15,BARBARA BACHER,AUT,36+  14. | 38+  16. [15.49],34+,
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,2268,16,AYA ONOE,JPN,37   13. | 41+  10. [11.68],34,
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,2251,17,YUKA KOBAYASHI,JPN,37+  11. | 40+  13. [12.69],31+,
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,848,18,JENNY LAVARDA,ITA,32   21. | 19+  17. [20.99],28+,
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,6212,19,AYAKA TAKEUCHI,JPN,33+  18. | 19   25. [21.42],28,
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,4991,20,AZUMI IIDA,JPN,31+  23. | 19+  17. [21.95],27+,
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,2139,21,HUNG YING LEE,TPE,31+  23. | 19   25. [24.48],27+,
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,6169,22,TSUKASA MIZUGUCHI,JPN,32+  20. | 19+  17. [20.25],25+,
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,6050,23,ATORI YASUDA,JPN,32   21. | 19+  17. [20.99],21+,
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,5065,24,YUKA ENDO,JPN,15+  27. | 19+  17. [23.74],19+,
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,6222,25,SAKIKO OSAWA,JPN,15+  27. | 19+  17. [23.74],18+,
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,4992,26,YUKO SAKAKIBARA,JPN,33   19. | 19+  17. [19.74],15+,
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,2036,27,IN KYOUNG KIM,KOR,30+  25. | 4+  28. [26.46],,
-IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,6223,28,YOKO METSUGI,JPN,29+  26. | 18   27. [26.50],,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,1122,1,MINA MARKOVIC,F,SLO,49+  6. | TOP  1. [5.20],38+,TOP
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,2035,2,JAIN KIM,F,KOR,TOP  1. | TOP  1. [3.35],TOP,51+
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,1121,3,MAJA STREMFELJ,F,SLO,TOP  1. | TOP  1. [3.35],TOP,49+
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,1219,4,JOHANNA ERNST,F,AUT,47   9. | TOP  1. [6.36],TOP,47+
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,2263,5,MOMOKA ODA,F,JPN,TOP  1. | TOP  1. [3.35],42+,47+
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,2253,6,AKIYO NOGUCHI,F,JPN,TOP  1. | TOP  1. [3.35],38+,47+
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,68,7,DINARA FAKHRITDINOVA,F,RUS,50   5. | 43   9. [6.71],42+,46
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,445,8,CHARLOTTE DURIF,F,FRA,47+  7. | 40+  13. [10.25],38+,45+
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,49,9,EVGENIIA MALAMID,F,RUS,46+  10. | TOP  1. [6.71],37+,
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,455,10,HÉLÈNE JANICOT,F,FRA,36+  14. | TOP  1. [8.22],37+,
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,1224,11,MAGDALENA RÖCK,F,AUT,47+  7. | 40+  13. [10.25],37+,
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,1222,12,KATHARINA POSCH,F,AUT,36+  14. | 41   12. [13.42],37+,
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,4916,13,MATHILDE BRUMAGNE,F,BEL,34+  17. | 19+  17. [18.67],37+,
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,2267,14,RISA OTA,F,JPN,37+  11. | 41+  10. [10.99],34+,
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,1202,15,BARBARA BACHER,F,AUT,36+  14. | 38+  16. [15.49],34+,
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,2268,16,AYA ONOE,F,JPN,37   13. | 41+  10. [11.68],34,
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,2251,17,YUKA KOBAYASHI,F,JPN,37+  11. | 40+  13. [12.69],31+,
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,848,18,JENNY LAVARDA,F,ITA,32   21. | 19+  17. [20.99],28+,
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,6212,19,AYAKA TAKEUCHI,F,JPN,33+  18. | 19   25. [21.42],28,
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,4991,20,AZUMI IIDA,F,JPN,31+  23. | 19+  17. [21.95],27+,
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,2139,21,HUNG YING LEE,F,TPE,31+  23. | 19   25. [24.48],27+,
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,6169,22,TSUKASA MIZUGUCHI,F,JPN,32+  20. | 19+  17. [20.25],25+,
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,6050,23,ATORI YASUDA,F,JPN,32   21. | 19+  17. [20.99],21+,
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,5065,24,YUKA ENDO,F,JPN,15+  27. | 19+  17. [23.74],19+,
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,6222,25,SAKIKO OSAWA,F,JPN,15+  27. | 19+  17. [23.74],18+,
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,4992,26,YUKO SAKAKIBARA,F,JPN,33   19. | 19+  17. [19.74],15+,
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,2036,27,IN KYOUNG KIM,F,KOR,30+  25. | 4+  28. [26.46],,
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,6223,28,YOKO METSUGI,F,JPN,29+  26. | 18   27. [26.50],,

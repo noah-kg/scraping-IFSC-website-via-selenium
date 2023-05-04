@@ -1,39 +1,39 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,772,1,PATXI USOBIAGA LAKUNZA,ESP,TOP,TOP,53-
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,773,2,RAMÓN JULIAN PUIGBLANQUE,ESP,TOP,TOP,52-
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,3577,3,JORG VERHOEVEN,NED,TOP,TOP,47
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,845,4,FLAVIO CRESPI,ITA,TOP,TOP,47-
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,419,5,MICHAËL FUSELIER,FRA,TOP,TOP,45
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,3058,6,MAGNUS MIDTBOE,NOR,TOP,TOP,45-
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,3129,7,CÉDRIC LACHAT,SUI,TOP,TOP,44+
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,444,8,GAUTIER SUPPER,FRA,TOP,TOP,44
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5324,9,FLAVIEN GUERIMAND,FRA,TOP,TOP,44-
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,1213,10,DAVID LAMA,AUT,TOP,TOP,37
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,4690,11,FABIEN DUGIT,FRA,TOP,TOP,37-
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,447,12,MANUEL ROMAIN,FRA,TOP,TOP,36-
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,426,13,SYLVAIN MILLET,FRA,TOP,TOP,35
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5393,14,DANIEL WINKLER,SUI,35+,TOP,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,847,15,LUCA ZARDINI,ITA,TOP,39-,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,437,16,ROMAIN DESGRANGES,FRA,TOP,35,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,774,17,MARCO ANTONIO JUBES ANGARITA,ESP,TOP,35-,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,451,18,ANATOLE BOSIO,FRA,35,35-,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,4716,19,KLEMEN BECAN,SLO,33+,35-,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5472,20,AURÉLIEN CULVER,FRA,33-,35-,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,4939,20,GABRIEL JOSSERON,FRA,33-,35-,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,4841,20,GABOR SZEKELY,HUN,33-,35-,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,4936,23,KEVIN AGLAE,FRA,TOP,34-,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5649,23,OLIVIER HEQUIN,FRA,TOP,34-,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,4787,25,MARTIN JAGGI,SUI,33-,34-,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,1199,26,JÜRGEN REIS,AUT,32+,27,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,4790,27,BENOIT HEINTZ,FRA,32-,,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5783,28,ALESSANDRO FIORI,ITA,30-,,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,3134,29,ANDERSON GOUVEIA,BRA,28-,,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5597,29,EMMANUEL LOPEZ,FRA,28-,,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,440,31,ROMAIN PAGNOUX,FRA,24+,,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5801,32,MICHAËL LECOMTE,BEL,22,,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5728,33,RAFET SERKAN ERCAN,TUR,21-,,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5820,33,MAURICIO HUERTA,MEX,21-,,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5838,33,CATALIN PETRESCU,ROU,21-,,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5839,36,KILLIAN AVOCAT-BENAN,FRA,18-,,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5840,36,GEORGE MARIS,ROU,18-,,
-IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5841,38,BOGDAN RUS,ROU,16-,,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,772,1,PATXI USOBIAGA LAKUNZA,M,ESP,TOP,TOP,53-
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,773,2,RAMÓN JULIAN PUIGBLANQUE,M,ESP,TOP,TOP,52-
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,3577,3,JORG VERHOEVEN,M,NED,TOP,TOP,47
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,845,4,FLAVIO CRESPI,M,ITA,TOP,TOP,47-
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,419,5,MICHAËL FUSELIER,M,FRA,TOP,TOP,45
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,3058,6,MAGNUS MIDTBOE,M,NOR,TOP,TOP,45-
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,3129,7,CÉDRIC LACHAT,M,SUI,TOP,TOP,44+
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,444,8,GAUTIER SUPPER,M,FRA,TOP,TOP,44
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5324,9,FLAVIEN GUERIMAND,M,FRA,TOP,TOP,44-
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,1213,10,DAVID LAMA,M,AUT,TOP,TOP,37
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,4690,11,FABIEN DUGIT,M,FRA,TOP,TOP,37-
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,447,12,MANUEL ROMAIN,M,FRA,TOP,TOP,36-
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,426,13,SYLVAIN MILLET,M,FRA,TOP,TOP,35
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5393,14,DANIEL WINKLER,M,SUI,35+,TOP,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,847,15,LUCA ZARDINI,M,ITA,TOP,39-,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,437,16,ROMAIN DESGRANGES,M,FRA,TOP,35,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,774,17,MARCO ANTONIO JUBES ANGARITA,M,ESP,TOP,35-,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,451,18,ANATOLE BOSIO,M,FRA,35,35-,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,4716,19,KLEMEN BECAN,M,SLO,33+,35-,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5472,20,AURÉLIEN CULVER,M,FRA,33-,35-,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,4939,20,GABRIEL JOSSERON,M,FRA,33-,35-,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,4841,20,GABOR SZEKELY,M,HUN,33-,35-,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,4936,23,KEVIN AGLAE,M,FRA,TOP,34-,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5649,23,OLIVIER HEQUIN,M,FRA,TOP,34-,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,4787,25,MARTIN JAGGI,M,SUI,33-,34-,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,1199,26,JÜRGEN REIS,M,AUT,32+,27,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,4790,27,BENOIT HEINTZ,M,FRA,32-,,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5783,28,ALESSANDRO FIORI,M,ITA,30-,,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,3134,29,ANDERSON GOUVEIA,M,BRA,28-,,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5597,29,EMMANUEL LOPEZ,M,FRA,28-,,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,440,31,ROMAIN PAGNOUX,M,FRA,24+,,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5801,32,MICHAËL LECOMTE,M,BEL,22,,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5728,33,RAFET SERKAN ERCAN,M,TUR,21-,,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5820,33,MAURICIO HUERTA,M,MEX,21-,,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5838,33,CATALIN PETRESCU,M,ROU,21-,,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5839,36,KILLIAN AVOCAT-BENAN,M,FRA,18-,,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5840,36,GEORGE MARIS,M,ROU,18-,,
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,5841,38,BOGDAN RUS,M,ROU,16-,,

@@ -1,17 +1,17 @@
-Event,ID,Rank,Name,Country,Qualification,Final
-"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",82,1,MARIIA KRASAVINA,RUS,8.570,8.35
-"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",110,2,IULIIA KAPLINA,RUS,8.670,FALL
-"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",479,3,ANOUCK JAUBERT,FRA,8.800,8.58
-"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",2848,4,ALEKSANDRA MIROSLAW,POL,8.970,FALL
-"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",81,5,YULIYA LEVOCHKINA,RUS,9.140,8.89
-"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",62,6,ALINA GAIDAMAKINA,RUS,9.050,8.95
-"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",2847,7,KLAUDIA BUCZEK,POL,9.330,9.28
-"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",3275,8,SUPITA TITA,INA,9.250,9.61
-"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",2842,9,MONIKA PROKOPIUK-KAWECKA,POL,9.810,
-"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",2834,10,EDYTA ROPEK,POL,9.820,
-"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",3279,11,PUJI LESTARI,INA,10.770,
-"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",3282,12,MULYANI MUDJI,INA,11.100,
-"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",2936,13,LAMU RENQING,CHN,12.320,
-"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",2940,14,WANGMU RENZENG,CHN,12.330,
-"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",2267,15,RISA OTA,JPN,25.200,
-"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",3246,16,PETRA KLINGLER,SUI,FALL,
+Event,ID,Rank,Name,Gender,Country,Qualification,Final
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",82,1,MARIIA KRASAVINA,F,RUS,8.570,8.35
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",110,2,IULIIA KAPLINA,F,RUS,8.670,FALL
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",479,3,ANOUCK JAUBERT,F,FRA,8.800,8.58
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",2848,4,ALEKSANDRA MIROSLAW,F,POL,8.970,FALL
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",81,5,YULIYA LEVOCHKINA,F,RUS,9.140,8.89
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",62,6,ALINA GAIDAMAKINA,F,RUS,9.050,8.95
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",2847,7,KLAUDIA BUCZEK,F,POL,9.330,9.28
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",3275,8,SUPITA TITA,F,INA,9.250,9.61
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",2842,9,MONIKA PROKOPIUK-KAWECKA,F,POL,9.810,
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",2834,10,EDYTA ROPEK,F,POL,9.820,
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",3279,11,PUJI LESTARI,F,INA,10.770,
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",3282,12,MULYANI MUDJI,F,INA,11.100,
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",2936,13,LAMU RENQING,F,CHN,12.320,
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",2940,14,WANGMU RENZENG,F,CHN,12.330,
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",2267,15,RISA OTA,F,JPN,25.200,
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014",3246,16,PETRA KLINGLER,F,SUI,FALL,

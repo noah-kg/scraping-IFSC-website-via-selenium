@@ -1,35 +1,35 @@
-Event,ID,Rank,Name,Country,Qualification,Semi-Final,Final
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,1121,1,MAJA STREMFELJ,SLO,TOP,38+,52+
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,1122,2,MINA MARKOVIC,SLO,TOP,37-,52+
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,1219,3,JOHANNA ERNST,AUT,TOP,TOP,52
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,438,4,CAROLINE CIAVALDINI,FRA,TOP,39-,52
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2253,5,AKIYO NOGUCHI,JPN,TOP,37-,50+
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,4756,6,OLGA SHALAGINA,UKR,46,38,49-
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,4926,7,IRATI ANDA VILLANUEVA,ESP,TOP,37-,37-
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2035,8,JAIN KIM,KOR,TOP,37-,28
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,309,9,CHLOÉ GRAFTIAUX,BEL,46+,37-,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,1119,10,NATALIJA GROS,SLO,TOP,36+,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,1203,10,BETTINA SCHÖPF,AUT,TOP,36+,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,306,12,MURIEL SARKANY,BEL,TOP,36,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,58,13,YANA CHERESHNEVA,RUS,TOP,35,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,4535,14,ALEXANDRA EYER,SUI,TOP,34-,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,1202,15,BARBARA BACHER,AUT,47-,33,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,4917,16,FLORENCE PINET,FRA,42+,33-,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,3578,17,VERA ZIJLSTRA,NED,34,33-,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,5388,18,ALIX GRAFTIAUX,BEL,33,26+,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,445,19,CHARLOTTE DURIF,FRA,TOP,20,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2043,20,SEURAN HAN,KOR,46,20,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,446,21,MARINE THÉVENET,FRA,43+,20,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,5422,22,MATHILDE COUCHOT,FRA,42,20-,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,848,23,JENNY LAVARDA,ITA,40,20-,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,4560,24,LINN KARIN STENDAL,NOR,34-,20-,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2823,24,JULIANE WURM,GER,34-,20-,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,1210,26,CHRISTINE SCHRANZ,AUT,TOP,14-,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,777,27,ANDREA CARTAS BARRERA,ESP,33-,,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,3176,28,FRANCIS RODRIGUEZ,VEN,25,,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,4915,28,WOON-SEON SHIN,KOR,25,,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,3198,30,ANOUK PIOLA,SUI,24+,,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,5925,31,ANNA MIKUSHKINA,RUS,24-,,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,5828,31,AKI TANAKA,JPN,24-,,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,4857,33,OLGA MOROZKINA,RUS,23.5,,
-IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,3133,34,JANINE CARDOSO,BRA,22-,,
+Event,ID,Rank,Name,Gender,Country,Qualification,Semi-Final,Final
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,1121,1,MAJA STREMFELJ,F,SLO,TOP,38+,52+
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,1122,2,MINA MARKOVIC,F,SLO,TOP,37-,52+
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,1219,3,JOHANNA ERNST,F,AUT,TOP,TOP,52
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,438,4,CAROLINE CIAVALDINI,F,FRA,TOP,39-,52
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2253,5,AKIYO NOGUCHI,F,JPN,TOP,37-,50+
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,4756,6,OLGA SHALAGINA,F,UKR,46,38,49-
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,4926,7,IRATI ANDA VILLANUEVA,F,ESP,TOP,37-,37-
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2035,8,JAIN KIM,F,KOR,TOP,37-,28
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,309,9,CHLOÉ GRAFTIAUX,F,BEL,46+,37-,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,1119,10,NATALIJA GROS,F,SLO,TOP,36+,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,1203,10,BETTINA SCHÖPF,F,AUT,TOP,36+,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,306,12,MURIEL SARKANY,F,BEL,TOP,36,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,58,13,YANA CHERESHNEVA,F,RUS,TOP,35,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,4535,14,ALEXANDRA EYER,F,SUI,TOP,34-,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,1202,15,BARBARA BACHER,F,AUT,47-,33,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,4917,16,FLORENCE PINET,F,FRA,42+,33-,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,3578,17,VERA ZIJLSTRA,F,NED,34,33-,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,5388,18,ALIX GRAFTIAUX,F,BEL,33,26+,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,445,19,CHARLOTTE DURIF,F,FRA,TOP,20,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2043,20,SEURAN HAN,F,KOR,46,20,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,446,21,MARINE THÉVENET,F,FRA,43+,20,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,5422,22,MATHILDE COUCHOT,F,FRA,42,20-,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,848,23,JENNY LAVARDA,F,ITA,40,20-,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,4560,24,LINN KARIN STENDAL,F,NOR,34-,20-,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2823,24,JULIANE WURM,F,GER,34-,20-,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,1210,26,CHRISTINE SCHRANZ,F,AUT,TOP,14-,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,777,27,ANDREA CARTAS BARRERA,F,ESP,33-,,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,3176,28,FRANCIS RODRIGUEZ,F,VEN,25,,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,4915,28,WOON-SEON SHIN,F,KOR,25,,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,3198,30,ANOUK PIOLA,F,SUI,24+,,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,5925,31,ANNA MIKUSHKINA,F,RUS,24-,,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,5828,31,AKI TANAKA,F,JPN,24-,,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,4857,33,OLGA MOROZKINA,F,RUS,23.5,,
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,3133,34,JANINE CARDOSO,F,BRA,22-,,
