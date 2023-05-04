@@ -4,6 +4,8 @@
 
 # Using Selenium to Scrape IFSC Website for World Cup Results
 
+Result [Analysis](https://noah-kg.github.io/scraping-IFSC-website-via-selenium/) (in progress)
+
 The International Federation of Sport Climbing ([IFSC](https://en.wikipedia.org/wiki/International_Federation_of_Sport_Climbing)) was founded in January of 2007 with the goal of being an international governing body for the sport of competition climbing, which consists of the disciplines [lead climbing](https://en.wikipedia.org/wiki/Lead_climbing), [bouldering](https://en.wikipedia.org/wiki/Bouldering), and [speed climbing](https://en.wikipedia.org/wiki/Speed_climbing).
 I really love climbing, bouldering in particular, so I figured a project involving climbing would be great for me. I also think web-scraping is insanely useful and really fascinating - though I still have a lot to learn about it.
 
