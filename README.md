@@ -22,8 +22,8 @@ This project scrapes ONLY the IFSC World Cup competitions from 2007-present day.
 ## Current Status
 * Implemented a class to navigate and scrape the [results page](https://www.ifsc-climbing.org/index.php/world-competition/last-result) of the IFSC site
 * Stores and tracks all events that have been scraped - creating separate .csv files for each category (Men/Women)
-* Additionally scrapes the [IFSC Info](https://ifsc.results.info/#/) page (which is strangely hard to find?) to get the heights of climbers - though only about 10-15% of all climber's heights are actually listed
-* Basic analysis for Men's bouldering only
+* Additionally scrapes the [IFSC Info](https://ifsc.results.info/#/) page (which is strangely hard to find?) to get the heights of climbers - though only about 10-15% of all climber's heights are actually listed - Removed for time being
+* Basic analysis for ~~Men's bouldering only~~ both men & women's bouldering
 * Merges data into dataframes for some basic analysis
   * Individual climber dataframe
   * Country dataframe
@@ -31,7 +31,7 @@ This project scrapes ONLY the IFSC World Cup competitions from 2007-present day.
 * Scraper class is in its own separate file, and the analysis is also in it's own separate file.
 * Have implemented several plotly visualizations to make notebook more interactive
 * Added deploy.yml file to set foundation for GitHub Actions & Pages
-  * Have very basic action & page setup that converst notebook to html and hosts on [GitHub Page](https://noah-kg.github.io/scraping-IFSC-website-via-selenium/)
+  * Have very basic action & page setup that converts notebook to html and hosts on [GitHub Page](https://noah-kg.github.io/scraping-IFSC-website-via-selenium/)
 
 ## To-Do List
 * Implement a more thorough analysis of the data - IN PROGRESS
@@ -39,19 +39,23 @@ This project scrapes ONLY the IFSC World Cup competitions from 2007-present day.
   - [x] Include competition year in dataframe to allow time-based analysis
   - [x] Distribution of climbers by country
   - [x] Individual finals appearances over time
-  - [ ] Add docstrings to all functions
-
+  - [x] Add docstrings to all functions
+  - [ ] Rewrite comments and observations to include the addition of women's bouldering results
+  - [ ] Add final summary
 * Work on some static visualizations
   - [ ] Possibly create some Tableau dashboards for more interactivity - MAYBE (focusing on plotly for now)
   - [x] Plotly visualizations
     - [ ] Try to solidify the template, so that it's faster to implement
+    - [ ] Make plot functions more modular
     - [x] Continuing to learn and add plotly choropleth, bar, line, and heatmap graphs
   - [x] Look into itables to allow search bar for people to look up specific climbers
 * Figure out HTML issues so that notebook displays "nicely"
-  - [ ] Figure out why static visualizations are getting slightly distorted after html conversion
+  - [x] Figure out why static visualizations are getting slightly distorted after html conversion
+    - [x] I removed the only two static visualizations and replaced them with Plotly visualizations
   - [ ] Identify issue with itables horizontal scrolling (even though there's space)
   - [ ] Set column widths for certain tables to ensure readability
-* Add Women's analysis
 * Combine Men's & Women's to look at *ALL* climbers simultaneously?
+  - [x] Included women's results & updated all visualizations
 * Possibly learn how to implement [GitHub Actions](https://github.com/features/actions)?
   - [x] Figure out basic foundation for GitHub Actions
+  - [x] Currently rebuilds/converts notebook whenever a push to main occurs
