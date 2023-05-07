@@ -334,7 +334,7 @@ def plot_event(df, title, sub):
     title, sub: title and subtitle for figure
     """
     # Plot specifics
-    cols = ['Event', 'Climbers', 'Q_Top', 'S_Top', 'F_Top', 'Q_Top%', 'S_Top%', 'F_Top%']
+    cols = ['Climbers', 'Q_Top', 'S_Top', 'F_Top', 'Q_Top%', 'S_Top%', 'F_Top%']
     # color_discrete_map = {"M": "#10baee", "F": "#ff007e"}
     active = 4
     
@@ -384,12 +384,12 @@ def plot_event(df, title, sub):
             yanchor='top'
             )],
         xaxis={
-            'showgrid': True
+            'showgrid': False,
+            'showline': True,
+            'linecolor': 'black'
         },
         yaxis={
-            # 'autorange': "reversed",
-            'showline': True,
-            'linecolor': 'black',
+            'showgrid': True,
             'title': None
         },
         title=dict(text=title, font=dict(size=30)),
