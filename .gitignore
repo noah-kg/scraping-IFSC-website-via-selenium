@@ -5,3 +5,4 @@
 .gitignore.bak
 IFSC Climbers.ipynb
 .ipynb_checkpoints/
+__pycache__
