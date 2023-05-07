@@ -6,7 +6,6 @@ IFSC - Climbing World Cup (B) - Hachioji (JPN) 2023
 --2023_april_30_ifsc_climbing_world_cup_seoul_[kor]_speed_men.csv
 --2023_april_30_ifsc_climbing_world_cup_seoul_[kor]_speed_women.csv
 IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2023
-IFSC - Climbing World Cup (S) - Jakarta (INA) 2023
 --2022_april_10_ifsc_climbing_world_cup_meiringen_[sui]_boulder_men.csv
 --2022_april_10_ifsc_climbing_world_cup_meiringen_[sui]_boulder_women.csv
 IFSC - Climbing World Cup (B) - Meiringen (SUI) 2022
@@ -24,6 +23,7 @@ IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022
 --2022_may_29_ifsc_climbing_world_cup_salt_lake_city_[usa]_boulder_women.csv
 --2022_may_29_ifsc_climbing_world_cup_salt_lake_city_[usa]_speed_men.csv
 --2022_may_29_ifsc_climbing_world_cup_salt_lake_city_[usa]_speed_women.csv
+IFSC - Climbing World Cup (B,S) - Salt Lake City 2 (USA) 2022
 --2022_june_12_ifsc_climbing_world_cup_brixen_[ita]_boulder_men.csv
 --2022_june_12_ifsc_climbing_world_cup_brixen_[ita]_boulder_women.csv
 IFSC - Climbing World Cup (B) - Brixen (ITA) 2022
@@ -326,8 +326,9 @@ IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2016
 --2016_june_11_ifsc_climbing_worldcup_vail_[usa]_boulder_women.csv
 IFSC Climbing Worldcup (B) - Vail (USA) 2016
 --2016_july_12_ifsc_climbing_worldcup_-chamonix_[fra]_lead_men.csv
---2016_july_12_ifsc_climbing_worldcup_-chamonix_[fra]_lead_women.csv
 --2016_july_12_ifsc_climbing_worldcup_-chamonix_[fra]_speed_men.csv
+IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2023
+--2016_july_12_ifsc_climbing_worldcup_-chamonix_[fra]_lead_women.csv
 --2016_july_12_ifsc_climbing_worldcup_-chamonix_[fra]_speed_women.csv
 IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016
 --2016_july_16_ifsc_climbing_worldcup_villars_[sui]_lead_men.csv
@@ -819,7 +820,6 @@ IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
 --2008_july_20_ifsc_climbing_worldcup_val_daone_[ita]_speed_men.csv
 --2008_july_20_ifsc_climbing_worldcup_val_daone_[ita]_speed_women.csv
 IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008
---2008_september_13_ifsc_climbing_worldcup_bern_[sui]_lead_men.csv
 --2008_september_13_ifsc_climbing_worldcup_bern_[sui]_lead_women.csv
 IFSC Climbing Worldcup (L) - Bern (SUI) 2008
 --2008_september_20_ifsc_climbing_worldcup_imst_[aut]_lead_men.csv
@@ -872,7 +872,6 @@ IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007
 --2007_august_12_ifsc_climbing_worldcup_qinghai_[chn]_lead_women.csv
 IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
 --2007_september_23_ifsc_climbing_world_championship_aviles_[esp]_lead_women.csv
---2007_september_23_ifsc_climbing_world_championship_aviles_[esp]_boulder_men.csv
 --2007_september_23_ifsc_climbing_world_championship_aviles_[esp]_boulder_women.csv
 IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
 --2007_september_29_ifsc_climbing_worldcup_puurs_[bel]_lead_men.csv
