@@ -22,6 +22,49 @@ config = {
       }
 }
 
+def gen_menu(active, buttons):
+    """
+    Generates menu configurations for dropdown.
+    
+    active: default button to have upon generation
+    buttons: list of different menu options
+    """
+    updatemenus = [
+        go.layout.Updatemenu(
+            active=active,
+            buttons=buttons,
+            x=1.12,
+            xanchor='right',
+            y=1.1,
+            yanchor='top'
+        )
+    ]
+    return updatemenus
+
+def gen_buttons(vals):
+    """
+    Generates dropdown menu buttons.
+    
+    vals: list of values to turn into buttons
+    """
+    buttons_opts = []
+    for i, val in enumerate(vals):
+        args = [False] * len(vals)
+        args[i] = True
+
+        buttons_opts.append(
+            dict(
+                method='update',
+                label=val,
+                args=[{
+                    'visible': args, #this is the key line!
+                    'title': val,
+                    'showlegend': False
+                }]
+            )
+        )
+    return buttons_opts
+
 def gen_bar_top20(df, title, sub, country=False, orientation='h'):
     """
     Displays an interactive plotly graph using the given column and dataframe.
@@ -60,34 +103,12 @@ def gen_bar_top20(df, title, sub, country=False, orientation='h'):
                    ))
     
     # Define buttons for dropdown
-    col_opts = list(cols)
-    buttons_opts = []
-    for i, opt in enumerate(col_opts):
-        args = [False] * len(col_opts)
-        args[i] = True
-        buttons_opts.append(
-            dict(
-                method='restyle',
-                label=opt,
-                args=[{
-                    'visible': args, #this is the key line!
-                    'title': opt,
-                    'showlegend': False
-                }]
-            )
-        )
+    buttons_opts = gen_buttons(cols)
         
     # Styling
     title = f"{title}<br><sup>{sub}"
     fig.update_layout(
-        updatemenus = [go.layout.Updatemenu(
-            active=active,
-            buttons=buttons_opts,
-            x=1.12,
-            xanchor='right',
-            y=1.1,
-            yanchor='top'
-            )],
+        updatemenus = gen_menu(active, buttons_opts),
         xaxis={
             'showgrid': True
         },
@@ -108,8 +129,7 @@ def gen_bar_top20(df, title, sub, country=False, orientation='h'):
     
     return fig.show(config=config)
 
-
-def gen_bar_top5(df, col, title):
+def gen_bar_top10(df, col, title):
     """
     Displays an interactive plotly graph using the given column and dataframe.
     
@@ -118,59 +138,40 @@ def gen_bar_top5(df, col, title):
     title: title (and subtitle) for given visualization
     """
     vals = list(df[col].unique().astype(str))
+    color_discrete_map = {"M": "#10baee", "F": "#ff007e"}
+    active = len(vals)-1
     
     # Creates graph object figure
     fig = go.Figure()
 
-    # Creates dictionary of dataframes
-    top5_dict = {}
-    if df[col].dtype == 'object': #strings
-        for val in vals:
-            top5_dict[val] = df[df[col] == val]
-    else: #ints
-        for val in vals:
-            top5_dict[val] = df[df[col] == int(val)]
-
     # Adds trace for each year to our graph object
     for val in vals:
+        if df[col].dtype == 'object': #strings
+            dfp = df[df[col] == val]
+        else: #int
+            dfp = df[df[col] == int(val)]
+        
+        # Get color for gender
+        g = dfp['Gender']
+        colors = [color_discrete_map[x] for x in g]
+        
         fig.add_trace(
             go.Bar(
-                x=top5_dict[val]['Name'],
-                y=top5_dict[val]['Podiums'],
-                name=val,
-                marker=dict(color='#10baee'),
+                x=dfp['Name'],
+                y=dfp['Podiums'],
+                name='',
+                marker_color=colors,
+                hovertemplate="<b>%{x}</b><br>Podiums: %{y}",
                 visible=True if val == vals[-1] else False
             )
         )
 
     # Creates list of buttons for each year
-    buttons_opts = []
-    for i, val in enumerate(vals):
-        args = [False] * len(vals)
-        args[i] = True
-
-        buttons_opts.append(
-            dict(
-                method='update',
-                label=val,
-                args=[{
-                    'visible': args, #this is the key line!
-                    'title': val,
-                    'showlegend': False
-                }]
-            )
-        )
+    buttons_opts = gen_buttons(vals)
 
     # Styling
     fig.update_layout(
-        updatemenus = [go.layout.Updatemenu(
-            active=len(vals)-1,
-            buttons=buttons_opts,
-            x=1.12,
-            xanchor='right',
-            y=1.1,
-            yanchor='top'
-            )],
+        updatemenus = gen_menu(active, buttons_opts),
         yaxis={ 
             'tickvals': [*range(0, 64)]
         },
@@ -232,6 +233,7 @@ def gen_choro(df, title, sub, slider):
     
     df: dataframe containing relevant data
     title, sub: title & subtitle for the visualization
+    slider: list for slider values
     """    
     data_bal = []
     for i in slider:
@@ -335,6 +337,15 @@ def plot_event(df, title, sub):
     """
     # Plot specifics
     cols = ['Climbers', 'Q_Top', 'S_Top', 'F_Top', 'Q_Top%', 'S_Top%', 'F_Top%']
+    hovtext = {
+        'Climbers': '# of Climbers',
+        'Q_Top': '# of Tops in Qualifier',
+        'S_Top': '# of Tops in Semi-Finals',
+        'F_Top': '# of Tops in Finals',
+        'Q_Top%': '% of Tops in Qualifier',
+        'S_Top%': '% of Tops in Semi-Finals',
+        'F_Top%': '% of Tops in Finals'        
+    }
     # color_discrete_map = {"M": "#10baee", "F": "#ff007e"}
     active = 4
     
@@ -347,7 +358,7 @@ def plot_event(df, title, sub):
                    y=df[col],
                    # color=df[['Q_Top', 'S_Top', 'F_Top']],
                    name='', 
-                   customdata=[f'Total {col}s']*len(df),
+                   customdata=[hovtext[col]] * len(df),
                    # marker_color=colors,
                    marker={'color': '#10baee'},
                    hovertemplate="<b>%{x}</b><br>%{customdata}: %{y:.2f}",
@@ -355,34 +366,12 @@ def plot_event(df, title, sub):
                    ))
     
     # Define buttons for dropdown
-    col_opts = list(cols)
-    buttons_opts = []
-    for i, opt in enumerate(col_opts):
-        args = [False] * len(col_opts)
-        args[i] = True
-        buttons_opts.append(
-            dict(
-                method='restyle',
-                label=opt,
-                args=[{
-                    'visible': args, #this is the key line!
-                    'title': opt,
-                    'showlegend': False
-                }]
-            )
-        )
+    buttons_opts = gen_buttons(cols)
         
     # Styling
     title = f"{title}<br><sup>{sub}"
     fig.update_layout(
-        updatemenus = [go.layout.Updatemenu(
-            active=active,
-            buttons=buttons_opts,
-            x=1.12,
-            xanchor='right',
-            y=1.1,
-            yanchor='top'
-            )],
+        updatemenus = gen_menu(active, buttons_opts),
         xaxis={
             'showgrid': False,
             'showline': True,
