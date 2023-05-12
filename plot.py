@@ -483,5 +483,6 @@ def plot_event_multi(title, sub, df1, df2, df3):
         xaxis3=dict(showline=True, linecolor='black'),
         yaxis3=dict(showgrid=True, gridcolor='#cbcbcb', linecolor='black', showline=False)
     )
+    fig.update_annotations(font_size=24)
     
     return fig.show(config=config)
