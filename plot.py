@@ -4,6 +4,7 @@ import cufflinks as cf
 import chart_studio.plotly as py
 import plotly.express as px
 import plotly.graph_objects as go
+from plotly.subplots import make_subplots
 import matplotlib.pyplot as plt
 
 from plotly.offline import download_plotlyjs, init_notebook_mode
@@ -22,6 +23,44 @@ config = {
       }
 }
 
+def gen_layout(fig, title, title_size=40, legendy_anchor='bottom', legendx_anchor='center', 
+               width=1000, height =600, plot_bg='#f0f0f0', paper_bg='#f0f0f0', 
+               y_title=None, x_title=None, l_mar=45, r_mar=45, t_mar=115, b_mar=45, 
+               x_showline=False, y_showline=False, linecolor='black', y_labels=True, 
+               gridcolor='#cbcbcb', barmode='group', x_showgrid=False, y_showgrid=False,
+               fontcolor="#001c40", fontsize=14):
+    
+    fig.update_layout(
+        title=dict(text=title, font=dict(size=title_size, family="Oswald, Bold", color=fontcolor)),
+        width=width,
+        height=height,
+        barmode=barmode,
+        plot_bgcolor=plot_bg,
+        paper_bgcolor=paper_bg,
+        yaxis_title=y_title,
+        xaxis_title=x_title,
+        margin=dict(l=l_mar, r=r_mar, t=t_mar, b=b_mar),        
+        xaxis=dict(
+            showgrid=x_showgrid,
+            showline=x_showline,
+            linecolor=linecolor,
+            gridcolor=gridcolor
+        ),
+        yaxis=dict(
+            showgrid=y_showgrid,
+            showline=y_showline,
+            showticklabels=y_labels,
+            linecolor=linecolor,
+            gridcolor=gridcolor
+        ),
+        font=dict(
+            family="Oswald, Light",
+            color=fontcolor,
+            size=fontsize
+        )
+    )
+    return fig
+
 def gen_menu(active, buttons):
     """
     Generates menu configurations for dropdown.
@@ -33,7 +72,7 @@ def gen_menu(active, buttons):
         go.layout.Updatemenu(
             active=active,
             buttons=buttons,
-            x=1.12,
+            x=1.0,
             xanchor='right',
             y=1.1,
             yanchor='top'
@@ -41,16 +80,24 @@ def gen_menu(active, buttons):
     ]
     return updatemenus
 
-def gen_buttons(vals):
+def gen_buttons(vals, multi=0):
     """
     Generates dropdown menu buttons.
     
     vals: list of values to turn into buttons
     """
-    buttons_opts = []
-    for i, val in enumerate(vals):
-        args = [False] * len(vals)
-        args[i] = True
+    buttons_opts = []    
+    i = 0
+    for val in vals:
+        if multi:
+            multivals = [v for v in vals for i in range(3)]
+            args = [False] * len(multivals)
+            args[i:i+3] = [True] * 3
+            i += 3
+        else:
+            args = [False] * len(vals)
+            args[i] = True
+            i += 1
 
         buttons_opts.append(
             dict(
@@ -75,7 +122,7 @@ def gen_bar_top20(df, title, sub, country=False, orientation='h'):
     # Plot specifics
     cols = ['Qualification', 'Semi-Final', 'Final', 
             'Podium', 'Bronze', 'Silver', 'Gold']
-    color_discrete_map = {"M": "#10baee", "F": "#ff007e"}
+    color_discrete_map = {"M": "#00cfe6", "F": "#ff007e", "N": "#ac8639"}
     active = 3 # Default column to show - 3: Podium
     
     # Define plot
@@ -84,7 +131,7 @@ def gen_bar_top20(df, title, sub, country=False, orientation='h'):
         dfp = df.sort_values(col, ascending=False)[:20]
         
         if country:
-            colors = ["#10baee"] * 20
+            colors = ["#ac8639"] * 20
             y = dfp['Country']
         else:
             g = dfp['Gender']
@@ -107,29 +154,23 @@ def gen_bar_top20(df, title, sub, country=False, orientation='h'):
         
     # Styling
     title = f"{title}<br><sup>{sub}"
+    fig = gen_layout(fig, title, l_mar=105, r_mar=25, t_mar=95, b_mar=45)
     fig.update_layout(
         updatemenus = gen_menu(active, buttons_opts),
         xaxis={
-            'showgrid': True
+            'showgrid': True,
         },
         yaxis={
             'autorange': "reversed",
             'showline': True,
             'linecolor': 'black',
             'title': None
-        },
-        title=dict(text=title, font=dict(size=30)),
-        showlegend=False,
-        width=1000,
-        height=600,
-        plot_bgcolor='#f0f0f0',
-        paper_bgcolor='#f0f0f0',
-        margin=dict(l=105, r=25, t=95, b=45)
+        }
     )
     
     return fig.show(config=config)
 
-def gen_bar_top10(df, col, title):
+def gen_bar_top10(df, col, title, sub):
     """
     Displays an interactive plotly graph using the given column and dataframe.
     
@@ -138,7 +179,7 @@ def gen_bar_top10(df, col, title):
     title: title (and subtitle) for given visualization
     """
     vals = list(df[col].unique().astype(str))
-    color_discrete_map = {"M": "#10baee", "F": "#ff007e"}
+    color_discrete_map = {"M": "#00cfe6", "F": "#ff007e"}
     active = len(vals)-1
     
     # Creates graph object figure
@@ -170,61 +211,35 @@ def gen_bar_top10(df, col, title):
     buttons_opts = gen_buttons(vals)
 
     # Styling
+    title = f"{title}<br><sup>{sub}"
+    fig = gen_layout(fig, title, l_mar=85, r_mar=85, t_mar=95, b_mar=45, y_showgrid=True, x_showline=True)
     fig.update_layout(
         updatemenus = gen_menu(active, buttons_opts),
         yaxis={ 
             'tickvals': [*range(0, 64)]
-        },
-        title=dict(text=title, font=dict(size=30)),
-        width=1000,
-        height=600,
-        plot_bgcolor='#f0f0f0',
-        paper_bgcolor='#f0f0f0',
-        yaxis_title=None,
-        xaxis_title=None,
-        margin=dict(l=85, r=125, t=95, b=45)
-        # margin=dict(l=25, r=25, t=85, b=25)
-    )
-
-    fig.update_xaxes(
-        showline=True,
-        linecolor='black'
-    )
-
-    fig.update_yaxes(
-        showticklabels=True,
-        gridcolor='#cbcbcb'
+        }
     )
     
     return fig.show(config=config)
 
 def gen_line(df, title, sub):
-    fig = px.line(df,
-                  width=1000,
-                  height=600
-                 )
+    fig = go.Figure()
+    for col in df.columns[1:]:
+        fig.add_trace(
+            go.Scatter(x=df['Year'],
+                       y=df.loc[:,col],
+                       customdata=[f'{col}'] * len(df.columns[1:]),
+                       name=f'{col}',
+                       hovertemplate="<b>%{customdata}</b><br>%{x} Finalists: %{y}<extra></extra>"
+                      )
+        )
     
+    # Styling
     title = f"{title}<br><sup>{sub}"
-
-    fig.update_layout(
-        title=dict(text=title, font=dict(size=30)),
-        plot_bgcolor='#f0f0f0',
-        paper_bgcolor='#f0f0f0',
-        yaxis_title=None,
-        xaxis_title=None,
-        margin=dict(l=65, r=125, t=95, b=45)
-    )
-    fig.update_xaxes(
-        showline=True,
-        linecolor='black',
-        gridcolor='#cbcbcb'
-    )
-    fig.update_yaxes(
-        showticklabels=True,
-        gridcolor='#cbcbcb'
-    )
-    return fig
-
+    fig = gen_layout(fig, title, x_showgrid=True, y_showgrid=True, x_showline=True, 
+                     l_mar=65, r_mar=125, t_mar=95, b_mar=45)
+    
+    return fig.show(config=config)
 
 def gen_choro(df, title, sub, slider):
     """
@@ -242,7 +257,8 @@ def gen_choro(df, title, sub, slider):
                          locations=df.loc[i].index,
                          z=df.loc[i],
                          locationmode='ISO-3',
-                         colorbar=dict(title='# of Athletes'),
+                         coloraxis="coloraxis",
+                         # colorbar={"x": 0.8},
                          visible=True if i == slider[-1] else False
                         )
                    ]    
@@ -263,24 +279,22 @@ def gen_choro(df, title, sub, slider):
                     pad={"t": 20},
                     steps=steps)]
 
+    fig = go.Figure(data=data_bal)#, layout=layout)
+    
     # Plot layout
-    title = f"{title}<br><sup>{sub}"
-    layout = dict(title=dict(text=title,
-                             font=dict(size=30)),
-                  geo=dict(scope='world',
-                           projection=dict()),
-                  sliders=sliders,
-                  width=1000,
-                  height=600,
-                  plot_bgcolor='#f0f0f0',
-                  paper_bgcolor='#f0f0f0')
-
-    fig = go.Figure(data=data_bal, layout=layout)
-    fig.update_layout(autotypenumbers='strict')
+    title = f"{title}<br><sup>{sub}"    
+    fig = gen_layout(fig, title, t_mar=115)
+    fig.update_layout(
+        autotypenumbers='strict',
+        geo=dict(scope='world', projection=dict()),
+        sliders=sliders,
+        coloraxis=dict(colorscale='Viridis',
+                       colorbar_thickness=20,
+                       colorbar_title='# of Athletes', 
+                       colorbar=dict(x=0.92)))
     return fig.show(config=config)
 
-
-def plot_heatmap(df, num=3):
+def plot_heatmap(df, title, sub, num=4):
     """
     Generates interesting heatmap displaying climbers finals appearances
     over time. Sorted by the weighted average of final appearance per year.
@@ -309,26 +323,19 @@ def plot_heatmap(df, num=3):
                       coloraxis="coloraxis"
                      )    
 
-    title = ("Finals Appearances Per Climber Per Year<br>"
-            "<sup>As new climbers enter the scene, the older climbers get phased out - though some remain dominant")
-
+    title = f"{title}<br><sup>{sub}"
     fig = go.Figure(heat)
-    fig.update_layout(width=1200, height=1400,
-                      title=dict(text=title,
-                                 font=dict(size=30)),
-                      coloraxis=dict(colorscale='Viridis',
+    fig = gen_layout(fig, title, width=1200, height=1400, x_showgrid=True, y_showgrid=True,
+                    l_mar=25, r_mar=25, t_mar=115, b_mar=45)
+    fig.update_layout(coloraxis=dict(colorscale='Viridis',
                                      colorbar_thickness=20),
-                      plot_bgcolor='#f0f0f0',
-                      paper_bgcolor='#f0f0f0',
-                      yaxis_autorange='reversed',
-                      yaxis=dict(autorange='reversed',
-                                 tickfont=dict(size=9)),
-                      margin=dict(l=25, r=25, t=85, b=45))
+                      yaxis=dict(tickfont=dict(size=12),
+                                 autorange='reversed'))
 
     return fig.show(config=config)
 
 
-def plot_event(df, title, sub):
+def plot_event(df, title, sub, orientation='v'):
     """
     Displays an interactive plotly graph using the given dataframe.
     
@@ -346,48 +353,135 @@ def plot_event(df, title, sub):
         'S_Top%': '% of Tops in Semi-Finals',
         'F_Top%': '% of Tops in Finals'        
     }
-    # color_discrete_map = {"M": "#10baee", "F": "#ff007e"}
+    color_discrete_map = {"M": "#00cfe6", "F": "#ff00ff"}
     active = 4
     
     # Define plot
     fig = go.Figure()
     for k, col in enumerate(cols):
-        df[col]
-        fig.add_traces(
-            go.Bar(x=df.index, 
-                   y=df[col],
-                   # color=df[['Q_Top', 'S_Top', 'F_Top']],
-                   name='', 
-                   customdata=[hovtext[col]] * len(df),
-                   # marker_color=colors,
-                   marker={'color': '#10baee'},
-                   hovertemplate="<b>%{x}</b><br>%{customdata}: %{y:.2f}",
-                   visible=True if k == active else False
-                   ))
+        if orientation == 'v':
+            fig.add_traces(            
+                go.Bar(x=df.index, 
+                       y=df[col],
+                       name='', 
+                       customdata=[hovtext[col]] * len(df),
+                       orientation=orientation,
+                       marker={'color': color_discrete_map["M"]},
+                       hovertemplate="<b>%{x}</b><br>%{customdata}: %{y:.2f}",
+                       visible=True if k == active else False
+                       ))
+        else:
+            fig.add_traces(
+                go.Bar(x=df[col], 
+                       y=df.index,
+                       name='', 
+                       customdata=[hovtext[col]] * len(df),
+                       orientation=orientation,
+                       marker={'color': color_discrete_map["M"]},
+                       hovertemplate="<b>%{x}</b><br>%{customdata}: %{y:.2f}",
+                       visible=True if k == active else False
+                       ))
     
     # Define buttons for dropdown
     buttons_opts = gen_buttons(cols)
         
     # Styling
     title = f"{title}<br><sup>{sub}"
+    fig = gen_layout(fig, title, l_mar=105, r_mar=25, t_mar=95, b_mar=45, x_showline=True)
     fig.update_layout(
         updatemenus = gen_menu(active, buttons_opts),
-        xaxis={
-            'showgrid': False,
-            'showline': True,
-            'linecolor': 'black'
-        },
         yaxis={
-            'showgrid': True,
-            'title': None
-        },
-        title=dict(text=title, font=dict(size=30)),
-        showlegend=False,
-        width=1000,
-        height=600,
-        plot_bgcolor='#f0f0f0',
-        paper_bgcolor='#f0f0f0',
-        margin=dict(l=105, r=25, t=95, b=45)
+            'showgrid': True if orientation=='v' else False
+        }
+    )
+    
+    return fig.show(config=config)
+
+def plot_event_multi(title, sub, df1, df2, df3):
+    # Plot specifics
+    col_labels = ['Climbers', 'Q_Top', 'S_Top', 'F_Top', 'Q_Top%', 'S_Top%', 'F_Top%']
+    hovtext = {
+        'Climbers': '# of Climbers',
+        'Q_Top': '# of Tops in Qualifier',
+        'S_Top': '# of Tops in Semi-Finals',
+        'F_Top': '# of Tops in Finals',
+        'Q_Top%': '% of Tops in Qualifier',
+        'S_Top%': '% of Tops in Semi-Finals',
+        'F_Top%': '% of Tops in Finals'        
+    }
+    color_discrete_map = {"M": "#00cfe6", "F": "#ff007e", "N": "#ac8639"}
+    active = 0
+    
+    fig = go.Figure()
+    fig = make_subplots(
+        rows=2, cols=2,
+        specs=[[{"rowspan": 2, "colspan":1}, {}],
+               [None, {}]],
+        column_widths=[0.6, 0.4],
+        vertical_spacing=0.1,
+        horizontal_spacing=0.06,
+        subplot_titles=("Event","Competition Location", "Year"))
+    
+    # Define plot    
+    for k, colm in enumerate(col_labels):
+        # Individual events plot
+        fig.add_trace(
+            go.Bar(x=df1[colm], 
+                   y=df1.index,
+                   name='', 
+                   customdata=[hovtext[colm]] * len(df1),
+                   orientation='h',
+                   marker={'color': color_discrete_map["N"]},
+                   hovertemplate="<b>%{y}</b><br>%{customdata}: %{x:.2f}",
+                   showlegend=False,
+                   visible=True if k == active else False
+                   ),
+            row=1, col=1)
+        
+        # Country plot
+        fig.add_trace(
+            go.Bar(x=df2.index, 
+                   y=df2[colm],
+                   name='', 
+                   customdata=[hovtext[colm]] * len(df2),
+                   orientation='v',
+                   marker={'color': color_discrete_map["N"]},
+                   hovertemplate="<b>%{x}</b><br>%{customdata}: %{y:.2f}",
+                   showlegend=False,
+                   visible=True if k == active else False
+                   ),
+            row=1, col=2)
+    
+        # Year plot
+        fig.add_trace(
+            go.Bar(x=df3.index, 
+                   y=df3[colm],
+                   name='', 
+                   customdata=[hovtext[colm]] * len(df3),
+                   orientation='v',
+                   marker={'color': color_discrete_map["N"]},
+                   hovertemplate="<b>%{x}</b><br>%{customdata}: %{y:.2f}",
+                   showlegend=False,
+                   visible=True if k == active else False
+                   ),
+            row=2, col=2)
+        
+    # Define buttons for dropdown
+    buttons_opts = gen_buttons(col_labels, 1)
+        
+    # Styling
+    title = f"{title}<br><sup>{sub}"
+    fig = gen_layout(fig, title, x_showline=True, width=1100, height=1000, t_mar=115, fontsize=12)
+    fig.update_layout(
+        updatemenus = gen_menu(active, buttons_opts),
+        xaxis=dict(showgrid=True, showline=False),
+        yaxis=dict(showline=True),
+        
+        xaxis2=dict(showline=True, linecolor='black'),
+        yaxis2=dict(showgrid=True, gridcolor='#cbcbcb', linecolor='black', showline=False),
+        
+        xaxis3=dict(showline=True, linecolor='black'),
+        yaxis3=dict(showgrid=True, gridcolor='#cbcbcb', linecolor='black', showline=False)
     )
     
     return fig.show(config=config)
