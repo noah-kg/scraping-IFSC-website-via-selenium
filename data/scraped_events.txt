@@ -327,7 +327,6 @@ IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2016
 IFSC Climbing Worldcup (B) - Vail (USA) 2016
 --2016_july_12_ifsc_climbing_worldcup_-chamonix_[fra]_lead_men.csv
 --2016_july_12_ifsc_climbing_worldcup_-chamonix_[fra]_speed_men.csv
-IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2023
 --2016_july_12_ifsc_climbing_worldcup_-chamonix_[fra]_lead_women.csv
 --2016_july_12_ifsc_climbing_worldcup_-chamonix_[fra]_speed_women.csv
 IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016
@@ -889,3 +888,11 @@ IFSC Climbing Worldcup (B) - Brno (CZE) 2007
 --2007_november_18_ifsc_climbing_worldcup_kranj_[slo]_lead_men.csv
 --2007_november_18_ifsc_climbing_worldcup_kranj_[slo]_lead_women.csv
 IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
+--2023_may_07_ifsc_climbing_world_cup_jakarta_[ina]_speed_men.csv
+--2023_may_07_ifsc_climbing_world_cup_jakarta_[ina]_speed_women.csv
+IFSC - Climbing World Cup (S) - Jakarta (INA) 2023
+--2023_may_21_ifsc_climbing_world_cup_salt_lake_city_[usa]_boulder_men.csv
+--2023_may_21_ifsc_climbing_world_cup_salt_lake_city_[usa]_boulder_women.csv
+--2023_may_21_ifsc_climbing_world_cup_salt_lake_city_[usa]_speed_men.csv
+--2023_may_21_ifsc_climbing_world_cup_salt_lake_city_[usa]_speed_women.csv
+IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2023
