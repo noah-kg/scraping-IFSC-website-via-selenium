@@ -896,3 +896,14 @@ IFSC - Climbing World Cup (S) - Jakarta (INA) 2023
 --2023_may_21_ifsc_climbing_world_cup_salt_lake_city_[usa]_speed_men.csv
 --2023_may_21_ifsc_climbing_world_cup_salt_lake_city_[usa]_speed_women.csv
 IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2023
+--2023_june_04_ifsc_climbing_world_cup_prague_[cze]_boulder_men.csv
+--2023_june_04_ifsc_climbing_world_cup_prague_[cze]_boulder_women.csv
+IFSC - Climbing World Cup (B) - Prague (CZE) 2023
+--2023_june_11_ifsc_climbing_world_cup_brixen_[ita]_boulder_men.csv
+--2023_june_11_ifsc_climbing_world_cup_brixen_[ita]_boulder_women.csv
+IFSC - Climbing World Cup (B) - Brixen (ITA) 2023
+--2023_june_18_ifsc_climbing_world_cup_innsbruck_[aut]_boulder_men.csv
+--2023_june_18_ifsc_climbing_world_cup_innsbruck_[aut]_boulder_women.csv
+--2023_june_18_ifsc_climbing_world_cup_innsbruck_[aut]_lead_men.csv
+--2023_june_18_ifsc_climbing_world_cup_innsbruck_[aut]_lead_women.csv
+IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2023
